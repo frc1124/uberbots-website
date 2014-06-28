@@ -1,0 +1,23 @@
+*		{padding:0px;margin:0px;}
+
+BODY	{background-image: url(images/background.jpg);
+		 background-position: center center;
+		 background-repeat:no-repeat;
+		 background-attachment:fixed;
+		 background-color:#000000;
+		 text-align:center;
+		 color:white;
+		 font-family:Arial, Helvetica, sans-serif;}
+		 
+.coolBox{text-align:center;
+		 border:2px solid #888;
+		 background-color:#FFF;
+		 font-size:24pt;}
+
+P		{margin:20px 0px 20px 0px;}
+
+A		{color:#FFF;
+		 text-decoration:underline;
+		}
+.underline{text-decoration:none;
+		}
