@@ -1,0 +1,28 @@
+<!-- Simple Scripts editing skin -->
+
+<script type="text/javascript" src="http://uberbots.org/omni/modules/mod_simpleScript/scripts.js"></script>
+
+<div name='type' id='type'>
+<h2>Choose Simple Script Type</h2>
+<select name="typeSelect_{{pageId}}_{{instanceId}}" id="typeSelect_{{pageId}}_{{instanceId}}" class='typeSelect' onchange="getVars($(this).attr('id'),this.value)">
+<option value="0">No Type</option>
+{{types}}
+</select><br>
+</div>
+<br>
+
+<div name='vars' id='vars'>
+</div>
+
+<button onclick="saveMod({{pageId}},{{instanceId}},{type:$('#typeSelect_{{pageId}}_{{instanceId}}').val()})">Save</button>
+
+<!--
+<h2>Edit Variables For Script</h2>
+<input type="hidden" name="ss_url" value="{{url}}">
+<input type="hidden" name="ss_scriptType" value="{{scriptType}}">
+<input type="hidden" name="ss_pageId" value="{{pageId}}">
+<input type="hidden" name="ss_instanceId" value="{{instanceId}}">
+<table>
+{{vars}}
+</table>
+-->

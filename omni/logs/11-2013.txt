@@ -1,0 +1,26 @@
+:anonymous::Fri Nov 1 2:00:02 EDT 2013:Logs Archived - 1383285602
+:anonymous::Mon Nov 4 2:00:04 EST 2013:Weekly Updates Sent
+andyzhao56@gmail.com:vampiressuck:71.234.120.36:Thu Nov 7 19:58:12 EST 2013:Added event with title Cosi Night starting on 1384632000 and ending on 1384653600
+andyzhao56@gmail.com:vampiressuck:71.234.120.36:Thu Nov 7 19:58:20 EST 2013:Added event with title Cosi Night starting on 1384632000 and ending on 1384653600
+andyzhao56@gmail.com:vampiressuck:71.234.120.36:Thu Nov 7 19:58:28 EST 2013:Added event with title Cosi Night starting on 1384632000 and ending on 1384653600
+andyzhao56@gmail.com:vampiressuck:71.234.120.36:Thu Nov 7 19:58:47 EST 2013:Deleted event with id of 548.
+andyzhao56@gmail.com:vampiressuck:71.234.120.36:Thu Nov 7 19:58:50 EST 2013:Deleted event with id of 547.
+andyzhao56@gmail.com:vampiressuck:71.234.120.36:Thu Nov 7 20:00:14 EST 2013:Added event with title Cosi Night starting on 1386360000 and ending on 1386381600
+micron1314@gmail.com:michael:72.10.96.132:Thu Nov 7 20:11:00 EST 2013:Edited event with ID: 541
+micron1314@gmail.com:michael:72.10.96.132:Thu Nov 7 20:11:24 EST 2013:Edited event with ID: 549
+micron1314@gmail.com:michael:72.10.96.132:Thu Nov 7 20:11:32 EST 2013:Edited event with ID: 549
+micron1314@gmail.com:michael:72.10.96.132:Thu Nov 7 20:32:55 EST 2013:Edited event with ID: 543
+:anonymous::Mon Nov 11 2:00:08 EST 2013:Weekly Updates Sent
+andyzhao56@gmail.com:vampiressuck:71.234.120.36:Mon Nov 11 7:03:46 EST 2013:Edited event with ID: 549
+justinniezrecki@gmail.com:j. niezrecki:24.60.224.66:Thu Nov 14 7:56:35 EST 2013:Deleted event with id of 542.
+justinniezrecki@gmail.com:j. niezrecki:24.60.224.66:Thu Nov 14 14:30:36 EST 2013:Added event with title ÜberBots Picture starting on 1384527780 and ending on 1384528500
+justinniezrecki@gmail.com:j. niezrecki:24.60.224.66:Thu Nov 14 14:30:37 EST 2013:Added event with title ÜberBots Picture starting on 1384527780 and ending on 1384528500
+micron1314@gmail.com:michael:72.10.96.132:Thu Nov 14 15:10:47 EST 2013:Deleted event with id of 552.
+cpjack23@gmail.com:cpjack233:72.10.96.132:Thu Nov 14 19:21:58 EST 2013:Mass email sent :Team Photo and Cosi Night
+:anonymous::Mon Nov 18 2:00:06 EST 2013:Weekly Updates Sent
+justinniezrecki@gmail.com:j. niezrecki:24.60.224.66:Mon Nov 18 9:51:54 EST 2013:Edited event with ID: 544
+justinniezrecki@gmail.com:j. niezrecki:24.60.224.66:Mon Nov 18 21:29:27 EST 2013:Added event with title Alumni Night starting on 1387497600 and ending on 1387504800
+micron1314@gmail.com:michael:72.10.96.132:Wed Nov 20 16:58:59 EST 2013:Edited event with ID: 544
+justinniezrecki@gmail.com:j. niezrecki:24.60.224.66:Thu Nov 21 21:20:42 EST 2013:Deleted event with id of 545.
+justinniezrecki@gmail.com:j. niezrecki:24.60.224.66:Thu Nov 21 21:23:53 EST 2013:Added event with title Meeting in the New Workshop starting on 1386115200 and ending on 1386122400
+:anonymous::Mon Nov 25 2:00:08 EST 2013:Weekly Updates Sent

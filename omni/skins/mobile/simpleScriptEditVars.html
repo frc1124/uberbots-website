@@ -1,0 +1,21 @@
+<!--<script type="text/javascript">
+$(document).ready(function(){
+	$('#varSubmit').click(function(){
+		var props = [];
+		var inputs = $('#varForm :input');
+		inputs.each(function(){
+			var i = $(this).attr('id');
+			var v = $('#'+i).attr('value');
+			props[i] = v;
+		});
+		saveMod({{pageId}},{{instanceId}},props);
+	});
+});
+</script> -->
+
+<h2>Edit Variables For Script</h2>
+<form id='varForm' name='varForm' method="" action="">
+<input type="hidden" name="type" id="type" value="{{scriptType}}" />
+{{vars}}
+</form>
+<button type="button" id="varSubmit" onclick="saveMod({{pageId}},{{instanceId}},{{map}})">Save</button>

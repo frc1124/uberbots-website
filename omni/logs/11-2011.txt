@@ -1,0 +1,105 @@
+:anonymous::Tue Nov 1 2:00:02 EDT 2011:Logs Archived - 1320127202
+plnyyanks@gmail.com:phil:71.234.198.104:Tue Nov 1 16:10:28 EDT 2011:Mass email sent :Events this Week
+plnyyanks@gmail.com:phil:71.234.198.104:Tue Nov 1 16:11:28 EDT 2011:sent SMS message: Team events taking place this week have been cancelled. Events will resume when school reopens. 
+plnyyanks@gmail.com:phil:71.234.198.104:Tue Nov 1 16:12:10 EDT 2011:Deleted event with id of 221.
+plnyyanks@gmail.com:phil:71.234.198.104:Fri Nov 4 12:41:39 EDT 2011:sent SMS message: This is a test of the UberBots mass SMS system. Please disregard this message.
+plnyyanks@gmail.com:phil:71.234.198.104:Fri Nov 4 18:58:42 EDT 2011:Mass email sent :Cleanup Day Cancelled
+plnyyanks@gmail.com:phil:71.234.198.104:Fri Nov 4 19:00:26 EDT 2011:sent SMS message: The cleanup day scheduled for tomorrow (11/5/11) has been cancelled. It will be rescheduled at the next meeting. Pass this message on to other team members.
+plnyyanks@gmail.com:phil:71.234.198.104:Fri Nov 4 19:01:05 EDT 2011:sent SMS message: The cleanup day scheduled for 11/5/11 has been cancelled. Please pass this message on to other team members.
+plnyyanks@gmail.com:phil:71.234.198.104:Fri Nov 4 19:01:47 EDT 2011:sent SMS message: Cleanup day has been cancelled. 
+mattshoward@comcast.net:foozie:65.96.104.42:Sat Nov 5 9:38:27 EDT 2011:Deleted event with id of 251.
+mattshoward@comcast.net:foozie:65.96.104.42:Sat Nov 5 9:38:31 EDT 2011:Deleted event with id of 250.
+:anonymous::Sun Nov 6 19:47:46 EST 2011:Uploaded file ../media/files/2012_Website_Award.pdf
+plnyyanks@gmail.com:phil:71.234.198.104:Sun Nov 6 19:59:58 EST 2011:Edited mod instance id '18' from pageId '7'
+plnyyanks@gmail.com:phil:71.234.198.104:Sun Nov 6 20:00:08 EST 2011:Edited mod instance id '18' from pageId '7'
+plnyyanks@gmail.com:phil:71.234.198.104:Sun Nov 6 20:00:20 EST 2011:updated page, ID= 7
+plnyyanks@gmail.com:phil:71.234.198.104:Sun Nov 6 20:00:26 EST 2011:updated page, ID= 75
+plnyyanks@gmail.com:phil:71.234.198.104:Sun Nov 6 20:01:27 EST 2011:Edited mod instance id '18' from pageId '7'
+plnyyanks@gmail.com:phil:71.234.198.104:Sun Nov 6 20:07:17 EST 2011:Edited event with ID: 222
+mattshoward@comcast.net:foozie:65.96.104.42:Sun Nov 6 20:15:30 EST 2011:Added mod 'Scripts' in pageId '9'
+mattshoward@comcast.net:foozie:65.96.104.42:Sun Nov 6 20:15:44 EST 2011:Edited mod instance id '34' from pageId '9'
+mattshoward@comcast.net:foozie:65.96.104.42:Sun Nov 6 20:31:52 EST 2011:Edited mod instance id '34' from pageId '9'
+mattshoward@comcast.net:foozie:65.96.104.42:Sun Nov 6 20:32:42 EST 2011:Edited mod instance id '34' from pageId '9'
+mattshoward@comcast.net:foozie:65.96.104.42:Sun Nov 6 20:34:17 EST 2011:Edited mod instance id '34' from pageId '9'
+mattshoward@comcast.net:foozie:65.96.104.42:Sun Nov 6 20:34:24 EST 2011:Resorted mods on pageId '9'
+mattshoward@comcast.net:foozie:65.96.104.42:Sun Nov 6 20:34:24 EST 2011:Resorted mods on pageId '0'
+mattshoward@comcast.net:foozie:65.96.104.42:Sun Nov 6 20:35:05 EST 2011:Resorted mods on pageId '0'
+mattshoward@comcast.net:foozie:65.96.104.42:Sun Nov 6 20:35:05 EST 2011:Resorted mods on pageId '9'
+mattshoward@comcast.net:foozie:65.96.104.42:Sun Nov 6 20:38:50 EST 2011:Resorted mods on pageId '9'
+mattshoward@comcast.net:foozie:65.96.104.42:Sun Nov 6 20:38:50 EST 2011:Resorted mods on pageId '0'
+mattshoward@comcast.net:foozie:65.96.104.42:Sun Nov 6 20:38:58 EST 2011:Added mod 'BBCode' in pageId '9'
+mattshoward@comcast.net:foozie:65.96.104.42:Sun Nov 6 20:39:26 EST 2011:Resorted mods on pageId '9'
+mattshoward@comcast.net:foozie:65.96.104.42:Sun Nov 6 20:39:26 EST 2011:Resorted mods on pageId '0'
+mattshoward@comcast.net:foozie:65.96.104.42:Sun Nov 6 20:39:52 EST 2011:Edited mod instance id '35' from pageId '9'
+mattshoward@comcast.net:foozie:65.96.104.42:Sun Nov 6 20:40:21 EST 2011:Edited mod instance id '35' from pageId '9'
+mattshoward@comcast.net:foozie:65.96.104.42:Sun Nov 6 20:40:39 EST 2011:Edited mod instance id '35' from pageId '9'
+mattshoward@comcast.net:foozie:65.96.104.42:Sun Nov 6 20:40:48 EST 2011:Edited mod instance id '35' from pageId '9'
+mattshoward@comcast.net:foozie:65.96.104.42:Sun Nov 6 20:40:57 EST 2011:Edited mod instance id '35' from pageId '9'
+mattshoward@comcast.net:foozie:65.96.104.42:Sun Nov 6 20:41:09 EST 2011:Edited mod instance id '35' from pageId '9'
+jtyost531@gmail.com:jutayo23:69.182.241.120:Sun Nov 6 22:38:12 EST 2011:Mass email sent :November 8th Cosi Fundraiser/Meeting
+plnyyanks@gmail.com:phil:71.234.198.104:Mon Nov 7 8:36:19 EST 2011:Edited event with ID: 222
+plnyyanks@gmail.com:phil:71.234.198.104:Mon Nov 7 11:05:11 EST 2011:Edited mod instance id '3' from pageId '10'
+plnyyanks@gmail.com:phil:71.234.198.104:Mon Nov 7 11:06:03 EST 2011:Edited mod instance id '3' from pageId '10'
+plnyyanks@gmail.com:phil:71.234.198.104:Mon Nov 7 11:06:23 EST 2011:Edited mod instance id '3' from pageId '10'
+plnyyanks@gmail.com:phil:71.234.198.104:Mon Nov 7 19:57:42 EST 2011:Edited mod instance id '5' from pageId '0'
+plnyyanks@gmail.com:phil:71.234.198.104:Mon Nov 7 19:58:37 EST 2011:Edited mod instance id '5' from pageId '0'
+plnyyanks@gmail.com:phil:71.234.198.104:Mon Nov 7 19:58:54 EST 2011:Edited mod instance id '5' from pageId '0'
+plnyyanks@gmail.com:phil:71.234.198.104:Mon Nov 7 20:01:13 EST 2011:Edited mod instance id '5' from pageId '0'
+plnyyanks@gmail.com:phil:71.234.198.104:Mon Nov 7 20:18:52 EST 2011:Edited mod instance id '5' from pageId '0'
+plnyyanks@gmail.com:phil:71.234.198.104:Mon Nov 7 21:33:47 EST 2011:Edited mod instance id '5' from pageId '0'
+plnyyanks@gmail.com:phil:71.234.198.104:Mon Nov 7 21:33:51 EST 2011:Resorted mods on pageId '1'
+plnyyanks@gmail.com:phil:71.234.198.104:Mon Nov 7 21:33:51 EST 2011:Resorted mods on pageId '0'
+plnyyanks@gmail.com:phil:71.234.198.104:Mon Nov 7 21:34:01 EST 2011:Edited mod instance id '5' from pageId '0'
+plnyyanks@gmail.com:phil:71.234.198.104:Mon Nov 7 21:34:16 EST 2011:Edited mod instance id '5' from pageId '0'
+plnyyanks@gmail.com:phil:71.234.198.104:Tue Nov 8 12:37:02 EST 2011:Tweeted 'Come support the ÜberBots today at Cosi's between 3 and 9!  #omgrobots'
+jtyost531@gmail.com:jutayo23:69.182.241.120:Thu Nov 10 19:43:49 EST 2011:Deleted event with id of 227.
+jtyost531@gmail.com:jutayo23:69.182.241.120:Thu Nov 10 19:44:43 EST 2011:Deleted event with id of 235.
+jtyost531@gmail.com:jutayo23:69.182.241.120:Thu Nov 10 19:44:46 EST 2011:Deleted event with id of 236.
+plnyyanks@gmail.com:phil:71.234.198.104:Thu Nov 10 22:54:28 EST 2011:Added event with title Cleanup Day starting on 1322920800 and ending on 1322949600
+:anonymous::Sun Nov 13 2:00:03 EST 2011:Weekly Updates Sent
+mattshoward@comcast.net:foozie:65.96.104.42:Mon Nov 14 15:40:04 EST 2011:Mass email sent :Club Picture Day
+mattshoward@comcast.net:foozie:65.96.104.42:Mon Nov 14 16:16:31 EST 2011:Added event with title Club Picture Day starting on 1321365000 and ending on 1321408500
+mattshoward@comcast.net:foozie:65.96.104.42:Mon Nov 14 16:17:03 EST 2011:Edited event with ID: 254
+:anonymous::Sun Nov 20 2:00:02 EST 2011:Weekly Updates Sent
+plnyyanks@gmail.com:phil:71.234.198.104:Sun Nov 20 13:30:38 EST 2011:Edited mod instance id '5' from pageId '0'
+plnyyanks@gmail.com:phil:71.234.198.104:Sun Nov 20 13:32:12 EST 2011:Edited mod instance id '5' from pageId '0'
+plnyyanks@gmail.com:phil:71.234.198.104:Sun Nov 20 13:32:57 EST 2011:Edited mod instance id '5' from pageId '0'
+plnyyanks@gmail.com:phil:71.234.198.104:Sun Nov 20 13:33:22 EST 2011:Edited mod instance id '5' from pageId '0'
+plnyyanks@gmail.com:phil:71.234.198.104:Sun Nov 20 13:34:57 EST 2011:Edited mod instance id '5' from pageId '0'
+plnyyanks@gmail.com:phil:71.234.198.104:Sun Nov 20 13:37:13 EST 2011:Edited mod instance id '5' from pageId '0'
+plnyyanks@gmail.com:phil:71.234.198.104:Sun Nov 20 13:37:48 EST 2011:Edited mod instance id '5' from pageId '0'
+plnyyanks@gmail.com:phil:71.234.198.104:Sun Nov 20 13:38:04 EST 2011:Edited mod instance id '5' from pageId '0'
+plnyyanks@gmail.com:phil:71.234.198.104:Sun Nov 20 13:38:22 EST 2011:Edited mod instance id '5' from pageId '0'
+jtyost531@gmail.com:jutayo23:69.182.241.120:Wed Nov 23 22:15:32 EST 2011:Edited event with ID: 253
+jtyost531@gmail.com:jutayo23:69.182.241.120:Wed Nov 23 22:17:34 EST 2011:Added event with title Bake Sale starting on 1323993600 and ending on 1324000800
+jtyost531@gmail.com:jutayo23:69.182.241.120:Wed Nov 23 22:20:00 EST 2011:Added event with title Safety Meeting starting on 1322784000 and ending on 1322791200
+:anonymous::Sun Nov 27 2:00:02 EST 2011:Weekly Updates Sent
+mtmerlin13@gmail.com:merlinius:71.235.219.39:Tue Nov 29 15:44:23 EST 2011:Added event with title Meeting starting on 1326151800 and ending on 1326160800
+mtmerlin13@gmail.com:merlinius:71.235.219.39:Tue Nov 29 15:44:41 EST 2011:Added event with title Meeting starting on 1326151800 and ending on 1326160800
+mtmerlin13@gmail.com:merlinius:71.235.219.39:Tue Nov 29 15:45:27 EST 2011:Added event with title Meeting starting on 1326238200 and ending on 1326420000
+mtmerlin13@gmail.com:merlinius:71.235.219.39:Tue Nov 29 15:45:52 EST 2011:Deleted event with id of 257.
+mtmerlin13@gmail.com:merlinius:71.235.219.39:Tue Nov 29 15:49:26 EST 2011:Added event with title Meeting starting on 1326042000 and ending on 1326060000
+mtmerlin13@gmail.com:merlinius:71.235.219.39:Tue Nov 29 15:55:15 EST 2011:Added event with title Meeting starting on 1329780600 and ending on 1330048800
+mtmerlin13@gmail.com:merlinius:71.235.219.39:Tue Nov 29 15:55:28 EST 2011:Added event with title Meeting starting on 1329175800 and ending on 1329444000
+mtmerlin13@gmail.com:merlinius:71.235.219.39:Tue Nov 29 15:55:37 EST 2011:Added event with title Meeting starting on 1328571000 and ending on 1328839200
+mtmerlin13@gmail.com:merlinius:71.235.219.39:Tue Nov 29 15:55:48 EST 2011:Added event with title Meeting starting on 1328139000 and ending on 1328234400
+mtmerlin13@gmail.com:merlinius:71.235.219.39:Tue Nov 29 15:56:21 EST 2011:Added event with title Meeting starting on 1328461200 and ending on 1328479200
+mtmerlin13@gmail.com:merlinius:71.235.219.39:Tue Nov 29 15:56:28 EST 2011:Added event with title Meeting starting on 1329066000 and ending on 1329084000
+mtmerlin13@gmail.com:merlinius:71.235.219.39:Tue Nov 29 15:56:36 EST 2011:Added event with title Meeting starting on 1329670800 and ending on 1329688800
+mtmerlin13@gmail.com:merlinius:71.235.219.39:Tue Nov 29 15:57:45 EST 2011:Added event with title Meeting starting on 1330174800 and ending on 1330201800
+mtmerlin13@gmail.com:merlinius:71.235.219.39:Tue Nov 29 15:57:59 EST 2011:Added event with title Meeting starting on 1329570000 and ending on 1329597000
+mtmerlin13@gmail.com:merlinius:71.235.219.39:Tue Nov 29 15:58:08 EST 2011:Added event with title Meeting starting on 1328965200 and ending on 1328992200
+mtmerlin13@gmail.com:merlinius:71.235.219.39:Tue Nov 29 15:58:10 EST 2011:Added event with title Meeting starting on 1328360400 and ending on 1328387400
+mtmerlin13@gmail.com:merlinius:71.235.219.39:Tue Nov 29 15:59:51 EST 2011:Added event with title Meeting starting on 1326546000 and ending on 1326573000
+mtmerlin13@gmail.com:merlinius:71.235.219.39:Tue Nov 29 15:59:54 EST 2011:Added event with title Meeting starting on 1327150800 and ending on 1327177800
+mtmerlin13@gmail.com:merlinius:71.235.219.39:Tue Nov 29 16:00:05 EST 2011:Added event with title Meeting starting on 1327755600 and ending on 1327782600
+mtmerlin13@gmail.com:merlinius:71.235.219.39:Tue Nov 29 16:00:44 EST 2011:Added event with title Meeting starting on 1326646800 and ending on 1326664800
+mtmerlin13@gmail.com:merlinius:71.235.219.39:Tue Nov 29 16:00:48 EST 2011:Added event with title Meeting starting on 1327251600 and ending on 1327269600
+mtmerlin13@gmail.com:merlinius:71.235.219.39:Tue Nov 29 16:00:57 EST 2011:Added event with title Meeting starting on 1327856400 and ending on 1327874400
+mtmerlin13@gmail.com:merlinius:71.235.219.39:Tue Nov 29 16:01:27 EST 2011:Added event with title Meeting starting on 1326756600 and ending on 1326852000
+mtmerlin13@gmail.com:merlinius:71.235.219.39:Tue Nov 29 16:01:34 EST 2011:Added event with title Meeting starting on 1327015800 and ending on 1327024800
+mtmerlin13@gmail.com:merlinius:71.235.219.39:Tue Nov 29 16:01:43 EST 2011:Added event with title Meeting starting on 1327966200 and ending on 1328061600
+mtmerlin13@gmail.com:merlinius:71.235.219.39:Tue Nov 29 16:01:56 EST 2011:Added event with title Meeting starting on 1327361400 and ending on 1327629600
+mtmerlin13@gmail.com:merlinius:71.235.219.39:Tue Nov 29 16:03:28 EST 2011:Added event with title NO MEETING starting on 1326929400 and ending on 1326938400
+mtmerlin13@gmail.com:merlinius:71.235.219.39:Tue Nov 29 16:03:59 EST 2011:Deleted event with id of 282.
+jtyost531@gmail.com:jutayo23:69.182.241.120:Wed Nov 30 18:41:27 EST 2011:Mass email sent :December Events Update

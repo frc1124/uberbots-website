@@ -1,0 +1,104 @@
+:anonymous::Sat Feb 1 2:00:02 EST 2014:Logs Archived - 1391238002
+:anonymous::Mon Feb 3 2:00:07 EST 2014:Weekly Updates Sent
+cyberfive97@gmail.com:cyberfive:198.7.62.204:Mon Feb 3 16:42:31 EST 2014:Edited event with ID: 597
+cyberfive97@gmail.com:cyberfive:198.7.62.204:Mon Feb 3 16:43:31 EST 2014:Edited event with ID: 591
+cyberfive97@gmail.com:cyberfive:198.7.62.204:Mon Feb 3 16:44:26 EST 2014:Added event with title Build Meeting starting on 1391814000 and ending on 1391824800
+cpjack23@gmail.com:cpjack233:72.10.96.132:Mon Feb 3 16:44:27 EST 2014:Mass email sent :February 3rd Meeting Cancelled
+justinniezrecki@gmail.com:j. niezrecki:24.60.224.66:Mon Feb 3 21:04:15 EST 2014:Added Special permissions for User lareau01 on page with ID of 11 with permissions type 1
+barbandjim92@gmail.com:lareau01:65.96.105.12:Mon Feb 3 21:12:31 EST 2014:Added event with title Build Meeting starting on 1393174800 and ending on 1393192800
+barbandjim92@gmail.com:lareau01:65.96.105.12:Mon Feb 3 21:13:00 EST 2014:Added event with title Build Meeting starting on 1393284600 and ending on 1393293600
+barbandjim92@gmail.com:lareau01:65.96.105.12:Mon Feb 3 21:13:08 EST 2014:Added event with title Build Meeting starting on 1393457400 and ending on 1393466400
+barbandjim92@gmail.com:lareau01:65.96.105.12:Mon Feb 3 21:16:22 EST 2014:Added event with title Build Meeting starting on 1393074000 and ending on 1393106400
+barbandjim92@gmail.com:lareau01:65.96.105.12:Mon Feb 3 21:19:10 EST 2014:Edited event with ID: 637
+barbandjim92@gmail.com:lareau01:65.96.105.12:Mon Feb 3 21:19:45 EST 2014:Edited event with ID: 634
+barbandjim92@gmail.com:lareau01:65.96.105.12:Mon Feb 3 21:20:40 EST 2014:Edited event with ID: 635
+barbandjim92@gmail.com:lareau01:65.96.105.12:Mon Feb 3 21:26:24 EST 2014:Edited event with ID: 636
+barbandjim92@gmail.com:lareau01:65.96.105.12:Mon Feb 3 21:27:44 EST 2014:Edited event with ID: 636
+barbandjim92@gmail.com:lareau01:65.96.105.12:Mon Feb 3 21:53:47 EST 2014:Deleted event with id of 631.
+barbandjim92@gmail.com:lareau01:65.96.105.12:Mon Feb 3 21:56:16 EST 2014:Edited event with ID: 597
+barbandjim92@gmail.com:lareau01:65.96.105.12:Wed Feb 5 8:34:24 EST 2014:Edited event with ID: 609
+barbandjim92@gmail.com:lareau01:65.96.105.12:Wed Feb 5 8:35:20 EST 2014:Added event with title Build Meeting starting on 1391864400 and ending on 1391896800
+barbandjim92@gmail.com:lareau01:65.96.105.12:Wed Feb 5 8:35:22 EST 2014:Added event with title Build Meeting starting on 1391864400 and ending on 1391896800
+barbandjim92@gmail.com:lareau01:65.96.105.12:Wed Feb 5 8:36:12 EST 2014:Deleted event with id of 638.
+barbandjim92@gmail.com:lareau01:65.96.105.12:Wed Feb 5 8:36:42 EST 2014:Deleted event with id of 609.
+micron1314@gmail.com:michael:72.10.96.132:Wed Feb 5 16:56:34 EST 2014:Edited mod instance id '6' from pageId '9'
+micron1314@gmail.com:michael:72.10.96.132:Wed Feb 5 16:56:48 EST 2014:Edited mod instance id '6' from pageId '9'
+micron1314@gmail.com:michael:72.10.96.132:Wed Feb 5 17:01:06 EST 2014:Edited mod instance id '6' from pageId '9'
+micron1314@gmail.com:michael:72.10.96.132:Wed Feb 5 17:01:27 EST 2014:Edited mod instance id '6' from pageId '9'
+barbandjim92@gmail.com:lareau01:65.96.105.12:Wed Feb 5 17:18:01 EST 2014:Edited event with ID: 599
+barbandjim92@gmail.com:lareau01:65.96.105.12:Wed Feb 5 17:18:56 EST 2014:Edited event with ID: 639
+barbandjim92@gmail.com:lareau01:65.96.105.12:Wed Feb 5 17:19:36 EST 2014:Edited event with ID: 639
+justinniezrecki@gmail.com:j. niezrecki:24.60.224.66:Wed Feb 5 20:11:48 EST 2014:Edited mod instance id '2' from pageId '1'
+barbandjim92@gmail.com:lareau01:65.96.105.12:Thu Feb 6 9:37:44 EST 2014:Edited event with ID: 603
+barbandjim92@gmail.com:lareau01:65.96.105.12:Thu Feb 6 9:41:20 EST 2014:Edited event with ID: 633
+cpjack23@gmail.com:cpjack233:72.10.96.132:Fri Feb 7 21:30:43 EST 2014:Mass email sent :Uber-Weekend!
+:anonymous::Mon Feb 10 2:00:07 EST 2014:Weekly Updates Sent
+:anonymous::Tue Feb 11 19:26:09 EST 2014:Uploaded file ../media/files/Shakedown at Suffield 2014 Permission Slip.docx
+:anonymous::Tue Feb 11 19:27:34 EST 2014:Uploaded file ../media/files/Shakedown at Suffield 2014 Permission Slip.pdf
+micron1314@gmail.com:michael:72.10.96.132:Wed Feb 12 15:08:41 EST 2014:Edited event with ID: 635
+micron1314@gmail.com:michael:72.10.96.132:Wed Feb 12 15:09:06 EST 2014:Edited event with ID: 621
+micron1314@gmail.com:michael:72.10.96.132:Wed Feb 12 15:09:32 EST 2014:Edited event with ID: 621
+micron1314@gmail.com:michael:72.10.96.132:Wed Feb 12 15:09:36 EST 2014:Edited event with ID: 635
+:anonymous::Thu Feb 13 13:41:16 EST 2014:Uploaded file ../media/files/Farmington Scrimage Release Form.pdf
+justinniezrecki@gmail.com:j. niezrecki:24.60.224.66:Thu Feb 13 14:43:07 EST 2014:Mass email sent :Crunch Time
+micron1314@gmail.com:michael:72.10.96.132:Thu Feb 13 18:23:00 EST 2014:Deleted event with id of 607.
+micron1314@gmail.com:michael:72.10.96.132:Fri Feb 14 19:37:55 EST 2014:Edited event with ID: 608
+barbandjim92@gmail.com:lareau01:65.96.105.12:Sun Feb 16 20:57:50 EST 2014:Edited event with ID: 632
+barbandjim92@gmail.com:lareau01:65.96.105.12:Sun Feb 16 20:58:17 EST 2014:Edited event with ID: 632
+justinniezrecki@gmail.com:j. niezrecki:24.60.224.66:Sun Feb 16 22:19:27 EST 2014:Edited mod instance id '20' from pageId '1'
+justinniezrecki@gmail.com:j. niezrecki:24.60.224.66:Sun Feb 16 22:20:55 EST 2014:Edited mod instance id '20' from pageId '1'
+:anonymous::Mon Feb 17 2:00:10 EST 2014:Weekly Updates Sent
+barbandjim92@gmail.com:lareau01:65.96.105.12:Mon Feb 17 15:29:47 EST 2014:Edited event with ID: 612
+barbandjim92@gmail.com:lareau01:65.96.105.12:Mon Feb 17 15:31:49 EST 2014:Deleted event with id of 612.
+barbandjim92@gmail.com:lareau01:65.96.105.12:Mon Feb 17 15:33:36 EST 2014:Added event with title Midnight BAGness starting on 1392742800 and ending on 1392785940
+barbandjim92@gmail.com:lareau01:65.96.105.12:Mon Feb 17 15:33:40 EST 2014:Added event with title Midnight BAGness starting on 1392742800 and ending on 1392785940
+barbandjim92@gmail.com:lareau01:65.96.105.12:Mon Feb 17 15:37:54 EST 2014:Deleted event with id of 641.
+barbandjim92@gmail.com:lareau01:65.96.105.12:Mon Feb 17 15:46:23 EST 2014:Edited event with ID: 620
+barbandjim92@gmail.com:lareau01:65.96.105.12:Mon Feb 17 15:52:26 EST 2014:Edited event with ID: 621
+barbandjim92@gmail.com:lareau01:65.96.105.12:Mon Feb 17 15:52:40 EST 2014:Edited event with ID: 622
+barbandjim92@gmail.com:lareau01:65.96.105.12:Mon Feb 17 15:54:55 EST 2014:Added event with title Team Meeting starting on 1393889400 and ending on 1393898400
+barbandjim92@gmail.com:lareau01:65.96.105.12:Mon Feb 17 15:58:06 EST 2014:Added event with title Team Meeting starting on 1394062200 and ending on 1394071200
+barbandjim92@gmail.com:lareau01:65.96.105.12:Mon Feb 17 15:58:55 EST 2014:Added event with title Team Meeting starting on 1394490600 and ending on 1394499600
+barbandjim92@gmail.com:lareau01:65.96.105.12:Mon Feb 17 16:00:37 EST 2014:Added event with title Team Meeting starting on 1394663400 and ending on 1394672400
+barbandjim92@gmail.com:lareau01:65.96.105.12:Mon Feb 17 16:01:52 EST 2014:Added event with title Team Meeting starting on 1394884800 and ending on 1394917200
+barbandjim92@gmail.com:lareau01:65.96.105.12:Mon Feb 17 16:02:13 EST 2014:Added event with title Team Meeting starting on 1394985600 and ending on 1395003600
+barbandjim92@gmail.com:lareau01:65.96.105.12:Mon Feb 17 16:02:35 EST 2014:Added event with title Team Meeting starting on 1395095400 and ending on 1395104400
+barbandjim92@gmail.com:lareau01:65.96.105.12:Mon Feb 17 16:04:45 EST 2014:Added event with title Team Meeting starting on 1395268200 and ending on 1395277200
+barbandjim92@gmail.com:lareau01:65.96.105.12:Mon Feb 17 16:04:55 EST 2014:Added event with title Team Meeting starting on 1395700200 and ending on 1395709200
+barbandjim92@gmail.com:lareau01:65.96.105.12:Mon Feb 17 16:05:02 EST 2014:Added event with title Team Meeting starting on 1395873000 and ending on 1395882000
+barbandjim92@gmail.com:lareau01:65.96.105.12:Mon Feb 17 16:05:32 EST 2014:Added event with title Team Meeting starting on 1395489600 and ending on 1395522000
+barbandjim92@gmail.com:lareau01:65.96.105.12:Mon Feb 17 16:05:45 EST 2014:Added event with title Team Meeting starting on 1395590400 and ending on 1395608400
+barbandjim92@gmail.com:lareau01:65.96.105.12:Mon Feb 17 16:06:11 EST 2014:Edited event with ID: 623
+barbandjim92@gmail.com:lareau01:65.96.105.12:Mon Feb 17 16:06:33 EST 2014:Edited event with ID: 624
+barbandjim92@gmail.com:lareau01:65.96.105.12:Mon Feb 17 16:06:51 EST 2014:Edited event with ID: 625
+barbandjim92@gmail.com:lareau01:65.96.105.12:Mon Feb 17 16:07:13 EST 2014:Edited event with ID: 626
+barbandjim92@gmail.com:lareau01:65.96.105.12:Mon Feb 17 16:08:12 EST 2014:Edited event with ID: 627
+barbandjim92@gmail.com:lareau01:65.96.105.12:Mon Feb 17 16:08:32 EST 2014:Edited event with ID: 628
+barbandjim92@gmail.com:lareau01:65.96.105.12:Mon Feb 17 16:08:53 EST 2014:Edited event with ID: 629
+barbandjim92@gmail.com:lareau01:65.96.105.12:Mon Feb 17 16:09:08 EST 2014:Edited event with ID: 630
+micron1314@gmail.com:michael:72.10.96.132:Mon Feb 17 19:12:26 EST 2014:Edited mod instance id '20' from pageId '1'
+justinniezrecki@gmail.com:j. niezrecki:24.60.224.66:Mon Feb 17 23:27:31 EST 2014:Edited event with ID: 640
+micron1314@gmail.com:michael:72.10.96.132:Wed Feb 19 8:53:38 EST 2014:Edited mod instance id '20' from pageId '1'
+barbandjim92@gmail.com:lareau01:65.96.105.12:Wed Feb 19 11:40:34 EST 2014:Added event with title Build Meeting - CANCELLED starting on 1392334200 and ending on 1392343200
+barbandjim92@gmail.com:lareau01:65.96.105.12:Wed Feb 19 11:40:52 EST 2014:Added event with title Build Meeting-CANCELLED starting on 1392334200 and ending on 1392343200
+barbandjim92@gmail.com:lareau01:65.96.105.12:Wed Feb 19 11:41:52 EST 2014:Deleted event with id of 653.
+barbandjim92@gmail.com:lareau01:65.96.105.12:Thu Feb 20 6:54:05 EST 2014:Added event with title Team Meeting starting on 1393678800 and ending on 1393711200
+barbandjim92@gmail.com:lareau01:65.96.105.12:Thu Feb 20 6:54:22 EST 2014:Added event with title Team Meeting starting on 1393779600 and ending on 1393797600
+barbandjim92@gmail.com:lareau01:65.96.105.12:Thu Feb 20 6:55:04 EST 2014:Added event with title Team Meeting starting on 1396305000 and ending on 1396314000
+barbandjim92@gmail.com:lareau01:65.96.105.12:Thu Feb 20 6:55:42 EST 2014:Deleted event with id of 657.
+barbandjim92@gmail.com:lareau01:65.96.105.12:Thu Feb 20 15:52:39 EST 2014:Deleted event with id of 635.
+barbandjim92@gmail.com:lareau01:65.96.105.12:Thu Feb 20 15:52:45 EST 2014:Deleted event with id of 636.
+barbandjim92@gmail.com:lareau01:65.96.105.12:Thu Feb 20 15:53:15 EST 2014:Deleted event with id of 641.
+barbandjim92@gmail.com:lareau01:65.96.105.12:Thu Feb 20 15:53:20 EST 2014:Deleted event with id of 642.
+barbandjim92@gmail.com:lareau01:65.96.105.12:Thu Feb 20 15:53:31 EST 2014:Deleted event with id of 643.
+barbandjim92@gmail.com:lareau01:65.96.105.12:Thu Feb 20 15:53:37 EST 2014:Deleted event with id of 644.
+barbandjim92@gmail.com:lareau01:65.96.105.12:Thu Feb 20 15:53:40 EST 2014:Deleted event with id of 647.
+barbandjim92@gmail.com:lareau01:65.96.105.12:Thu Feb 20 15:53:43 EST 2014:Deleted event with id of 648.
+barbandjim92@gmail.com:lareau01:65.96.105.12:Thu Feb 20 15:53:48 EST 2014:Deleted event with id of 649.
+barbandjim92@gmail.com:lareau01:65.96.105.12:Thu Feb 20 15:53:51 EST 2014:Deleted event with id of 650.
+barbandjim92@gmail.com:lareau01:65.96.105.12:Thu Feb 20 21:03:58 EST 2014:Added event with title Optional Fabrication Meeting starting on 1393025400 and ending on 1393034400
+barbandjim92@gmail.com:lareau01:65.96.105.12:Sun Feb 23 7:40:23 EST 2014:Added event with title Team Meeting starting on 1393284600 and ending on 1393293600
+barbandjim92@gmail.com:lareau01:65.96.105.12:Sun Feb 23 7:40:29 EST 2014:Added event with title Team Meeting starting on 1393457400 and ending on 1393466400
+barbandjim92@gmail.com:lareau01:65.96.105.12:Sun Feb 23 7:41:13 EST 2014:Added event with title Team Meeting starting on 1393889400 and ending on 1393898400
+barbandjim92@gmail.com:lareau01:65.96.105.12:Sun Feb 23 7:41:21 EST 2014:Added event with title Team Meeting starting on 1394062200 and ending on 1394071200
+:anonymous::Mon Feb 24 2:00:09 EST 2014:Weekly Updates Sent

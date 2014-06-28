@@ -1,0 +1,94 @@
+:anonymous::Fri Mar 1 2:00:03 EST 2013:Logs Archived - 1362121203
+plnyyanks@gmail.com:phil:71.234.198.104:Fri Mar 1 16:11:12 EST 2013:Added event with title Meeting starting on 1362178800 and ending on 1362189600
+plnyyanks@gmail.com:phil:71.234.198.104:Fri Mar 1 16:12:11 EST 2013:Mass email sent :Meeting Tonight
+plnyyanks@gmail.com:phil:71.234.198.104:Fri Mar 1 19:18:47 EST 2013:Edited event with ID: 435
+plnyyanks@gmail.com:phil:71.234.198.104:Sat Mar 2 15:06:04 EST 2013:Mass email sent :T-Shirt Orders and Button Templates
+:anonymous::Mon Mar 4 2:00:09 EST 2013:Weekly Updates Sent
+4edumail@comcast.net:aleck:24.60.224.18:Wed Mar 6 20:26:13 EST 2013:Added event with title Meeting starting on 1362699000 and ending on 1362708000
+4edumail@comcast.net:aleck:24.60.224.18:Wed Mar 6 20:26:18 EST 2013:Added event with title Meeting starting on 1362699000 and ending on 1362708000
+4edumail@comcast.net:aleck:24.60.224.18:Wed Mar 6 23:11:15 EST 2013:Deleted event with id of 477.
+ameya.shashank@hotmail.com:ameyashashank:69.177.91.235:Thu Mar 7 15:13:49 EST 2013:Mass email sent :Meeting Cancelled
+4edumail@comcast.net:aleck:24.60.224.18:Thu Mar 7 16:45:49 EST 2013:Deleted event with id of 476.
+plnyyanks@gmail.com:phil:71.234.198.104:Fri Mar 8 10:18:33 EST 2013:Mass email sent :Meeting Today
+plnyyanks@gmail.com:phil:71.234.198.104:Fri Mar 8 10:22:35 EST 2013:Mass email sent :Change of Plans
+plnyyanks@gmail.com:phil:71.234.198.104:Fri Mar 8 10:48:44 EST 2013:Mass email sent :New Meeting Times
+plnyyanks@gmail.com:phil:71.234.198.104:Fri Mar 8 10:49:25 EST 2013:Added event with title Meeting starting on 1362758400 and ending on 1362772800
+:anonymous::Mon Mar 11 2:00:04 EDT 2013:Weekly Updates Sent
+plnyyanks@gmail.com:phil:71.234.198.104:Tue Mar 12 22:04:54 EDT 2013:Added mod 'Scripts' in pageId '9'
+plnyyanks@gmail.com:phil:71.234.198.104:Tue Mar 12 22:05:06 EDT 2013:Edited mod instance id '36' from pageId '9'
+plnyyanks@gmail.com:phil:71.234.198.104:Tue Mar 12 22:09:58 EDT 2013:Edited mod instance id '36' from pageId '9'
+plnyyanks@gmail.com:phil:71.234.198.104:Tue Mar 12 22:17:29 EDT 2013:Edited mod instance id '33' from pageId '9'
+plnyyanks@gmail.com:phil:71.234.198.104:Tue Mar 12 22:17:40 EDT 2013:Added mod 'HTML' in pageId '9'
+plnyyanks@gmail.com:phil:71.234.198.104:Tue Mar 12 22:17:56 EDT 2013:Resorted mods on pageId '0'
+plnyyanks@gmail.com:phil:71.234.198.104:Tue Mar 12 22:17:56 EDT 2013:Resorted mods on pageId '9'
+plnyyanks@gmail.com:phil:71.234.198.104:Tue Mar 12 22:18:10 EDT 2013:Edited mod instance id '37' from pageId '9'
+plnyyanks@gmail.com:phil:71.234.198.104:Tue Mar 12 22:18:29 EDT 2013:Edited mod instance id '37' from pageId '9'
+plnyyanks@gmail.com:phil:71.234.198.104:Tue Mar 12 22:19:38 EDT 2013:Resorted mods on pageId '0'
+plnyyanks@gmail.com:phil:71.234.198.104:Tue Mar 12 22:19:38 EDT 2013:Resorted mods on pageId '9'
+plnyyanks@gmail.com:phil:71.234.198.104:Wed Mar 13 0:21:01 EDT 2013:Mass email sent :Hartford Regional Information
+:anonymous::Thu Mar 14 22:00:56 EDT 2013:uploaded picture 'P1040186.JPG' to album 'Movie Night' from 2012
+:anonymous::Thu Mar 14 22:01:16 EDT 2013:uploaded picture 'P1040188.JPG' to album 'Movie Night' from 2012
+:anonymous::Thu Mar 14 22:01:34 EDT 2013:uploaded picture 'P1040189.JPG' to album 'Movie Night' from 2012
+:anonymous::Thu Mar 14 22:01:51 EDT 2013:uploaded picture 'P1040190.JPG' to album 'Movie Night' from 2012
+:anonymous::Thu Mar 14 22:02:13 EDT 2013:uploaded picture 'P1040191.JPG' to album 'Movie Night' from 2012
+:anonymous::Thu Mar 14 22:02:27 EDT 2013:uploaded picture 'P1040194.JPG' to album 'Movie Night' from 2012
+:anonymous::Thu Mar 14 22:02:58 EDT 2013:uploaded picture 'P1040198.JPG' to album 'Movie Night' from 2012
+:anonymous::Thu Mar 14 22:03:38 EDT 2013:uploaded picture 'P1040200.JPG' to album 'Movie Night' from 2012
+:anonymous::Thu Mar 14 22:03:57 EDT 2013:uploaded picture 'P1040201.JPG' to album 'Movie Night' from 2012
+:anonymous::Thu Mar 14 22:05:15 EDT 2013:uploaded picture 'P1040187.AVI' to album 'Movie Night' from 2012
+:anonymous::Thu Mar 14 22:08:57 EDT 2013:uploaded picture 'P1040193.AVI' to album 'Movie Night' from 2012
+:anonymous::Thu Mar 14 22:09:02 EDT 2013:uploaded picture 'P1040196.JPG' to album 'Movie Night' from 2012
+:anonymous::Thu Mar 14 22:09:07 EDT 2013:uploaded picture 'P1040199.JPG' to album 'Movie Night' from 2012
+:anonymous::Thu Mar 14 22:10:59 EDT 2013:uploaded picture 'P1040192.AVI' to album 'Movie Night' from 2012
+plnyyanks@gmail.com:phil:71.234.198.104:Sun Mar 17 15:46:57 EDT 2013:Added Special permissions for User j. niezrecki on page with ID of 14 with permissions type 0
+plnyyanks@gmail.com:phil:71.234.198.104:Sun Mar 17 15:48:32 EDT 2013:Edited event with ID: 435
+:anonymous::Mon Mar 18 2:00:05 EDT 2013:Weekly Updates Sent
+plnyyanks@gmail.com:phil:71.234.198.104:Tue Mar 19 9:51:10 EDT 2013:Edited event with ID: 452
+plnyyanks@gmail.com:phil:71.234.198.104:Tue Mar 19 9:51:19 EDT 2013:Edited event with ID: 455
+plnyyanks@gmail.com:phil:71.234.198.104:Tue Mar 19 9:51:25 EDT 2013:Edited event with ID: 448
+plnyyanks@gmail.com:phil:71.234.198.104:Tue Mar 19 9:51:33 EDT 2013:Edited event with ID: 440
+plnyyanks@gmail.com:phil:71.234.198.104:Tue Mar 19 9:51:39 EDT 2013:Edited event with ID: 445
+plnyyanks@gmail.com:phil:71.234.198.104:Tue Mar 19 9:51:45 EDT 2013:Edited event with ID: 451
+plnyyanks@gmail.com:phil:71.234.198.104:Tue Mar 19 9:51:52 EDT 2013:Edited event with ID: 450
+:anonymous::Tue Mar 19 9:53:53 EDT 2013:Uploaded file ../media/files/Permission District Travel Consent and Waiver Form.pdf
+plnyyanks@gmail.com:phil:71.234.198.104:Tue Mar 19 9:56:58 EDT 2013:Edited event with ID: 435
+plnyyanks@gmail.com:phil:71.234.198.104:Tue Mar 19 10:10:19 EDT 2013:Mass email sent :Upcoming Events
+4edumail@comcast.net:aleck:24.60.224.18:Sun Mar 24 20:42:45 EDT 2013:Added event with title Meeting starting on 1364943600 and ending on 1364950800
+4edumail@comcast.net:aleck:24.60.224.18:Sun Mar 24 20:42:52 EDT 2013:Added event with title Meeting starting on 1365116400 and ending on 1365123600
+4edumail@comcast.net:aleck:24.60.224.18:Sun Mar 24 20:42:54 EDT 2013:Added event with title Meeting starting on 1365548400 and ending on 1365555600
+4edumail@comcast.net:aleck:24.60.224.18:Sun Mar 24 20:42:56 EDT 2013:Added event with title Meeting starting on 1365721200 and ending on 1365728400
+4edumail@comcast.net:aleck:24.60.224.18:Sun Mar 24 20:42:58 EDT 2013:Added event with title Meeting starting on 1366153200 and ending on 1366160400
+4edumail@comcast.net:aleck:24.60.224.18:Sun Mar 24 20:43:01 EDT 2013:Added event with title Meeting starting on 1366326000 and ending on 1366333200
+4edumail@comcast.net:aleck:24.60.224.18:Sun Mar 24 20:43:03 EDT 2013:Added event with title Meeting starting on 1366758000 and ending on 1366765200
+4edumail@comcast.net:aleck:24.60.224.18:Sun Mar 24 20:43:04 EDT 2013:Added event with title Meeting starting on 1366930800 and ending on 1366938000
+4edumail@comcast.net:aleck:24.60.224.18:Sun Mar 24 20:43:06 EDT 2013:Added event with title Meeting starting on 1367362800 and ending on 1367370000
+4edumail@comcast.net:aleck:24.60.224.18:Sun Mar 24 20:43:29 EDT 2013:Added event with title Meeting starting on 1367535600 and ending on 1367542800
+4edumail@comcast.net:aleck:24.60.224.18:Sun Mar 24 20:43:32 EDT 2013:Added event with title Meeting starting on 1367967600 and ending on 1367974800
+4edumail@comcast.net:aleck:24.60.224.18:Sun Mar 24 20:43:33 EDT 2013:Added event with title Meeting starting on 1368140400 and ending on 1368147600
+4edumail@comcast.net:aleck:24.60.224.18:Sun Mar 24 20:43:36 EDT 2013:Added event with title Meeting starting on 1368572400 and ending on 1368579600
+4edumail@comcast.net:aleck:24.60.224.18:Sun Mar 24 20:43:38 EDT 2013:Added event with title Meeting starting on 1368745200 and ending on 1368752400
+4edumail@comcast.net:aleck:24.60.224.18:Sun Mar 24 20:43:39 EDT 2013:Added event with title Meeting starting on 1369177200 and ending on 1369184400
+4edumail@comcast.net:aleck:24.60.224.18:Sun Mar 24 20:43:41 EDT 2013:Added event with title Meeting starting on 1369350000 and ending on 1369357200
+4edumail@comcast.net:aleck:24.60.224.18:Sun Mar 24 20:43:42 EDT 2013:Added event with title Meeting starting on 1369782000 and ending on 1369789200
+4edumail@comcast.net:aleck:24.60.224.18:Sun Mar 24 20:44:01 EDT 2013:Added event with title Meeting starting on 1369954800 and ending on 1369962000
+:anonymous::Mon Mar 25 2:00:04 EDT 2013:Weekly Updates Sent
+plnyyanks@gmail.com:phil:71.234.198.104:Tue Mar 26 21:03:52 EDT 2013:Edited event with ID: 450
+plnyyanks@gmail.com:phil:71.234.198.104:Tue Mar 26 22:52:49 EDT 2013:Edited mod instance id '22' from pageId '7'
+plnyyanks@gmail.com:phil:71.234.198.104:Tue Mar 26 22:54:43 EDT 2013:Edited mod instance id '22' from pageId '7'
+plnyyanks@gmail.com:phil:71.234.198.104:Tue Mar 26 23:19:36 EDT 2013:Edited mod instance id '20' from pageId '7'
+plnyyanks@gmail.com:phil:71.234.198.104:Tue Mar 26 23:20:35 EDT 2013:Edited mod instance id '21' from pageId '7'
+4edumail@comcast.net:aleck:24.60.224.18:Wed Mar 27 16:21:47 EDT 2013:Edited event with ID: 
+4edumail@comcast.net:aleck:24.60.224.18:Wed Mar 27 16:21:54 EDT 2013:Edited event with ID: 
+4edumail@comcast.net:aleck:24.60.224.18:Wed Mar 27 16:22:49 EDT 2013:Edited event with ID: 
+4edumail@comcast.net:aleck:24.60.224.18:Wed Mar 27 16:24:13 EDT 2013:Edited event with ID: 
+4edumail@comcast.net:aleck:24.60.224.18:Wed Mar 27 16:24:49 EDT 2013:Edited event with ID: 
+plnyyanks@gmail.com:phil:71.234.198.104:Wed Mar 27 20:20:44 EDT 2013:Mass email sent :Hartford Regional
+plnyyanks@gmail.com:phil:71.234.198.104:Sun Mar 31 20:34:35 EDT 2013:Deleted event with id of 477.
+plnyyanks@gmail.com:phil:71.234.198.104:Sun Mar 31 20:35:28 EDT 2013:Edited event with ID: 478
+plnyyanks@gmail.com:phil:71.234.198.104:Sun Mar 31 20:35:42 EDT 2013:Edited event with ID: 479
+plnyyanks@gmail.com:phil:71.234.198.104:Sun Mar 31 20:35:47 EDT 2013:Edited event with ID: 480
+plnyyanks@gmail.com:phil:71.234.198.104:Sun Mar 31 20:35:54 EDT 2013:Edited event with ID: 481
+plnyyanks@gmail.com:phil:71.234.198.104:Sun Mar 31 20:36:00 EDT 2013:Edited event with ID: 482
+plnyyanks@gmail.com:phil:71.234.198.104:Sun Mar 31 20:36:07 EDT 2013:Edited event with ID: 483
+plnyyanks@gmail.com:phil:71.234.198.104:Sun Mar 31 20:36:14 EDT 2013:Edited event with ID: 484
+plnyyanks@gmail.com:phil:71.234.198.104:Sun Mar 31 20:36:22 EDT 2013:Edited event with ID: 485

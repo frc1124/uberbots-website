@@ -1,0 +1,91 @@
+:anonymous::Thu Mar 1 2:00:02 EST 2012:Logs Archived - 1330585202
+:anonymous::Sat Mar 3 21:07:22 EST 2012:Uploaded file ../media/files/ÜberBots T 2012.doc
+:anonymous::Sun Mar 4 2:00:04 EST 2012:Weekly Updates Sent
+:anonymous::Sun Mar 4 16:45:54 EST 2012:Uploaded file ../media/files/ÜberBots Tshirt 2012.doc
+mtmerlin13@gmail.com:merlinius:71.235.219.39:Sun Mar 4 16:47:54 EST 2012:Mass email sent :T-Shirt Orders
+plnyyanks@gmail.com:phil:71.234.198.104:Sun Mar 4 19:39:27 EST 2012:Edited mod instance id '21' from pageId '7'
+:anonymous::Wed Mar 7 20:07:33 EST 2012:Uploaded file ../media/files/Hartford Regional Permission Slip 2012.doc
+laurenmcisaac@comcast.net:lauren:24.60.231.127:Wed Mar 7 20:20:20 EST 2012:Mass email sent :Hartford Regional Forms
+malay_shashank@hotmail.com:thing_1:69.0.14.177:Wed Mar 7 22:47:24 EST 2012:Edited mod instance id '21' from pageId '7'
+malay_shashank@hotmail.com:thing_1:69.0.14.177:Wed Mar 7 22:48:35 EST 2012:Edited mod instance id '21' from pageId '7'
+malay_shashank@hotmail.com:thing_1:69.0.14.177:Wed Mar 7 22:49:39 EST 2012:Edited mod instance id '21' from pageId '7'
+:anonymous::Wed Mar 7 23:00:20 EST 2012:uploaded picture 'Coopertition.bmp' to album '2012 Robot' from 2012
+:anonymous::Wed Mar 7 23:00:35 EST 2012:uploaded picture 'Electronics - cRIO + Digital Sidecar + D-Link.bmp' to album '2012 Robot' from 2012
+:anonymous::Wed Mar 7 23:00:55 EST 2012:uploaded picture 'Electronics - PDB + Breaker + 4Jags.bmp' to album '2012 Robot' from 2012
+:anonymous::Wed Mar 7 23:00:56 EST 2012:uploaded picture 'Front1.jpg' to album '2012 Robot' from 2012
+:anonymous::Wed Mar 7 23:01:12 EST 2012:uploaded picture 'Robot 1.bmp' to album '2012 Robot' from 2012
+:anonymous::Wed Mar 7 23:01:26 EST 2012:uploaded picture 'Robot 2.bmp' to album '2012 Robot' from 2012
+:anonymous::Wed Mar 7 23:01:42 EST 2012:uploaded picture 'Robot ISO 2.bmp' to album '2012 Robot' from 2012
+:anonymous::Wed Mar 7 23:01:43 EST 2012:uploaded picture 'Robot on Field2.jpg' to album '2012 Robot' from 2012
+:anonymous::Wed Mar 7 23:01:58 EST 2012:uploaded picture 'Tower2.bmp' to album '2012 Robot' from 2012
+:anonymous::Wed Mar 7 23:02:00 EST 2012:uploaded picture 'Two Robots Balancing.jpg' to album '2012 Robot' from 2012
+:anonymous::Sun Mar 11 3:00:04 EDT 2012:Weekly Updates Sent
+enigmoid@gmail.com:enigmoid:65.96.104.42:Tue Mar 13 16:37:52 EDT 2012:Edited mod instance id '4' from pageId '93'
+enigmoid@gmail.com:enigmoid:65.96.104.42:Tue Mar 13 16:39:15 EDT 2012:Edited mod instance id '14' from pageId '1'
+enigmoid@gmail.com:enigmoid:65.96.104.42:Tue Mar 13 16:41:01 EDT 2012:Reverted mod id on page id 1 and instance id 14 to edit state 36
+jtyost531@gmail.com:jutayo23:69.182.241.120:Thu Mar 15 17:49:38 EDT 2012:Mass email sent :Hartford and Upcoming Events
+:anonymous::Sun Mar 18 2:00:02 EDT 2012:Weekly Updates Sent
+malay_shashank@hotmail.com:thing_1:69.0.14.177:Sun Mar 18 20:09:19 EDT 2012:Mass email sent :Upcoming Events
+jtyost531@gmail.com:jutayo23:69.182.241.120:Wed Mar 21 22:02:58 EDT 2012:Mass email sent :Important Events
+:anonymous::Fri Mar 23 20:39:09 EDT 2012:uploaded picture 'DSCF0711.JPG' to album '2012 FLL Visit ' from 2012
+:anonymous::Fri Mar 23 20:39:34 EDT 2012:uploaded picture 'DSCF0712.JPG' to album '2012 FLL Visit ' from 2012
+:anonymous::Fri Mar 23 20:39:58 EDT 2012:uploaded picture 'DSCF0713.JPG' to album '2012 FLL Visit ' from 2012
+:anonymous::Fri Mar 23 20:40:23 EDT 2012:uploaded picture 'DSCF0714.JPG' to album '2012 FLL Visit ' from 2012
+:anonymous::Fri Mar 23 20:40:47 EDT 2012:uploaded picture 'DSCF0716.JPG' to album '2012 FLL Visit ' from 2012
+:anonymous::Fri Mar 23 20:41:12 EDT 2012:uploaded picture 'DSCF0717.JPG' to album '2012 FLL Visit ' from 2012
+:anonymous::Fri Mar 23 20:41:36 EDT 2012:uploaded picture 'DSCF0718.JPG' to album '2012 FLL Visit ' from 2012
+:anonymous::Fri Mar 23 20:42:01 EDT 2012:uploaded picture 'DSCF0720.JPG' to album '2012 FLL Visit ' from 2012
+:anonymous::Fri Mar 23 20:42:29 EDT 2012:uploaded picture 'DSCF0722.JPG' to album '2012 FLL Visit ' from 2012
+:anonymous::Fri Mar 23 20:42:57 EDT 2012:uploaded picture 'DSCF0725.JPG' to album '2012 FLL Visit ' from 2012
+:anonymous::Sun Mar 25 2:00:03 EDT 2012:Weekly Updates Sent
+plnyyanks@gmail.com:phil:71.234.198.104:Mon Mar 26 17:25:32 EDT 2012:Edited mod instance id '1' from pageId '71'
+plnyyanks@gmail.com:phil:71.234.198.104:Mon Mar 26 17:25:50 EDT 2012:Edited mod instance id '1' from pageId '71'
+plnyyanks@gmail.com:phil:71.234.198.104:Mon Mar 26 17:26:04 EDT 2012:Edited mod instance id '1' from pageId '71'
+plnyyanks@gmail.com:phil:71.234.198.104:Mon Mar 26 17:26:52 EDT 2012:Edited mod instance id '1' from pageId '71'
+plnyyanks@gmail.com:phil:71.234.198.104:Mon Mar 26 17:27:13 EDT 2012:Edited mod instance id '1' from pageId '71'
+plnyyanks@gmail.com:phil:71.234.198.104:Wed Mar 28 18:37:15 EDT 2012:Mass email sent :Connecticut Regional Schedule
+plnyyanks@gmail.com:phil:71.234.198.104:Wed Mar 28 22:01:23 EDT 2012:Tweeted 'Excited for the CT Regional! Good luck to all teams this weekend!  #omgrobots'
+plnyyanks@gmail.com:phil:71.234.198.104:Thu Mar 29 22:13:20 EDT 2012:updated page, ID= 71
+plnyyanks@gmail.com:phil:71.234.198.104:Thu Mar 29 22:14:05 EDT 2012:Edited mod instance id '8' from pageId '1'
+plnyyanks@gmail.com:phil:71.234.198.104:Thu Mar 29 22:14:23 EDT 2012:Edited mod instance id '8' from pageId '1'
+plnyyanks@gmail.com:phil:71.234.198.104:Thu Mar 29 22:15:17 EDT 2012:Edited mod instance id '8' from pageId '1'
+plnyyanks@gmail.com:phil:71.234.198.104:Thu Mar 29 22:16:32 EDT 2012:Edited mod instance id '8' from pageId '1'
+plnyyanks@gmail.com:phil:71.234.198.104:Thu Mar 29 22:17:03 EDT 2012:Edited mod instance id '8' from pageId '1'
+plnyyanks@gmail.com:phil:71.234.198.104:Thu Mar 29 22:17:46 EDT 2012:Reverted mod id on page id 1 and instance id 8 to edit state 43
+plnyyanks@gmail.com:phil:71.234.198.104:Thu Mar 29 22:19:15 EDT 2012:Edited mod instance id '8' from pageId '1'
+plnyyanks@gmail.com:phil:71.234.198.104:Thu Mar 29 22:19:31 EDT 2012:Edited mod instance id '8' from pageId '1'
+plnyyanks@gmail.com:phil:71.234.198.104:Sat Mar 31 23:19:56 EDT 2012:Edited mod instance id '8' from pageId '1'
+plnyyanks@gmail.com:phil:71.234.198.104:Sat Mar 31 23:20:35 EDT 2012:Edited mod instance id '20' from pageId '1'
+:anonymous::Sat Mar 31 23:48:57 EDT 2012:uploaded picture 'SDC10001.JPG' to album 'CT Regional' from 2012
+:anonymous::Sat Mar 31 23:49:21 EDT 2012:uploaded picture 'SDC10002.JPG' to album 'CT Regional' from 2012
+:anonymous::Sat Mar 31 23:49:53 EDT 2012:uploaded picture 'SDC10003.JPG' to album 'CT Regional' from 2012
+:anonymous::Sat Mar 31 23:50:21 EDT 2012:uploaded picture 'SDC10004.JPG' to album 'CT Regional' from 2012
+:anonymous::Sat Mar 31 23:50:45 EDT 2012:uploaded picture 'SDC10005.JPG' to album 'CT Regional' from 2012
+:anonymous::Sat Mar 31 23:51:12 EDT 2012:uploaded picture 'SDC10006.JPG' to album 'CT Regional' from 2012
+:anonymous::Sat Mar 31 23:51:38 EDT 2012:uploaded picture 'SDC10008.JPG' to album 'CT Regional' from 2012
+:anonymous::Sat Mar 31 23:52:05 EDT 2012:uploaded picture 'SDC10009.JPG' to album 'CT Regional' from 2012
+:anonymous::Sat Mar 31 23:52:19 EDT 2012:uploaded picture 'SDC10015.JPG' to album 'CT Regional' from 2012
+:anonymous::Sat Mar 31 23:52:40 EDT 2012:uploaded picture 'SDC10012.JPG' to album 'CT Regional' from 2012
+:anonymous::Sat Mar 31 23:53:08 EDT 2012:uploaded picture 'SDC10010.JPG' to album 'CT Regional' from 2012
+:anonymous::Sat Mar 31 23:53:20 EDT 2012:uploaded picture 'SDC10017.JPG' to album 'CT Regional' from 2012
+:anonymous::Sat Mar 31 23:53:31 EDT 2012:uploaded picture 'SDC10018.JPG' to album 'CT Regional' from 2012
+:anonymous::Sat Mar 31 23:53:44 EDT 2012:uploaded picture 'SDC10019.JPG' to album 'CT Regional' from 2012
+:anonymous::Sat Mar 31 23:54:18 EDT 2012:uploaded picture 'SDC10049.JPG' to album 'CT Regional' from 2012
+:anonymous::Sat Mar 31 23:54:42 EDT 2012:uploaded picture 'SDC10022.JPG' to album 'CT Regional' from 2012
+:anonymous::Sat Mar 31 23:55:14 EDT 2012:uploaded picture 'SDC10050.JPG' to album 'CT Regional' from 2012
+:anonymous::Sat Mar 31 23:55:39 EDT 2012:uploaded picture 'SDC10052.JPG' to album 'CT Regional' from 2012
+:anonymous::Sat Mar 31 23:56:05 EDT 2012:uploaded picture 'SDC10051.JPG' to album 'CT Regional' from 2012
+:anonymous::Sat Mar 31 23:56:38 EDT 2012:uploaded picture 'SDC10053.JPG' to album 'CT Regional' from 2012
+:anonymous::Sat Mar 31 23:57:00 EDT 2012:uploaded picture 'SDC10055.JPG' to album 'CT Regional' from 2012
+:anonymous::Sat Mar 31 23:57:26 EDT 2012:uploaded picture 'SDC10054.JPG' to album 'CT Regional' from 2012
+:anonymous::Sat Mar 31 23:57:53 EDT 2012:uploaded picture 'SDC10060.JPG' to album 'CT Regional' from 2012
+:anonymous::Sat Mar 31 23:58:15 EDT 2012:uploaded picture 'SDC10059.JPG' to album 'CT Regional' from 2012
+:anonymous::Sat Mar 31 23:58:34 EDT 2012:uploaded picture 'SDC10058.JPG' to album 'CT Regional' from 2012
+:anonymous::Sat Mar 31 23:59:02 EDT 2012:uploaded picture 'SDC10057.JPG' to album 'CT Regional' from 2012
+:anonymous::Sat Mar 31 23:59:23 EDT 2012:uploaded picture 'SDC10056.JPG' to album 'CT Regional' from 2012
+:anonymous::Sat Mar 31 23:59:53 EDT 2012:uploaded picture 'SDC10067.JPG' to album 'CT Regional' from 2012
+:anonymous::Sun Apr 1 0:00:18 EDT 2012:uploaded picture 'SDC10065.JPG' to album 'CT Regional' from 2012
+:anonymous::Sun Apr 1 0:00:39 EDT 2012:uploaded picture 'SDC10064.JPG' to album 'CT Regional' from 2012
+:anonymous::Sun Apr 1 0:01:05 EDT 2012:uploaded picture 'SDC10063.JPG' to album 'CT Regional' from 2012
+:anonymous::Sun Apr 1 0:01:28 EDT 2012:uploaded picture 'SDC10062.JPG' to album 'CT Regional' from 2012
+:anonymous::Sun Apr 1 0:01:48 EDT 2012:uploaded picture 'SDC10061.JPG' to album 'CT Regional' from 2012

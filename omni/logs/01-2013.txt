@@ -1,0 +1,52 @@
+:anonymous::Tue Jan 1 2:00:02 EST 2013:Logs Archived - 1357023602
+plnyyanks@gmail.com:phil:71.234.198.104:Wed Jan 2 17:22:23 EST 2013:Mass email sent :Upcoming Events
+plnyyanks@gmail.com:phil:71.234.198.104:Thu Jan 3 20:31:34 EST 2013:Mass email sent :Upcoming Events
+plnyyanks@gmail.com:phil:71.234.198.104:Fri Jan 4 23:09:35 EST 2013:Edited event with ID: 377
+plnyyanks@gmail.com:phil:71.234.198.104:Sat Jan 5 14:18:21 EST 2013:Edited mod instance id '20' from pageId '1'
+plnyyanks@gmail.com:phil:71.234.198.104:Sat Jan 5 14:19:31 EST 2013:Edited mod instance id '20' from pageId '1'
+plnyyanks@gmail.com:phil:71.234.198.104:Sat Jan 5 19:00:30 EST 2013:Added mod 'HTML' in pageId '7'
+plnyyanks@gmail.com:phil:71.234.198.104:Sat Jan 5 19:00:51 EST 2013:Resorted mods on pageId '0'
+plnyyanks@gmail.com:phil:71.234.198.104:Sat Jan 5 19:00:52 EST 2013:Resorted mods on pageId '7'
+plnyyanks@gmail.com:phil:71.234.198.104:Sat Jan 5 19:02:48 EST 2013:Edited mod instance id '22' from pageId '7'
+plnyyanks@gmail.com:phil:71.234.198.104:Sat Jan 5 19:03:26 EST 2013:Edited mod instance id '18' from pageId '7'
+plnyyanks@gmail.com:phil:71.234.198.104:Sat Jan 5 19:03:39 EST 2013:Edited mod instance id '22' from pageId '7'
+plnyyanks@gmail.com:phil:71.234.198.104:Sat Jan 5 19:04:18 EST 2013:added page Ultimate Ascent id 94 with parent 75
+plnyyanks@gmail.com:phil:71.234.198.104:Sat Jan 5 19:06:21 EST 2013:Edited mod instance id '2' from pageId '93'
+plnyyanks@gmail.com:phil:71.234.198.104:Sat Jan 5 19:06:50 EST 2013:Edited mod instance id '2' from pageId '93'
+plnyyanks@gmail.com:phil:71.234.198.104:Sat Jan 5 19:07:32 EST 2013:Edited mod instance id '22' from pageId '7'
+plnyyanks@gmail.com:phil:71.234.198.104:Sat Jan 5 19:10:11 EST 2013:Edited mod instance id '22' from pageId '7'
+plnyyanks@gmail.com:phil:71.234.198.104:Sat Jan 5 19:10:58 EST 2013:Edited mod instance id '22' from pageId '7'
+plnyyanks@gmail.com:phil:71.234.198.104:Sat Jan 5 19:12:02 EST 2013:Edited mod instance id '22' from pageId '7'
+plnyyanks@gmail.com:phil:71.234.198.104:Sat Jan 5 19:12:56 EST 2013:Edited mod instance id '21' from pageId '7'
+plnyyanks@gmail.com:phil:71.234.198.104:Sat Jan 5 19:13:29 EST 2013:Edited mod instance id '21' from pageId '7'
+plnyyanks@gmail.com:phil:71.234.198.104:Sat Jan 5 19:14:42 EST 2013:Edited mod instance id '22' from pageId '7'
+plnyyanks@gmail.com:phil:71.234.198.104:Sat Jan 5 19:15:21 EST 2013:Added mod 'HTML' in pageId '94'
+plnyyanks@gmail.com:phil:71.234.198.104:Sat Jan 5 19:18:00 EST 2013:Edited mod instance id '1' from pageId '94'
+plnyyanks@gmail.com:phil:71.234.198.104:Sat Jan 5 19:18:16 EST 2013:Added mod 'Filetree' in pageId '94'
+plnyyanks@gmail.com:phil:71.234.198.104:Sat Jan 5 19:18:40 EST 2013:Edited mod instance id '2' from pageId '94'
+plnyyanks@gmail.com:phil:71.234.198.104:Sat Jan 5 19:18:56 EST 2013:Added mod 'Picture Gallery' in pageId '94'
+plnyyanks@gmail.com:phil:71.234.198.104:Sat Jan 5 19:19:13 EST 2013:Edited mod instance id '3' from pageId '94'
+plnyyanks@gmail.com:phil:71.234.198.104:Sat Jan 5 19:19:38 EST 2013:Edited mod instance id '1' from pageId '94'
+plnyyanks@gmail.com:phil:71.234.198.104:Sat Jan 5 19:20:14 EST 2013:Added mod 'BBCode' in pageId '94'
+plnyyanks@gmail.com:phil:71.234.198.104:Sat Jan 5 19:21:05 EST 2013:Edited mod instance id '4' from pageId '94'
+plnyyanks@gmail.com:phil:71.234.198.104:Sat Jan 5 19:38:34 EST 2013:Edited mod instance id '8' from pageId '1'
+plnyyanks@gmail.com:phil:71.234.198.104:Sat Jan 5 19:39:16 EST 2013:Edited mod instance id '8' from pageId '1'
+plnyyanks@gmail.com:phil:71.234.198.104:Sat Jan 5 19:41:31 EST 2013:Edited mod instance id '8' from pageId '1'
+:anonymous::Mon Jan 7 2:00:04 EST 2013:Weekly Updates Sent
+:anonymous::Mon Jan 14 2:00:04 EST 2013:Weekly Updates Sent
+plnyyanks@gmail.com:phil:71.234.198.104:Wed Jan 16 14:18:03 EST 2013:Mass email sent :UberBots Meeting 1/16
+ameya.shashank@hotmail.com:ameyashashank:69.177.91.235:Fri Jan 18 12:05:35 EST 2013:Mass email sent :Important Announcements
+plnyyanks@gmail.com:phil:71.234.198.104:Fri Jan 18 12:08:17 EST 2013:Edited event with ID: 392
+plnyyanks@gmail.com:phil:71.234.198.104:Sun Jan 20 16:06:58 EST 2013:Edited event with ID: 392
+plnyyanks@gmail.com:phil:71.234.198.104:Sun Jan 20 16:40:42 EST 2013:Mass email sent :Meeting on January 21
+4edumail@comcast.net:aleck:24.60.224.18:Sun Jan 20 19:26:03 EST 2013:Added event with title Cosi Fundraiser starting on 1359144000 and ending on 1359165600
+:anonymous::Mon Jan 21 2:00:05 EST 2013:Weekly Updates Sent
+plnyyanks@gmail.com:phil:71.234.198.104:Thu Jan 24 13:05:35 EST 2013:Mass email sent :Tonight's Meeting
+plnyyanks@gmail.com:phil:71.234.198.104:Sun Jan 27 15:40:25 EST 2013:Deleted event with id of 460_1.
+plnyyanks@gmail.com:phil:71.234.198.104:Sun Jan 27 15:40:25 EST 2013:Deleted event with id of 460_1.
+plnyyanks@gmail.com:phil:71.234.198.104:Sun Jan 27 15:40:25 EST 2013:Deleted event with id of 460_0.
+plnyyanks@gmail.com:phil:71.234.198.104:Sun Jan 27 15:40:52 EST 2013:Added event with title Meeting starting on 1362834000 and ending on 1362866400
+plnyyanks@gmail.com:phil:71.234.198.104:Sun Jan 27 15:41:16 EST 2013:Added event with title Meeting starting on 1362931200 and ending on 1362949200
+:anonymous::Mon Jan 28 2:00:06 EST 2013:Weekly Updates Sent
+plnyyanks@gmail.com:phil:71.234.198.104:Mon Jan 28 14:20:32 EST 2013:Deleted event with id of 396.
+plnyyanks@gmail.com:phil:71.234.198.104:Mon Jan 28 14:21:59 EST 2013:Mass email sent :Meeting Today Cancelled

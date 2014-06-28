@@ -1,0 +1,27 @@
+:anonymous::Thu Aug 1 2:00:02 EDT 2013:Logs Archived - 1375336802
+micron1314@gmail.com:michael:72.10.96.132:Thu Aug 1 10:54:52 EDT 2013:Edited mod instance id '20' from pageId '1'
+:anonymous::Mon Aug 5 2:00:04 EDT 2013:Weekly Updates Sent
+:anonymous::Mon Aug 12 2:00:06 EDT 2013:Weekly Updates Sent
+niezreckage@gmail.com:niezreckage:71.234.120.36:Mon Aug 12 12:37:13 EDT 2013:Mass email sent :Summer Meeting
+micron1314@gmail.com:michael:72.10.96.132:Thu Aug 15 9:05:37 EDT 2013:Edited mod instance id '20' from pageId '1'
+:anonymous::Mon Aug 19 2:00:04 EDT 2013:Weekly Updates Sent
+micron1314@gmail.com:michael:72.10.96.132:Tue Aug 20 16:13:01 EDT 2013:Added mod 'Scripts' in pageId '1'
+micron1314@gmail.com:michael:72.10.96.132:Wed Aug 21 8:57:23 EDT 2013:Edited mod instance id '2' from pageId '1'
+justinniezrecki@gmail.com:j. niezrecki:24.60.224.66:Wed Aug 21 19:54:42 EDT 2013:Added event with title Meeting starting on 1378249200 and ending on 1378256400
+justinniezrecki@gmail.com:j. niezrecki:24.60.224.66:Wed Aug 21 20:04:21 EDT 2013:Added event with title NEW RECRUIT FUN NIGHT starting on 1379458800 and ending on 1379466000
+justinniezrecki@gmail.com:j. niezrecki:24.60.224.66:Wed Aug 21 20:05:41 EDT 2013:Edited event with ID: 511
+justinniezrecki@gmail.com:j. niezrecki:24.60.224.66:Wed Aug 21 20:08:11 EDT 2013:Added event with title Open House Meeting starting on 1379026800 and ending on 1379034000
+micron1314@gmail.com:michael:72.10.96.132:Sun Aug 25 8:57:08 EDT 2013:Edited mod instance id '20' from pageId '1'
+:anonymous::Mon Aug 26 2:00:05 EDT 2013:Weekly Updates Sent
+micron1314@gmail.com:michael:72.10.96.132:Thu Aug 29 11:51:37 EDT 2013:Edited mod instance id '20' from pageId '1'
+micron1314@gmail.com:michael:72.10.96.132:Thu Aug 29 11:52:18 EDT 2013:Edited mod instance id '20' from pageId '1'
+micron1314@gmail.com:michael:72.10.96.132:Thu Aug 29 15:56:36 EDT 2013:Resorted mods on pageId '69'
+micron1314@gmail.com:michael:72.10.96.132:Thu Aug 29 15:56:36 EDT 2013:Resorted mods on pageId '0'
+micron1314@gmail.com:michael:72.10.96.132:Thu Aug 29 15:57:19 EDT 2013:Added mod 'HTML' in pageId '69'
+micron1314@gmail.com:michael:72.10.96.132:Thu Aug 29 15:57:34 EDT 2013:Added mod 'HTML' in pageId '69'
+micron1314@gmail.com:michael:72.10.96.132:Thu Aug 29 15:58:05 EDT 2013:Deleted mod instance id '5' from pageId '69'
+micron1314@gmail.com:michael:72.10.96.132:Thu Aug 29 15:58:27 EDT 2013:Deleted mod instance id '21' from pageId '1'
+micron1314@gmail.com:michael:72.10.96.132:Thu Aug 29 15:59:58 EDT 2013:Edited mod instance id '4' from pageId '69'
+micron1314@gmail.com:michael:72.10.96.132:Thu Aug 29 16:00:25 EDT 2013:Resorted mods on pageId '0'
+micron1314@gmail.com:michael:72.10.96.132:Thu Aug 29 16:00:25 EDT 2013:Resorted mods on pageId '69'
+micron1314@gmail.com:michael:72.10.96.132:Thu Aug 29 16:00:38 EDT 2013:Edited mod instance id '4' from pageId '69'

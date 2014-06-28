@@ -1,0 +1,120 @@
+:anonymous::Wed Jan 1 2:00:02 EST 2014:Logs Archived - 1388559602
+anish.moorthy@gmail.com:anish:71.234.120.36:Sun Jan 5 11:24:51 EST 2014:Edited mod instance id '20' from pageId '1'
+justinniezrecki@gmail.com:j. niezrecki:24.60.224.66:Sun Jan 5 18:40:40 EST 2014:Edited mod instance id '20' from pageId '1'
+:anonymous::Mon Jan 6 2:00:06 EST 2014:Weekly Updates Sent
+justinniezrecki@gmail.com:j. niezrecki:24.60.224.66:Mon Jan 6 16:20:47 EST 2014:Mass email sent :Meeting Cancelation
+micron1314@gmail.com:michael:72.10.96.132:Tue Jan 7 11:16:32 EST 2014:Edited mod instance id '33' from pageId '9'
+:anonymous::Mon Jan 13 2:00:10 EST 2014:Weekly Updates Sent
+justinniezrecki@gmail.com:j. niezrecki:24.60.224.66:Tue Jan 14 10:15:18 EST 2014:Edited mod instance id '0' from pageId '18'
+justinniezrecki@gmail.com:j. niezrecki:24.60.224.66:Tue Jan 14 20:28:43 EST 2014:Added event with title Build Meeting starting on 1389999600 and ending on 1390010400
+justinniezrecki@gmail.com:j. niezrecki:24.60.224.66:Tue Jan 14 20:28:45 EST 2014:Added event with title Build Meeting starting on 1389999600 and ending on 1390010400
+justinniezrecki@gmail.com:j. niezrecki:24.60.224.66:Tue Jan 14 20:29:00 EST 2014:Deleted event with id of 597.
+justinniezrecki@gmail.com:j. niezrecki:24.60.224.66:Tue Jan 14 20:30:09 EST 2014:Added event with title Build Meeting starting on 1391470200 and ending on 1391479200
+justinniezrecki@gmail.com:j. niezrecki:24.60.224.66:Tue Jan 14 20:30:18 EST 2014:Added event with title Build Meeting starting on 1391556600 and ending on 1391565600
+justinniezrecki@gmail.com:j. niezrecki:24.60.224.66:Tue Jan 14 20:30:24 EST 2014:Added event with title Build Meeting starting on 1391643000 and ending on 1391652000
+justinniezrecki@gmail.com:j. niezrecki:24.60.224.66:Tue Jan 14 20:30:24 EST 2014:Added event with title Build Meeting starting on 1391643000 and ending on 1391652000
+justinniezrecki@gmail.com:j. niezrecki:24.60.224.66:Tue Jan 14 20:30:29 EST 2014:Added event with title Build Meeting starting on 1391729400 and ending on 1391738400
+justinniezrecki@gmail.com:j. niezrecki:24.60.224.66:Tue Jan 14 20:30:41 EST 2014:Deleted event with id of 600.
+cpjack23@gmail.com:cpjack233:72.10.96.132:Wed Jan 15 17:54:53 EST 2014:Mass email sent :1/15/2014 Friday Meeting
+justinniezrecki@gmail.com:j. niezrecki:24.60.224.66:Wed Jan 15 19:34:00 EST 2014:Added Special permissions for User cyberfive on page with ID of 11 with permissions type 1
+cyberfive97@gmail.com:cyberfive:198.7.62.204:Wed Jan 15 19:48:35 EST 2014:Added event with title Build Meeting starting on 1391902200 and ending on 1391911200
+cyberfive97@gmail.com:cyberfive:198.7.62.204:Wed Jan 15 19:49:02 EST 2014:Edited event with ID: 
+cyberfive97@gmail.com:cyberfive:198.7.62.204:Wed Jan 15 19:51:41 EST 2014:Edited event with ID: 602
+cyberfive97@gmail.com:cyberfive:198.7.62.204:Wed Jan 15 19:52:13 EST 2014:Edited event with ID: 602
+cyberfive97@gmail.com:cyberfive:198.7.62.204:Wed Jan 15 19:53:16 EST 2014:Added event with title Build Meeting starting on 1391965200 and ending on 1391983200
+cyberfive97@gmail.com:cyberfive:198.7.62.204:Wed Jan 15 19:53:26 EST 2014:Added event with title Build Meeting starting on 1392051600 and ending on 1392069600
+cyberfive97@gmail.com:cyberfive:198.7.62.204:Wed Jan 15 19:53:40 EST 2014:Edited event with ID: 602
+cyberfive97@gmail.com:cyberfive:198.7.62.204:Wed Jan 15 19:54:00 EST 2014:Added event with title Build Meeting starting on 1392161400 and ending on 1392170400
+cyberfive97@gmail.com:cyberfive:198.7.62.204:Wed Jan 15 19:54:07 EST 2014:Added event with title Build Meeting starting on 1392247800 and ending on 1392256800
+cyberfive97@gmail.com:cyberfive:198.7.62.204:Wed Jan 15 19:54:12 EST 2014:Added event with title Build Meeting starting on 1392334200 and ending on 1392343200
+cyberfive97@gmail.com:cyberfive:198.7.62.204:Wed Jan 15 19:54:27 EST 2014:Added event with title Build Meeting starting on 1392420600 and ending on 1392429600
+cyberfive97@gmail.com:cyberfive:198.7.62.204:Wed Jan 15 19:55:24 EST 2014:Deleted event with id of 604.
+cyberfive97@gmail.com:cyberfive:198.7.62.204:Wed Jan 15 19:57:10 EST 2014:Added event with title Farmington Practice starting on 1391864400 and ending on 1391896800
+cyberfive97@gmail.com:cyberfive:198.7.62.204:Wed Jan 15 19:58:17 EST 2014:Added event with title Suffield Shakedown starting on 1392469200 and ending on 1392501600
+cyberfive97@gmail.com:cyberfive:198.7.62.204:Wed Jan 15 19:58:28 EST 2014:Edited event with ID: 604
+cyberfive97@gmail.com:cyberfive:198.7.62.204:Wed Jan 15 19:59:33 EST 2014:Added event with title Sunday Practice starting on 1392570000 and ending on 1392588000
+cyberfive97@gmail.com:cyberfive:198.7.62.204:Wed Jan 15 20:00:17 EST 2014:Added event with title Bag Day starting on 1392766200 and ending on 1392775200
+cyberfive97@gmail.com:cyberfive:198.7.62.204:Wed Jan 15 20:02:12 EST 2014:Added event with title Groton Competition starting on 1394276400 and ending on 1394413200
+cyberfive97@gmail.com:cyberfive:198.7.62.204:Wed Jan 15 20:03:28 EST 2014:Added event with title Hartford Competition starting on 1396092600 and ending on 1396216800
+cyberfive97@gmail.com:cyberfive:198.7.62.204:Wed Jan 15 20:05:00 EST 2014:Added event with title Boston Championship starting on 1397129400 and ending on 1397340000
+cyberfive97@gmail.com:cyberfive:198.7.62.204:Wed Jan 15 20:07:01 EST 2014:Added event with title FIRST Championship starting on 1398247200 and ending on 1398560400
+cyberfive97@gmail.com:cyberfive:198.7.62.204:Sun Jan 19 15:36:10 EST 2014:Deleted event with id of 565.
+micron1314@gmail.com:michael:72.10.96.132:Sun Jan 19 22:21:17 EST 2014:Edited mod instance id '2' from pageId '75'
+micron1314@gmail.com:michael:72.10.96.132:Sun Jan 19 22:22:29 EST 2014:Edited mod instance id '2' from pageId '75'
+micron1314@gmail.com:michael:72.10.96.132:Sun Jan 19 22:36:53 EST 2014:Edited mod instance id '2' from pageId '75'
+micron1314@gmail.com:michael:72.10.96.132:Sun Jan 19 22:37:56 EST 2014:Edited mod instance id '2' from pageId '75'
+micron1314@gmail.com:michael:72.10.96.132:Sun Jan 19 22:39:52 EST 2014:added page Aerial Assist id 97 with parent 75
+micron1314@gmail.com:michael:72.10.96.132:Sun Jan 19 22:42:24 EST 2014:updated page, ID= 97
+micron1314@gmail.com:michael:72.10.96.132:Sun Jan 19 22:42:37 EST 2014:updated page, ID= 93
+micron1314@gmail.com:michael:72.10.96.132:Sun Jan 19 22:42:59 EST 2014:updated page, ID= 94
+micron1314@gmail.com:michael:72.10.96.132:Sun Jan 19 22:43:10 EST 2014:updated page, ID= 97
+micron1314@gmail.com:michael:72.10.96.132:Sun Jan 19 22:44:05 EST 2014:Added mod 'HTML' in pageId '97'
+micron1314@gmail.com:michael:72.10.96.132:Sun Jan 19 22:46:35 EST 2014:Edited mod instance id '1' from pageId '97'
+micron1314@gmail.com:michael:72.10.96.132:Sun Jan 19 22:46:52 EST 2014:Edited mod instance id '1' from pageId '97'
+micron1314@gmail.com:michael:72.10.96.132:Sun Jan 19 22:48:50 EST 2014:Edited mod instance id '1' from pageId '97'
+micron1314@gmail.com:michael:72.10.96.132:Sun Jan 19 22:49:09 EST 2014:Edited mod instance id '1' from pageId '97'
+micron1314@gmail.com:michael:72.10.96.132:Sun Jan 19 22:50:24 EST 2014:Edited mod instance id '8' from pageId '1'
+micron1314@gmail.com:michael:72.10.96.132:Sun Jan 19 22:51:58 EST 2014:Edited mod instance id '8' from pageId '1'
+micron1314@gmail.com:michael:72.10.96.132:Sun Jan 19 22:52:48 EST 2014:Edited mod instance id '1' from pageId '97'
+micron1314@gmail.com:michael:72.10.96.132:Sun Jan 19 22:53:41 EST 2014:Edited mod instance id '1' from pageId '97'
+micron1314@gmail.com:michael:72.10.96.132:Sun Jan 19 22:55:20 EST 2014:Edited mod instance id '1' from pageId '97'
+micron1314@gmail.com:michael:72.10.96.132:Sun Jan 19 22:57:12 EST 2014:Edited mod instance id '1' from pageId '97'
+micron1314@gmail.com:michael:72.10.96.132:Sun Jan 19 22:59:19 EST 2014:Edited mod instance id '1' from pageId '97'
+micron1314@gmail.com:michael:72.10.96.132:Sun Jan 19 23:00:22 EST 2014:Added mod 'Filetree' in pageId '97'
+micron1314@gmail.com:michael:72.10.96.132:Sun Jan 19 23:01:00 EST 2014:Edited mod instance id '2' from pageId '97'
+micron1314@gmail.com:michael:72.10.96.132:Sun Jan 19 23:02:31 EST 2014:Added mod 'HTML' in pageId '97'
+micron1314@gmail.com:michael:72.10.96.132:Sun Jan 19 23:04:09 EST 2014:Edited mod instance id '3' from pageId '97'
+micron1314@gmail.com:michael:72.10.96.132:Sun Jan 19 23:04:29 EST 2014:Added mod 'BBCode' in pageId '97'
+micron1314@gmail.com:michael:72.10.96.132:Sun Jan 19 23:04:38 EST 2014:Deleted mod instance id '3' from pageId '97'
+micron1314@gmail.com:michael:72.10.96.132:Sun Jan 19 23:04:45 EST 2014:Edited mod instance id '4' from pageId '97'
+:anonymous::Mon Jan 20 2:00:07 EST 2014:Weekly Updates Sent
+micron1314@gmail.com:michael:72.10.96.132:Mon Jan 20 10:09:02 EST 2014:Edited mod instance id '2' from pageId '75'
+micron1314@gmail.com:michael:72.10.96.132:Mon Jan 20 10:09:55 EST 2014:Edited mod instance id '2' from pageId '75'
+micron1314@gmail.com:michael:72.10.96.132:Mon Jan 20 10:10:14 EST 2014:Edited mod instance id '2' from pageId '75'
+micron1314@gmail.com:michael:72.10.96.132:Mon Jan 20 10:12:48 EST 2014:Resorted mods on pageId '97'
+micron1314@gmail.com:michael:72.10.96.132:Mon Jan 20 10:12:48 EST 2014:Resorted mods on pageId '0'
+micron1314@gmail.com:michael:72.10.96.132:Mon Jan 20 10:13:20 EST 2014:Edited mod instance id '1' from pageId '97'
+justinniezrecki@gmail.com:j. niezrecki:24.60.224.66:Tue Jan 21 16:50:59 EST 2014:Mass email sent :Meeting Rescheduled
+micron1314@gmail.com:michael:72.10.96.132:Tue Jan 21 20:54:46 EST 2014:Edited mod instance id '5' from pageId '0'
+micron1314@gmail.com:michael:72.10.96.132:Tue Jan 21 20:55:52 EST 2014:Edited mod instance id '5' from pageId '0'
+micron1314@gmail.com:michael:72.10.96.132:Tue Jan 21 20:56:22 EST 2014:Edited mod instance id '5' from pageId '0'
+micron1314@gmail.com:michael:72.10.96.132:Tue Jan 21 20:56:39 EST 2014:Edited mod instance id '5' from pageId '0'
+micron1314@gmail.com:michael:72.10.96.132:Tue Jan 21 20:57:11 EST 2014:Edited mod instance id '5' from pageId '0'
+micron1314@gmail.com:michael:72.10.96.132:Tue Jan 21 20:58:10 EST 2014:Edited mod instance id '5' from pageId '0'
+micron1314@gmail.com:michael:72.10.96.132:Tue Jan 21 21:00:34 EST 2014:Edited mod instance id '5' from pageId '0'
+micron1314@gmail.com:michael:72.10.96.132:Tue Jan 21 21:01:00 EST 2014:Edited mod instance id '5' from pageId '0'
+micron1314@gmail.com:michael:72.10.96.132:Tue Jan 21 21:01:17 EST 2014:Edited mod instance id '5' from pageId '0'
+cyberfive97@gmail.com:cyberfive:198.7.62.204:Wed Jan 22 20:52:55 EST 2014:Added event with title Build Meeting starting on 1390606200 and ending on 1390615200
+cyberfive97@gmail.com:cyberfive:198.7.62.204:Fri Jan 24 19:16:02 EST 2014:Added event with title Build Meeting starting on 1391360400 and ending on 1391378400
+micron1314@gmail.com:michael:72.10.96.132:Sat Jan 25 12:27:49 EST 2014:Edited mod instance id '1' from pageId '66'
+micron1314@gmail.com:michael:72.10.96.132:Sat Jan 25 12:30:05 EST 2014:Edited mod instance id '1' from pageId '66'
+micron1314@gmail.com:michael:72.10.96.132:Sat Jan 25 12:30:36 EST 2014:Edited mod instance id '1' from pageId '66'
+micron1314@gmail.com:michael:72.10.96.132:Sat Jan 25 12:31:50 EST 2014:Edited mod instance id '4' from pageId '8'
+micron1314@gmail.com:michael:72.10.96.132:Sat Jan 25 12:32:15 EST 2014:Edited mod instance id '4' from pageId '8'
+micron1314@gmail.com:michael:72.10.96.132:Sat Jan 25 12:42:31 EST 2014:Edited mod instance id '5' from pageId '0'
+micron1314@gmail.com:michael:72.10.96.132:Sat Jan 25 12:43:44 EST 2014:Edited mod instance id '5' from pageId '0'
+micron1314@gmail.com:michael:72.10.96.132:Sat Jan 25 12:43:58 EST 2014:Edited mod instance id '5' from pageId '0'
+:anonymous::Mon Jan 27 2:00:07 EST 2014:Weekly Updates Sent
+cyberfive97@gmail.com:cyberfive:198.7.62.204:Wed Jan 29 6:18:45 EST 2014:Added event with title Team Meeting starting on 1392940800 and ending on 1392948000
+cyberfive97@gmail.com:cyberfive:198.7.62.204:Wed Jan 29 6:18:57 EST 2014:Added event with title Team Meeting starting on 1392940800 and ending on 1392948000
+cyberfive97@gmail.com:cyberfive:198.7.62.204:Wed Jan 29 6:18:58 EST 2014:Added event with title Team Meeting starting on 1392940800 and ending on 1392948000
+cyberfive97@gmail.com:cyberfive:198.7.62.204:Wed Jan 29 6:19:22 EST 2014:Deleted event with id of 619.
+cyberfive97@gmail.com:cyberfive:198.7.62.204:Wed Jan 29 6:19:26 EST 2014:Deleted event with id of 621.
+cyberfive97@gmail.com:cyberfive:198.7.62.204:Wed Jan 29 6:20:22 EST 2014:Added event with title Team Meeting starting on 1393372800 and ending on 1393380000
+cyberfive97@gmail.com:cyberfive:198.7.62.204:Wed Jan 29 6:20:40 EST 2014:Added event with title Team Meeting starting on 1393545600 and ending on 1393552800
+cyberfive97@gmail.com:cyberfive:198.7.62.204:Wed Jan 29 6:21:49 EST 2014:Added event with title Team Meeting starting on 1393977600 and ending on 1393984800
+cyberfive97@gmail.com:cyberfive:198.7.62.204:Wed Jan 29 6:22:50 EST 2014:Added event with title Team Meeting starting on 1394150400 and ending on 1394157600
+cyberfive97@gmail.com:cyberfive:198.7.62.204:Wed Jan 29 6:22:58 EST 2014:Added event with title Team Meeting starting on 1394578800 and ending on 1394586000
+cyberfive97@gmail.com:cyberfive:198.7.62.204:Wed Jan 29 6:24:05 EST 2014:Added event with title Team Meeting starting on 1394751600 and ending on 1394758800
+cyberfive97@gmail.com:cyberfive:198.7.62.204:Wed Jan 29 6:24:17 EST 2014:Added event with title Team Meeting starting on 1395183600 and ending on 1395190800
+cyberfive97@gmail.com:cyberfive:198.7.62.204:Wed Jan 29 6:24:26 EST 2014:Added event with title Team Meeting starting on 1395356400 and ending on 1395363600
+cyberfive97@gmail.com:cyberfive:198.7.62.204:Wed Jan 29 6:24:32 EST 2014:Added event with title Team Meeting starting on 1395788400 and ending on 1395795600
+cyberfive97@gmail.com:cyberfive:198.7.62.204:Wed Jan 29 6:24:37 EST 2014:Added event with title Team Meeting starting on 1395961200 and ending on 1395968400
+cyberfive97@gmail.com:cyberfive:198.7.62.204:Wed Jan 29 6:24:42 EST 2014:Added event with title Team Meeting starting on 1394751600 and ending on 1394758800
+cyberfive97@gmail.com:cyberfive:198.7.62.204:Wed Jan 29 6:29:11 EST 2014:Edited event with ID: 611
+cyberfive97@gmail.com:cyberfive:198.7.62.204:Wed Jan 29 6:30:06 EST 2014:Added event with title Build Meeting starting on 1392679800 and ending on 1392688800
+cyberfive97@gmail.com:cyberfive:198.7.62.204:Fri Jan 31 6:47:08 EST 2014:Edited event with ID: 585
+cyberfive97@gmail.com:cyberfive:198.7.62.204:Fri Jan 31 6:47:48 EST 2014:Edited event with ID: 585
+cyberfive97@gmail.com:cyberfive:198.7.62.204:Fri Jan 31 6:48:27 EST 2014:Edited event with ID: 585
+cpjack23@gmail.com:cpjack233:72.10.96.132:Fri Jan 31 17:33:51 EST 2014:Mass email sent :Midnight Madness!
+justinniezrecki@gmail.com:j. niezrecki:24.60.224.66:Fri Jan 31 19:39:27 EST 2014:Edited event with ID: 585

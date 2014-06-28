@@ -1,0 +1,43 @@
+:anonymous::Sun May 1 2:00:04 EDT 2011:Logs Archived - 1304229604
+:anonymous::Sun May 1 21:16:22 EDT 2011:uploaded picture '2011 Mayfair 002.jpg' to album 'Mayfair' from 2011
+:anonymous::Sun May 1 21:16:48 EDT 2011:uploaded picture '2011 Mayfair 008.jpg' to album 'Mayfair' from 2011
+:anonymous::Sun May 1 21:17:14 EDT 2011:uploaded picture '2011 Mayfair 011.jpg' to album 'Mayfair' from 2011
+:anonymous::Sun May 1 21:17:41 EDT 2011:uploaded picture '2011 Mayfair 014.jpg' to album 'Mayfair' from 2011
+:anonymous::Sun May 1 21:18:10 EDT 2011:uploaded picture '2011 Mayfair 004.jpg' to album 'Mayfair' from 2011
+enigmoid@gmail.com:enigmoid:65.96.104.42:Mon May 2 16:45:16 EDT 2011:uploaded picture 'DSC00209.JPG' to album 'CNC Machine' from 2011
+enigmoid@gmail.com:enigmoid:65.96.104.42:Mon May 2 16:45:27 EDT 2011:uploaded picture 'DSC00210.JPG' to album 'CNC Machine' from 2011
+enigmoid@gmail.com:enigmoid:65.96.104.42:Mon May 2 16:45:42 EDT 2011:uploaded picture 'DSC00211.JPG' to album 'CNC Machine' from 2011
+enigmoid@gmail.com:enigmoid:65.96.104.42:Mon May 2 16:45:50 EDT 2011:uploaded picture 'DSC00212.JPG' to album 'CNC Machine' from 2011
+enigmoid@gmail.com:enigmoid:65.96.104.42:Mon May 2 16:45:57 EDT 2011:uploaded picture 'DSC00213.JPG' to album 'CNC Machine' from 2011
+enigmoid@gmail.com:enigmoid:65.96.104.42:Mon May 2 16:46:01 EDT 2011:uploaded picture 'Polyehylene Connector parts.jpg' to album 'CNC Machine' from 2011
+enigmoid@gmail.com:enigmoid:65.96.104.42:Mon May 2 17:00:54 EDT 2011:Added mod 'Video' in pageId '17'
+enigmoid@gmail.com:enigmoid:65.96.104.42:Mon May 2 17:01:07 EDT 2011:Deleted mod instance id '2' from pageId '17'
+mattshoward@comcast.net:foozie:65.96.104.42:Tue May 3 14:53:11 EDT 2011:Uploaded file ../media/files/Birdies Participant Brochure Small_1.pdf
+mattshoward@comcast.net:foozie:65.96.104.42:Tue May 3 14:53:13 EDT 2011:Uploaded file ../media/files/Birdies Participant Brochure Small_2.pdf
+mattshoward@comcast.net:foozie:65.96.104.42:Tue May 3 14:53:16 EDT 2011:Uploaded file ../media/files/Solicitation Letter for Birdies for FIRST.doc
+mattshoward@comcast.net:foozie:65.96.104.42:Tue May 3 14:58:05 EDT 2011:Edited mod instance id '1' from pageId '34'
+jtyost531@yahoo.com:jutayo23:69.182.241.120:Tue May 3 17:07:23 EDT 2011:Mass email sent :Birdies for Charities Fundraiser
+:anonymous::Wed May 4 20:56:57 EDT 2011:Uploaded file ../media/files/Senior Center 2011.doc
+jtyost531@yahoo.com:jutayo23:69.182.241.120:Thu May 5 17:47:07 EDT 2011:Mass email sent :Senior Center Permission
+plnyyanks@gmail.com:phil:71.234.198.104:Sat May 21 13:58:04 EDT 2011:Edited mod instance id '2' from pageId '67'
+plnyyanks@gmail.com:phil:71.234.198.104:Sun May 22 10:18:16 EDT 2011:Added event with title Meeting starting on 1306278000 and ending on 1306285200
+jtyost531@yahoo.com:jutayo23:69.182.241.120:Sun May 22 14:04:41 EDT 2011:Mass email sent :meeting Tuesday, 5-24-11
+plnyyanks@gmail.com:phil:71.234.198.104:Sun May 22 20:58:16 EDT 2011:Added Special permissions for User alopreiato on page with ID of 11 with permissions type 1
+plnyyanks@gmail.com:phil:71.234.198.104:Tue May 24 20:34:23 EDT 2011:Added event with title Meeting starting on 1305759600 and ending on 1305766800
+plnyyanks@gmail.com:phil:71.234.198.104:Tue May 24 20:34:31 EDT 2011:Added event with title Meeting starting on 1306882800 and ending on 1306890000
+plnyyanks@gmail.com:phil:71.234.198.104:Tue May 24 20:34:40 EDT 2011:Deleted event with id of 173.
+jtyost531@yahoo.com:jutayo23:69.182.241.120:Fri May 27 15:10:46 EDT 2011:Mass email sent :Show Bot and Upcoming Meeting
+jtyost531@yahoo.com:jutayo23:69.182.241.120:Fri May 27 15:14:23 EDT 2011:added page Show Bot id 72 with parent 19
+jtyost531@yahoo.com:jutayo23:69.182.241.120:Fri May 27 15:14:55 EDT 2011:Resorted mods on pageId '0'
+jtyost531@yahoo.com:jutayo23:69.182.241.120:Fri May 27 15:14:55 EDT 2011:Resorted mods on pageId '72'
+jtyost531@yahoo.com:jutayo23:69.182.241.120:Fri May 27 15:15:09 EDT 2011:Added mod 'Control Panel' in pageId '72'
+jtyost531@yahoo.com:jutayo23:69.182.241.120:Fri May 27 15:15:27 EDT 2011:Added mod 'HTML' in pageId '72'
+jtyost531@yahoo.com:jutayo23:69.182.241.120:Fri May 27 15:15:44 EDT 2011:Deleted mod instance id '1' from pageId '72'
+jtyost531@yahoo.com:jutayo23:69.182.241.120:Fri May 27 15:17:07 EDT 2011:Edited mod instance id '2' from pageId '72'
+jtyost531@yahoo.com:jutayo23:69.182.241.120:Fri May 27 15:17:21 EDT 2011:Deleted mod instance id '2' from pageId '72'
+jtyost531@yahoo.com:jutayo23:69.182.241.120:Fri May 27 15:17:23 EDT 2011:Added mod 'BBCode' in pageId '72'
+jtyost531@yahoo.com:jutayo23:69.182.241.120:Fri May 27 15:17:44 EDT 2011:Edited mod instance id '3' from pageId '72'
+jtyost531@yahoo.com:jutayo23:69.182.241.120:Fri May 27 15:18:51 EDT 2011:Added mod 'BBCode' in pageId '72'
+jtyost531@yahoo.com:jutayo23:69.182.241.120:Fri May 27 15:21:25 EDT 2011:Edited mod instance id '4' from pageId '72'
+jtyost531@yahoo.com:jutayo23:69.182.241.120:Fri May 27 15:28:39 EDT 2011:Edited mod instance id '4' from pageId '72'
+jtyost531@yahoo.com:jutayo23:69.182.241.120:Mon May 30 14:51:59 EDT 2011:updated page, ID= 72

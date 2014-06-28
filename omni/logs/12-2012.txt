@@ -1,0 +1,121 @@
+:anonymous::Sat Dec 1 2:00:07 EST 2012:Logs Archived - 1354345207
+laurenmcisaac@comcast.net:lauren:24.60.231.127:Sat Dec 1 16:14:19 EST 2012:Added event with title Movie Night starting on 1357336800 and ending on 1357351200
+laurenmcisaac@comcast.net:lauren:24.60.231.127:Sat Dec 1 16:14:22 EST 2012:Added event with title Movie Night starting on 1357336800 and ending on 1357351200
+laurenmcisaac@comcast.net:lauren:24.60.231.127:Sat Dec 1 16:14:56 EST 2012:Deleted event with id of 382.
+laurenmcisaac@comcast.net:lauren:24.60.231.127:Sat Dec 1 16:15:08 EST 2012:Deleted event with id of 370.
+4edumail@comcast.net:aleck:24.60.224.18:Sat Dec 1 22:05:28 EST 2012:Added event with title Meeting starting on 1357491600 and ending on 1357509600
+laurenmcisaac@comcast.net:lauren:24.60.231.127:Sun Dec 2 20:30:49 EST 2012:Added event with title Bakesale starting on 1354797600 and ending on 1354821300
+laurenmcisaac@comcast.net:lauren:24.60.231.127:Sun Dec 2 20:30:55 EST 2012:Added event with title Bakesale starting on 1354797600 and ending on 1354821300
+laurenmcisaac@comcast.net:lauren:24.60.231.127:Sun Dec 2 20:31:07 EST 2012:Added event with title Bakesale starting on 1354797600 and ending on 1354821300
+laurenmcisaac@comcast.net:lauren:24.60.231.127:Sun Dec 2 20:31:17 EST 2012:Deleted event with id of 385.
+laurenmcisaac@comcast.net:lauren:24.60.231.127:Sun Dec 2 20:31:21 EST 2012:Deleted event with id of 384.
+:anonymous::Mon Dec 3 2:00:05 EST 2012:Weekly Updates Sent
+plnyyanks@gmail.com:phil:71.234.198.104:Tue Dec 4 19:25:52 EST 2012:Added event with title Foobar starting on 1356566400 and ending on 1356573600
+plnyyanks@gmail.com:phil:71.234.198.104:Tue Dec 4 19:26:05 EST 2012:Deleted event with id of 384.
+plnyyanks@gmail.com:phil:71.234.198.104:Tue Dec 4 19:27:45 EST 2012:Added event with title fsedfv starting on 1358294400 and ending on 1358301600
+plnyyanks@gmail.com:phil:71.234.198.104:Tue Dec 4 19:27:48 EST 2012:Added event with title fsedfv starting on 1358380800 and ending on 1358388000
+plnyyanks@gmail.com:phil:71.234.198.104:Tue Dec 4 19:27:51 EST 2012:Added event with title fsedfv starting on 1358467200 and ending on 1358474400
+plnyyanks@gmail.com:phil:71.234.198.104:Tue Dec 4 19:28:04 EST 2012:Deleted event with id of 384.
+plnyyanks@gmail.com:phil:71.234.198.104:Tue Dec 4 19:28:06 EST 2012:Deleted event with id of 385.
+plnyyanks@gmail.com:phil:71.234.198.104:Tue Dec 4 19:28:07 EST 2012:Deleted event with id of 386.
+:anonymous::Mon Dec 10 2:00:05 EST 2012:Weekly Updates Sent
+4edumail@comcast.net:aleck:24.60.224.18:Mon Dec 10 17:04:16 EST 2012:Added event with title Meeting starting on 1357601400 and ending on 1357610400
+4edumail@comcast.net:aleck:24.60.224.18:Mon Dec 10 17:04:41 EST 2012:Added event with title Meeting starting on 1357687800 and ending on 1357696800
+4edumail@comcast.net:aleck:24.60.224.18:Mon Dec 10 17:04:44 EST 2012:Added event with title Meeting starting on 1357774200 and ending on 1357783200
+4edumail@comcast.net:aleck:24.60.224.18:Mon Dec 10 17:04:46 EST 2012:Added event with title Meeting starting on 1357860600 and ending on 1357869600
+4edumail@comcast.net:aleck:24.60.224.18:Mon Dec 10 17:04:50 EST 2012:Added event with title Meeting starting on 1358206200 and ending on 1358215200
+4edumail@comcast.net:aleck:24.60.224.18:Mon Dec 10 17:04:52 EST 2012:Added event with title Meeting starting on 1358292600 and ending on 1358301600
+4edumail@comcast.net:aleck:24.60.224.18:Mon Dec 10 17:04:54 EST 2012:Added event with title Meeting starting on 1358379000 and ending on 1358388000
+4edumail@comcast.net:aleck:24.60.224.18:Mon Dec 10 17:04:56 EST 2012:Added event with title Meeting starting on 1358465400 and ending on 1358474400
+4edumail@comcast.net:aleck:24.60.224.18:Mon Dec 10 17:04:59 EST 2012:Added event with title Meeting starting on 1358811000 and ending on 1358820000
+4edumail@comcast.net:aleck:24.60.224.18:Mon Dec 10 17:05:02 EST 2012:Added event with title Meeting starting on 1358897400 and ending on 1358906400
+4edumail@comcast.net:aleck:24.60.224.18:Mon Dec 10 17:05:04 EST 2012:Added event with title Meeting starting on 1358983800 and ending on 1358992800
+4edumail@comcast.net:aleck:24.60.224.18:Mon Dec 10 17:05:06 EST 2012:Added event with title Meeting starting on 1359070200 and ending on 1359079200
+4edumail@comcast.net:aleck:24.60.224.18:Mon Dec 10 17:05:17 EST 2012:Added event with title Meeting starting on 1359415800 and ending on 1359424800
+4edumail@comcast.net:aleck:24.60.224.18:Mon Dec 10 17:05:19 EST 2012:Added event with title Meeting starting on 1359502200 and ending on 1359511200
+4edumail@comcast.net:aleck:24.60.224.18:Mon Dec 10 17:05:21 EST 2012:Added event with title Meeting starting on 1359588600 and ending on 1359597600
+4edumail@comcast.net:aleck:24.60.224.18:Mon Dec 10 17:05:22 EST 2012:Added event with title Meeting starting on 1359675000 and ending on 1359684000
+4edumail@comcast.net:aleck:24.60.224.18:Mon Dec 10 17:05:53 EST 2012:Added event with title Meeting starting on 1358096400 and ending on 1358114400
+4edumail@comcast.net:aleck:24.60.224.18:Mon Dec 10 17:05:56 EST 2012:Added event with title Meeting starting on 1358701200 and ending on 1358719200
+4edumail@comcast.net:aleck:24.60.224.18:Mon Dec 10 17:05:57 EST 2012:Added event with title Meeting starting on 1359306000 and ending on 1359324000
+4edumail@comcast.net:aleck:24.60.224.18:Mon Dec 10 17:06:37 EST 2012:Added event with title Meeting starting on 1357995600 and ending on 1358028000
+4edumail@comcast.net:aleck:24.60.224.18:Mon Dec 10 17:06:38 EST 2012:Added event with title Meeting starting on 1358600400 and ending on 1358632800
+4edumail@comcast.net:aleck:24.60.224.18:Mon Dec 10 17:06:41 EST 2012:Added event with title Meeting starting on 1359205200 and ending on 1359237600
+4edumail@comcast.net:aleck:24.60.224.18:Mon Dec 10 17:08:10 EST 2012:Added event with title Meeting starting on 1359761400 and ending on 1359770400
+4edumail@comcast.net:aleck:24.60.224.18:Mon Dec 10 17:08:14 EST 2012:Added event with title Meeting starting on 1360020600 and ending on 1360029600
+4edumail@comcast.net:aleck:24.60.224.18:Mon Dec 10 17:08:18 EST 2012:Added event with title Meeting starting on 1360107000 and ending on 1360116000
+4edumail@comcast.net:aleck:24.60.224.18:Mon Dec 10 17:08:56 EST 2012:Added event with title Meeting starting on 1360193400 and ending on 1360202400
+4edumail@comcast.net:aleck:24.60.224.18:Mon Dec 10 17:09:04 EST 2012:Added event with title Meeting starting on 1360279800 and ending on 1360288800
+4edumail@comcast.net:aleck:24.60.224.18:Mon Dec 10 17:09:06 EST 2012:Added event with title Meeting starting on 1360366200 and ending on 1360375200
+4edumail@comcast.net:aleck:24.60.224.18:Mon Dec 10 17:09:34 EST 2012:Added event with title Meeting starting on 1360625400 and ending on 1360634400
+4edumail@comcast.net:aleck:24.60.224.18:Mon Dec 10 17:09:36 EST 2012:Added event with title Meeting starting on 1360711800 and ending on 1360720800
+4edumail@comcast.net:aleck:24.60.224.18:Mon Dec 10 17:09:39 EST 2012:Added event with title Meeting starting on 1360798200 and ending on 1360807200
+4edumail@comcast.net:aleck:24.60.224.18:Mon Dec 10 17:09:41 EST 2012:Added event with title Meeting starting on 1360884600 and ending on 1360893600
+4edumail@comcast.net:aleck:24.60.224.18:Mon Dec 10 17:09:44 EST 2012:Added event with title Meeting starting on 1361230200 and ending on 1361239200
+4edumail@comcast.net:aleck:24.60.224.18:Mon Dec 10 17:09:46 EST 2012:Added event with title Meeting starting on 1361835000 and ending on 1361844000
+4edumail@comcast.net:aleck:24.60.224.18:Mon Dec 10 17:09:47 EST 2012:Added event with title Meeting starting on 1361489400 and ending on 1361498400
+4edumail@comcast.net:aleck:24.60.224.18:Mon Dec 10 17:09:49 EST 2012:Added event with title Meeting starting on 1362094200 and ending on 1362103200
+4edumail@comcast.net:aleck:24.60.224.18:Mon Dec 10 17:09:51 EST 2012:Added event with title Meeting starting on 1361403000 and ending on 1361412000
+4edumail@comcast.net:aleck:24.60.224.18:Mon Dec 10 17:09:53 EST 2012:Added event with title Meeting starting on 1361316600 and ending on 1361325600
+4edumail@comcast.net:aleck:24.60.224.18:Mon Dec 10 17:09:55 EST 2012:Added event with title Meeting starting on 1361921400 and ending on 1361930400
+4edumail@comcast.net:aleck:24.60.224.18:Mon Dec 10 17:09:57 EST 2012:Added event with title Meeting starting on 1362007800 and ending on 1362016800
+4edumail@comcast.net:aleck:24.60.224.18:Mon Dec 10 17:10:15 EST 2012:Deleted event with id of 411.
+4edumail@comcast.net:aleck:24.60.224.18:Mon Dec 10 17:10:19 EST 2012:Deleted event with id of 406.
+4edumail@comcast.net:aleck:24.60.224.18:Mon Dec 10 17:10:50 EST 2012:Added event with title Meeting starting on 1359910800 and ending on 1359928800
+4edumail@comcast.net:aleck:24.60.224.18:Mon Dec 10 17:10:52 EST 2012:Added event with title Meeting starting on 1360515600 and ending on 1360533600
+4edumail@comcast.net:aleck:24.60.224.18:Mon Dec 10 17:10:55 EST 2012:Added event with title Meeting starting on 1361120400 and ending on 1361138400
+4edumail@comcast.net:aleck:24.60.224.18:Mon Dec 10 17:10:56 EST 2012:Added event with title Meeting starting on 1361725200 and ending on 1361743200
+4edumail@comcast.net:aleck:24.60.224.18:Mon Dec 10 17:11:06 EST 2012:Added event with title Meeting starting on 1359810000 and ending on 1359842400
+4edumail@comcast.net:aleck:24.60.224.18:Mon Dec 10 17:11:08 EST 2012:Added event with title Meeting starting on 1360414800 and ending on 1360447200
+4edumail@comcast.net:aleck:24.60.224.18:Mon Dec 10 17:11:10 EST 2012:Added event with title Meeting starting on 1361019600 and ending on 1361052000
+4edumail@comcast.net:aleck:24.60.224.18:Mon Dec 10 17:11:12 EST 2012:Added event with title Meeting starting on 1361624400 and ending on 1361656800
+4edumail@comcast.net:aleck:24.60.224.18:Mon Dec 10 17:18:53 EST 2012:Added event with title Meeting starting on 1362229200 and ending on 1362261600
+4edumail@comcast.net:aleck:24.60.224.18:Mon Dec 10 17:18:57 EST 2012:Added event with title Meeting starting on 1362834000 and ending on 1362866400
+4edumail@comcast.net:aleck:24.60.224.18:Mon Dec 10 17:19:00 EST 2012:Added event with title Meeting starting on 1363435200 and ending on 1363467600
+4edumail@comcast.net:aleck:24.60.224.18:Mon Dec 10 17:19:03 EST 2012:Added event with title Meeting starting on 1364040000 and ending on 1364072400
+4edumail@comcast.net:aleck:24.60.224.18:Mon Dec 10 17:19:05 EST 2012:Added event with title Meeting starting on 1364644800 and ending on 1364677200
+4edumail@comcast.net:aleck:24.60.224.18:Mon Dec 10 17:19:14 EST 2012:Added event with title Meeting starting on 1362330000 and ending on 1362348000
+4edumail@comcast.net:aleck:24.60.224.18:Mon Dec 10 17:19:16 EST 2012:Added event with title Meeting starting on 1362931200 and ending on 1362949200
+4edumail@comcast.net:aleck:24.60.224.18:Mon Dec 10 17:19:18 EST 2012:Added event with title Meeting starting on 1363536000 and ending on 1363554000
+4edumail@comcast.net:aleck:24.60.224.18:Mon Dec 10 17:19:20 EST 2012:Added event with title Meeting starting on 1364140800 and ending on 1364158800
+4edumail@comcast.net:aleck:24.60.224.18:Mon Dec 10 17:19:22 EST 2012:Added event with title Meeting starting on 1364745600 and ending on 1364763600
+4edumail@comcast.net:aleck:24.60.224.18:Mon Dec 10 17:19:38 EST 2012:Added event with title Meeting starting on 1362439800 and ending on 1362448800
+4edumail@comcast.net:aleck:24.60.224.18:Mon Dec 10 17:19:41 EST 2012:Added event with title Meeting starting on 1363041000 and ending on 1363050000
+4edumail@comcast.net:aleck:24.60.224.18:Mon Dec 10 17:19:44 EST 2012:Added event with title Meeting starting on 1363645800 and ending on 1363654800
+4edumail@comcast.net:aleck:24.60.224.18:Mon Dec 10 17:19:47 EST 2012:Added event with title Meeting starting on 1364250600 and ending on 1364259600
+4edumail@comcast.net:aleck:24.60.224.18:Mon Dec 10 17:19:48 EST 2012:Added event with title Meeting starting on 1362699000 and ending on 1362708000
+4edumail@comcast.net:aleck:24.60.224.18:Mon Dec 10 17:19:50 EST 2012:Added event with title Meeting starting on 1363300200 and ending on 1363309200
+4edumail@comcast.net:aleck:24.60.224.18:Mon Dec 10 17:19:52 EST 2012:Added event with title Meeting starting on 1363905000 and ending on 1363914000
+4edumail@comcast.net:aleck:24.60.224.18:Mon Dec 10 17:19:55 EST 2012:Added event with title Meeting starting on 1364509800 and ending on 1364518800
+4edumail@comcast.net:aleck:24.60.224.18:Mon Dec 10 17:19:58 EST 2012:Added event with title Meeting starting on 1364423400 and ending on 1364432400
+4edumail@comcast.net:aleck:24.60.224.18:Mon Dec 10 17:20:00 EST 2012:Added event with title Meeting starting on 1364337000 and ending on 1364346000
+4edumail@comcast.net:aleck:24.60.224.18:Mon Dec 10 17:20:03 EST 2012:Added event with title Meeting starting on 1363732200 and ending on 1363741200
+4edumail@comcast.net:aleck:24.60.224.18:Mon Dec 10 17:20:05 EST 2012:Added event with title Meeting starting on 1363127400 and ending on 1363136400
+4edumail@comcast.net:aleck:24.60.224.18:Mon Dec 10 17:20:08 EST 2012:Added event with title Meeting starting on 1363732200 and ending on 1363741200
+4edumail@comcast.net:aleck:24.60.224.18:Mon Dec 10 17:20:13 EST 2012:Added event with title Meeting starting on 1363818600 and ending on 1363827600
+4edumail@comcast.net:aleck:24.60.224.18:Mon Dec 10 17:20:16 EST 2012:Added event with title Meeting starting on 1363213800 and ending on 1363222800
+4edumail@comcast.net:aleck:24.60.224.18:Mon Dec 10 17:20:20 EST 2012:Added event with title Meeting starting on 1362612600 and ending on 1362621600
+4edumail@comcast.net:aleck:24.60.224.18:Mon Dec 10 17:20:23 EST 2012:Added event with title Meeting starting on 1362526200 and ending on 1362535200
+4edumail@comcast.net:aleck:24.60.224.18:Mon Dec 10 17:20:37 EST 2012:Deleted event with id of 454.
+4edumail@comcast.net:aleck:24.60.224.18:Tue Dec 11 19:23:21 EST 2012:Added event with title OFS Tour starting on 1356634800 and ending on 1356642000
+4edumail@comcast.net:aleck:24.60.224.18:Tue Dec 11 19:28:29 EST 2012:Edited event with ID: 459
+plnyyanks@gmail.com:phil:71.234.198.104:Tue Dec 11 22:33:36 EST 2012:Deleted event with id of 446.
+plnyyanks@gmail.com:phil:71.234.198.104:Tue Dec 11 22:33:40 EST 2012:Deleted event with id of 433.
+plnyyanks@gmail.com:phil:71.234.198.104:Tue Dec 11 22:33:43 EST 2012:Deleted event with id of 438.
+plnyyanks@gmail.com:phil:71.234.198.104:Tue Dec 11 22:34:32 EST 2012:Added event with title WPI Regional starting on 1362648600 and ending on 1362880800
+plnyyanks@gmail.com:phil:71.234.198.104:Tue Dec 11 22:35:18 EST 2012:Deleted event with id of 449.
+plnyyanks@gmail.com:phil:71.234.198.104:Tue Dec 11 22:35:20 EST 2012:Deleted event with id of 436.
+plnyyanks@gmail.com:phil:71.234.198.104:Tue Dec 11 22:35:23 EST 2012:Deleted event with id of 441.
+plnyyanks@gmail.com:phil:71.234.198.104:Tue Dec 11 22:35:53 EST 2012:Added event with title Hartford Regional  starting on 1364468400 and ending on 1364680800
+:anonymous::Tue Dec 11 22:41:07 EST 2012:uploaded picture '._2012_0929AA.JPG' to album 'Bash at the Beach' from 2013
+:anonymous::Tue Dec 11 22:41:08 EST 2012:uploaded picture '._2012_0929AC.JPG' to album 'Bash at the Beach' from 2013
+:anonymous::Tue Dec 11 22:41:09 EST 2012:uploaded picture '._2012_0929AD.JPG' to album 'Bash at the Beach' from 2013
+:anonymous::Tue Dec 11 22:41:09 EST 2012:uploaded picture '._2012_0929AE.JPG' to album 'Bash at the Beach' from 2013
+plnyyanks@gmail.com:phil:71.234.198.104:Wed Dec 12 11:35:05 EST 2012:Mass email sent :WPI Regional and Upcoming Team Events
+4edumail@comcast.net:aleck:24.60.224.18:Wed Dec 12 23:32:37 EST 2012:Deleted event with id of 430.
+4edumail@comcast.net:aleck:24.60.224.18:Thu Dec 13 20:01:11 EST 2012:Added event with title Suffield Shakedown starting on 1361016000 and ending on 1361052000
+:anonymous::Mon Dec 17 2:00:03 EST 2012:Weekly Updates Sent
+:anonymous::Mon Dec 24 2:00:03 EST 2012:Weekly Updates Sent
+plnyyanks@gmail.com:phil:71.234.198.104:Wed Dec 26 20:44:53 EST 2012:Mass email sent :OFS Tour Tomorrow
+plnyyanks@gmail.com:phil:71.234.198.104:Thu Dec 27 11:06:42 EST 2012:Edited event with ID: 421
+:anonymous::Mon Dec 31 2:00:03 EST 2012:Weekly Updates Sent

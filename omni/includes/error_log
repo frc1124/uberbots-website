@@ -1,0 +1,19 @@
+[15-Jan-2011 22:04:17] PHP Warning:  include(/../forums/common.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home1/uberbots/public_html/omni/includes/phpBBsession.php on line 11
+[15-Jan-2011 22:04:17] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '/../forums/common.php' for inclusion (include_path='.:/usr/lib64/php') in /home1/uberbots/public_html/omni/includes/phpBBsession.php on line 11
+[15-Jan-2011 22:04:17] PHP Fatal error:  Call to a member function session_begin() on a non-object in /home1/uberbots/public_html/omni/includes/phpBBsession.php on line 17
+[17-Jan-2011 02:25:15] PHP Warning:  opendir(/modules) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: No such file or directory in /home1/uberbots/public_html/omni/includes/module.php on line 8
+[17-Jan-2011 02:25:15] PHP Warning:  readdir(): supplied argument is not a valid Directory resource in /home1/uberbots/public_html/omni/includes/module.php on line 9
+[17-Jan-2011 10:14:31] PHP Warning:  include(/../forums/common.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home1/uberbots/public_html/omni/includes/phpBBsession.php on line 11
+[17-Jan-2011 10:14:31] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '/../forums/common.php' for inclusion (include_path='.:/usr/lib64/php') in /home1/uberbots/public_html/omni/includes/phpBBsession.php on line 11
+[17-Jan-2011 10:14:31] PHP Fatal error:  Call to a member function session_begin() on a non-object in /home1/uberbots/public_html/omni/includes/phpBBsession.php on line 17
+[22-Jan-2011 11:25:29] PHP Warning:  opendir(/modules) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: No such file or directory in /home1/uberbots/public_html/omni/includes/module.php on line 8
+[22-Jan-2011 11:25:29] PHP Warning:  readdir(): supplied argument is not a valid Directory resource in /home1/uberbots/public_html/omni/includes/module.php on line 9
+[13-Feb-2011 19:28:52] PHP Warning:  opendir(/modules) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: No such file or directory in /home1/uberbots/public_html/omni/includes/module.php on line 8
+[13-Feb-2011 19:28:52] PHP Warning:  readdir(): supplied argument is not a valid Directory resource in /home1/uberbots/public_html/omni/includes/module.php on line 9
+[13-Feb-2011 19:35:16] PHP Warning:  include(/../forums/common.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home1/uberbots/public_html/omni/includes/phpBBsession.php on line 11
+[13-Feb-2011 19:35:16] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening '/../forums/common.php' for inclusion (include_path='.:/usr/lib64/php') in /home1/uberbots/public_html/omni/includes/phpBBsession.php on line 11
+[13-Feb-2011 19:35:16] PHP Fatal error:  Call to a member function session_begin() on a non-object in /home1/uberbots/public_html/omni/includes/phpBBsession.php on line 17
+[13-Jun-2011 13:26:48] PHP Warning:  opendir(/modules) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: No such file or directory in /home1/uberbots/public_html/omni/includes/module.php on line 15
+[13-Jun-2011 13:26:48] PHP Warning:  readdir(): supplied argument is not a valid Directory resource in /home1/uberbots/public_html/omni/includes/module.php on line 16
+[13-Jun-2011 14:06:43] PHP Warning:  opendir(/modules) [<a href='function.opendir'>function.opendir</a>]: failed to open dir: No such file or directory in /home1/uberbots/public_html/omni/includes/module.php on line 15
+[13-Jun-2011 14:06:43] PHP Warning:  readdir(): supplied argument is not a valid Directory resource in /home1/uberbots/public_html/omni/includes/module.php on line 16

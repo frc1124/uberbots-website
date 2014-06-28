@@ -1,0 +1,63 @@
+<script type="text/javascript">
+function addMentor(mentor,event){
+			$.post('/omni/ajax/addMentor.php', {mode:'add',mentor: mentor, eventId: event} ,
+			function(data){
+					alert(data);
+					location.reload();
+				});
+			return false;
+}
+function remMentor(mentor,event){
+	$.post('/omni/ajax/addMentor.php', {mode:'rem',mentor: mentor, eventId: event} ,
+			function(data){
+					alert(data);
+					location.reload();
+				});
+			return false;
+}
+
+[[IF INVALID]]
+$(document).ready(function() {
+    $('#eventInfo').html("The requested event does not exist.");
+});
+[[END IF]]
+</script>
+<div id="eventInfo">
+<h1>{{eventName}}</h1>
+
+<p>{{description}}</p>
+<div style="display:inline;width:150px;"><b>Event Type: </b></div>{{type}}<br/>
+<div style="display:inline;width:150px;"><b>Event Starts: </b></div>{{startTime}}<br/>
+<div style="display:inline;width:150px;"><b>Event Ends: </b></div>{{endTime}}<br/>
+<div style="display:inline;width:150px;"><b>Event Location: </b></div>{{location}}<br/>
+
+[[IF MENTORS]]
+<h2>Mentors Attending</h2>
+<ul style="padding:15px;">
+{{mentors}}
+</ul>
+[[END IF]]
+
+<div id="mentorSignup">
+[[IF mentorCheck]]
+{{mentorLink}}
+[[END IF]]
+[[IF mentorAttending]]
+{{remMentor}}
+[[END IF]]
+</div>
+
+
+[[IF MINUTE]]
+<div id='min'>
+<h2>Meeting Minutes</h2>
+<ul style="padding:15px;">{{minutes}}</ul>
+</div>
+[[END IF]]
+
+[[IF EDITABLE]]<a href="http://uberbots.org/forums/posting.php?mode=post&amp;f=58&amp;calendarEvent={{id}}&amp;subject={{minuteURL}} Minutes">+ Add Meeting Minutes</a><br/>[[END IF]]
+<a href="http://uberbots.org/omni/actions/ical.php?type=single&amp;id={{id}}">Export for iCal</a><br/>
+
+</div>
+
+<div><a href="javascript:history.back()">Go Back</a></div>

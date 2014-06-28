@@ -1,0 +1,61 @@
+:anonymous::Mon Apr 1 2:00:02 EDT 2013:Logs Archived - 1364796002
+:anonymous::Mon Apr 1 2:00:05 EDT 2013:Weekly Updates Sent
+:anonymous::Mon Apr 1 18:25:01 EDT 2013:uploaded picture 'P3280386.JPG' to album 'Connecticut Regional' from 2013
+:anonymous::Mon Apr 1 18:25:16 EDT 2013:uploaded picture 'P3280387.JPG' to album 'Connecticut Regional' from 2013
+:anonymous::Mon Apr 1 18:25:33 EDT 2013:uploaded picture 'P3280388.JPG' to album 'Connecticut Regional' from 2013
+:anonymous::Mon Apr 1 18:25:46 EDT 2013:uploaded picture 'P3280384.JPG' to album 'Connecticut Regional' from 2013
+:anonymous::Mon Apr 1 18:26:01 EDT 2013:uploaded picture 'P3280383.JPG' to album 'Connecticut Regional' from 2013
+:anonymous::Mon Apr 1 18:26:16 EDT 2013:uploaded picture 'P3270382.JPG' to album 'Connecticut Regional' from 2013
+:anonymous::Mon Apr 1 18:26:31 EDT 2013:uploaded picture 'P3280390.JPG' to album 'Connecticut Regional' from 2013
+:anonymous::Mon Apr 1 18:26:48 EDT 2013:uploaded picture 'P3280389.JPG' to album 'Connecticut Regional' from 2013
+:anonymous::Mon Apr 1 18:27:05 EDT 2013:uploaded picture 'P3280391.JPG' to album 'Connecticut Regional' from 2013
+:anonymous::Mon Apr 1 18:27:08 EDT 2013:uploaded picture '900908_484880391576977_1119366087_o.jpg' to album 'Connecticut Regional' from 2013
+:anonymous::Mon Apr 1 18:27:09 EDT 2013:uploaded picture 'E554.tmp.jpg' to album 'Connecticut Regional' from 2013
+:anonymous::Mon Apr 1 18:27:09 EDT 2013:uploaded picture 'IMG_0651.jpg' to album 'Connecticut Regional' from 2013
+:anonymous::Mon Apr 1 18:27:33 EDT 2013:uploaded picture 'IMG_3701.JPG' to album 'Cyclone and Management' from 2013
+:anonymous::Mon Apr 1 18:27:48 EDT 2013:uploaded picture 'IMG_3702.JPG' to album 'Cyclone and Management' from 2013
+:anonymous::Mon Apr 1 18:28:05 EDT 2013:uploaded picture 'IMG_3703.JPG' to album 'Cyclone and Management' from 2013
+:anonymous::Mon Apr 1 18:28:23 EDT 2013:uploaded picture 'IMG_3704.JPG' to album 'Cyclone and Management' from 2013
+:anonymous::Mon Apr 1 18:28:34 EDT 2013:uploaded picture 'IMG_3705.JPG' to album 'Cyclone and Management' from 2013
+:anonymous::Mon Apr 1 18:28:46 EDT 2013:uploaded picture 'IMG_3706.JPG' to album 'Cyclone and Management' from 2013
+:anonymous::Mon Apr 1 18:28:58 EDT 2013:uploaded picture 'IMG_3707.JPG' to album 'Cyclone and Management' from 2013
+:anonymous::Mon Apr 1 18:29:13 EDT 2013:uploaded picture 'IMG_3708.JPG' to album 'Cyclone and Management' from 2013
+:anonymous::Mon Apr 1 18:29:26 EDT 2013:uploaded picture 'IMG_3709.JPG' to album 'Cyclone and Management' from 2013
+:anonymous::Mon Apr 1 18:29:40 EDT 2013:uploaded picture 'IMG_3710.JPG' to album 'Cyclone and Management' from 2013
+:anonymous::Mon Apr 1 18:29:50 EDT 2013:uploaded picture 'IMG_3717.JPG' to album 'Cyclone and Management' from 2013
+:anonymous::Mon Apr 1 18:29:59 EDT 2013:uploaded picture 'IMG_3718.JPG' to album 'Cyclone and Management' from 2013
+:anonymous::Mon Apr 1 18:30:14 EDT 2013:uploaded picture 'IMG_3711.JPG' to album 'Cyclone and Management' from 2013
+:anonymous::Mon Apr 1 18:30:27 EDT 2013:uploaded picture 'IMG_3712.JPG' to album 'Cyclone and Management' from 2013
+:anonymous::Mon Apr 1 18:30:39 EDT 2013:uploaded picture 'IMG_3713.JPG' to album 'Cyclone and Management' from 2013
+:anonymous::Mon Apr 1 18:30:48 EDT 2013:uploaded picture 'IMG_3714.JPG' to album 'Cyclone and Management' from 2013
+:anonymous::Mon Apr 1 18:30:58 EDT 2013:uploaded picture 'IMG_3715.JPG' to album 'Cyclone and Management' from 2013
+:anonymous::Mon Apr 1 18:31:13 EDT 2013:uploaded picture 'IMG_3716.JPG' to album 'Cyclone and Management' from 2013
+plnyyanks@gmail.com:phil:71.234.198.104:Tue Apr 2 21:03:12 EDT 2013:Edited mod instance id '20' from pageId '1'
+plnyyanks@gmail.com:phil:71.234.198.104:Thu Apr 4 22:27:42 EDT 2013:Edited mod instance id '1' from pageId '86'
+plnyyanks@gmail.com:phil:71.234.198.104:Thu Apr 4 22:28:12 EDT 2013:Edited mod instance id '3' from pageId '86'
+:anonymous::Mon Apr 8 2:00:03 EDT 2013:Weekly Updates Sent
+:anonymous::Wed Apr 10 7:58:45 EDT 2013:Uploaded file ../media/files/BattleCry Permission Slip.pdf
+:anonymous::Wed Apr 10 7:58:51 EDT 2013:Uploaded file ../media/files/CT State CMP Permission Slip.pdf
+plnyyanks@gmail.com:phil:71.234.198.104:Wed Apr 10 8:02:57 EDT 2013:Mass email sent :Offseason Competitions
+ameya.shashank@hotmail.com:ameyashashank:69.177.91.235:Fri Apr 12 20:06:21 EDT 2013:Deleted event with id of 481.
+ameya.shashank@hotmail.com:ameyashashank:69.177.91.235:Fri Apr 12 20:06:54 EDT 2013:Added event with title Meeting starting on 1366043400 and ending on 1366056000
+ameya.shashank@hotmail.com:ameyashashank:69.177.91.235:Fri Apr 12 20:07:30 EDT 2013:Added event with title Meeting starting on 1366129800 and ending on 1366142400
+ameya.shashank@hotmail.com:ameyashashank:69.177.91.235:Fri Apr 12 20:07:32 EDT 2013:Added event with title Meeting starting on 1366216200 and ending on 1366228800
+:anonymous::Mon Apr 15 2:00:03 EDT 2013:Weekly Updates Sent
+plnyyanks@gmail.com:phil:71.234.198.104:Mon Apr 15 9:51:35 EDT 2013:Mass email sent :Upcoming Meetings
+:anonymous::Mon Apr 22 2:00:04 EDT 2013:Weekly Updates Sent
+plnyyanks@gmail.com:phil:71.234.198.104:Tue Apr 23 9:52:30 EDT 2013:Mass email sent :Last Call for Offseason Events
+plnyyanks@gmail.com:phil:71.234.198.104:Wed Apr 24 21:41:27 EDT 2013:Edited mod instance id '20' from pageId '1'
+plnyyanks@gmail.com:phil:71.234.198.104:Thu Apr 25 21:51:09 EDT 2013:Added event with title Meeting starting on 1367015400 and ending on 1367024400
+plnyyanks@gmail.com:phil:71.234.198.104:Thu Apr 25 22:08:35 EDT 2013:Mass email sent :Upcoming Events
+plnyyanks@gmail.com:phil:71.234.198.104:Fri Apr 26 9:28:44 EDT 2013:Added event with title CT State Championship starting on 1368269100 and ending on 1368355200
+plnyyanks@gmail.com:phil:71.234.198.104:Fri Apr 26 9:30:23 EDT 2013:Added event with title BattleCry@WPI 14 starting on 1368806400 and ending on 1368921600
+plnyyanks@gmail.com:phil:71.234.198.104:Fri Apr 26 9:30:51 EDT 2013:Edited event with ID: 499
+plnyyanks@gmail.com:phil:71.234.198.104:Fri Apr 26 9:31:24 EDT 2013:Edited event with ID: 499
+plnyyanks@gmail.com:phil:71.234.198.104:Fri Apr 26 17:15:08 EDT 2013:Mass email sent :Driver Practice Cancelled
+:anonymous::Mon Apr 29 2:00:04 EDT 2013:Weekly Updates Sent
+:anonymous::Mon Apr 29 9:34:14 EDT 2013:uploaded picture '2013_0330AE.JPG' to album 'Connecticut Regional' from 2013
+plnyyanks@gmail.com:phil:71.234.198.104:Mon Apr 29 15:32:22 EDT 2013:Edited mod instance id '20' from pageId '1'
+4edumail@comcast.net:aleck:24.60.224.18:Tue Apr 30 21:39:23 EDT 2013:Added event with title PGS Picnic Demo starting on 1367614800 and ending on 1367622000
+4edumail@comcast.net:aleck:24.60.224.18:Tue Apr 30 21:41:14 EDT 2013:Added event with title Cosi Fundraiser starting on 1369422000 and ending on 1369443600
+4edumail@comcast.net:aleck:24.60.224.18:Tue Apr 30 21:41:47 EDT 2013:Added event with title Cosi Fundraiser starting on 1371236400 and ending on 1371258000

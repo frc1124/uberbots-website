@@ -1,0 +1,98 @@
+<!-- CSS and Styling -->
+<style type="text/css" scoped>
+<!--
+  @import url(http://uberbots.org/omni/skins/{{currentSkin}}/css/cal.css);
+-->
+</style>
+
+ <!-- javascript-->
+	<script type="text/javascript" src="http://uberbots.org/omni/skins/classic/scripts/calScript.js"></script>
+<!-- end javascript-->
+[[IF ADMIN]] <!-- Administrative Javascript-->
+	<script type="text/javascript" src="http://uberbots.org/omni/skins/classic/scripts/calAdminScript.js"></script>
+    <script type="text/javascript" src="http://uberbots.org/omni/skins/classic/scripts/jquery-validator.js"></script>
+    <script type="text/javascript">
+	//jquery form validator, not working yet, still server side validation
+			$('#eventForm').validate({
+				rules:{
+					eventName: {required:true},
+					eventDescriptiopn: {required:true},
+					startMonth: {requried: true, digits: true, max: 12, min: 1},
+					startDay: {requried: true, digits: true, max: 31, min: 1},
+					startYear: {requried: true, digits: true, maxlength: 4, min: 2009},
+					endMonth: {requried: true, digits: true, max: 12, min: 1},
+					endDay: {requried: true, digits: true, max: 31, min: 1},
+					endYear: {requried: true, digits: true, maxlength: 4, min: 2009},
+					startMin: {required: true, digits: true, max: 59, min: 0},
+					startHour: {required: true, digits: true, max: 12, min: 1}
+				},
+				messages: {
+					eventName: {required: 'Please enter an event name'},
+					eventDescription: {required: 'Please enter an event description'},
+					startMonth: {requried: 'Please enter a start month', digits: 'Month has to be a number between one and 12', max: 'Month has to be a number between and and 12', min: 'Value must be 1 or greater'},
+					startDay: {requried: 'Please enter a start day', digits: 'Day has to be a number between one and ".$daysInMonth."', max: 'Month has to be a number between and and 31', min: 'Value must be 1 or greater'},
+					startYear: {requried: 'Please enter a start year', digits: 'Year has to be a four number long digit' , maxlength: 'Year must be 4 digits long or less', min: 'Value must be 1 or greater'},
+					endMonth: {requried: 'Please enter a start month', digits: 'Month has to be a number between one and 12', max: 'Month has to be a number between and and 12', min: 'Value must be 1 or greater'},
+					endDay: {requried: 'Please enter a start day', digits: 'Day has to be a number between one and ".$daysInMonth."', max: 'Month has to be a number between and and 31', min: 'Value must be 1 or greater'},
+					endYear: {requried: 'Please enter a start year', digits: 'Year has to be a four number long digit' , maxlength: 'Year must be 4 digits long or less', min: 'Value must be 1 or greater'},
+					startMin: {required: 'Please enter a start minute', digits: 'Minute has to be a number', max: 'Minute value can not be greater than 59', min: 'Minute value can not be less than 1'},
+					startHour: {required: 'Please enter a start  hour', digits: 'Value must be a number', max: 'Value can not be greater than 12', min: 'Value can not be less than 1'}
+				},
+				errorPlacement: function(error, element) { 
+					if ( element.is('.addMonth') ) 
+						error.appendTo( element.parent().next().next().next() ); 
+					else if ( element.is('.addDay') ) 
+						error.appendTo ( element.next().next() ); 
+					else 
+						error.appendTo( element.parent() ); 
+				}
+			}); 
+    </script>
+	<!-- end Admin Javascript-->
+[[END IF]] 
+<!-- End Javascript -->
+
+
+<!--calendar headers-->
+[[IF fullCal]] <!-- If full calendar, add table to change months-->
+	<!-- Full Month Calendar Header -->
+<h1>{{monthName}} {{year}}</h1> <!-- Title - month name and year -->
+	<table id="monthChange" style="width:100%"> <!-- table for changing months -->
+	<tr>
+	<td style="text-align:left;width:50%;"><a href="?date={{lastMonth}}" >Last Month</a></td> <!-- last month, align left -->
+	<td style="text-align:right;width:50%;"><a href="?date={{nextMonth}}" >Next Month</a></td> <!-- next month, align right -->
+	</tr>
+	</table>
+<!-- End full month cal header -->
+[[END IF]]
+
+<!-- If week calendar, add link to full calendar-->
+[[IF weekCal]] 
+	<!-- Week Calendar Header -->
+<a href='http://www.uberbots.org/o/calendar' style='float:right;padding-top:2em;'>Go to Full Calendar</a>
+<h1>Events this Week</h1><!-- title: Events this Week, also give link to full calendar page -->
+<!-- End Week Calendar Header -->
+[[END IF]]
+<!-- End headers -->
+
+<!-- Output calendar -->
+<table id="calendar" class='calendar'> <!-- Define table for calendar -->
+<!-- Table header row (days of week) -->
+<tr class='headerRow' id="headerRow"><td>Sunday</td><td>Monday</td><td>Tuesday</td><td>Wednesday</td><td>Thursday</td><td>Friday</td><td>Saturday</td></tr> <!-- End header row -->
+
+{{calendar}} <!-- Replaced by actual calendar -->
+
+</table><br/> <!-- End calendar table -->
+[[IF fullCal]] <!-- If full calendar, show information -->
+<p>
+Mouse over an event to see details about it. <img src="http://uberbots.org/omni/skins/classic/images/minutes-small.png" alt="Meeting minutes indicator"/> indicates that there are meeting minutes for that event. </p>
+
+{{icalForm}}
+<br/><br/>
+[[END IF]]
+<!--If admin, display calendar help and Add evnet form-->
+[[IF ADMIN]]
+<p>To delete an event, double click on it. To add or edit an event, click on "Event Manager" below, select "Add Event" or "Edit Event" and click on the day/event you wish to add an event on/edit and then complete the form appropriately.</p>
+
+{{addForm}}
+[[END IF]]

@@ -1,0 +1,45 @@
+:anonymous::Tue Oct 1 2:00:03 EDT 2013:Logs Archived - 1380607203
+micron1314@gmail.com:michael:72.10.96.132:Tue Oct 1 18:08:36 EDT 2013:Edited mod instance id '5' from pageId '1'
+:anonymous::Tue Oct 1 18:35:02 EDT 2013:Uploaded file ../media/files/BashSlip.pdf
+micron1314@gmail.com:michael:72.10.96.132:Thu Oct 3 21:05:56 EDT 2013:Edited event with ID: 520
+micron1314@gmail.com:michael:72.10.96.132:Fri Oct 4 18:07:23 EDT 2013:Edited event with ID: 520
+cpjack23@gmail.com:cpjack233:72.10.96.132:Fri Oct 4 21:23:01 EDT 2013:Mass email sent :Bash @ The Beach 
+micron1314@gmail.com:michael:72.10.96.132:Sat Oct 5 12:31:20 EDT 2013:Edited mod instance id '20' from pageId '1'
+micron1314@gmail.com:michael:72.10.96.132:Sun Oct 6 9:51:12 EDT 2013:Edited mod instance id '20' from pageId '1'
+micron1314@gmail.com:michael:72.10.96.132:Sun Oct 6 9:51:30 EDT 2013:Edited mod instance id '20' from pageId '1'
+:anonymous::Mon Oct 7 2:00:05 EDT 2013:Weekly Updates Sent
+justinniezrecki@gmail.com:j. niezrecki:24.60.224.66:Wed Oct 9 17:37:09 EDT 2013:Updated permissions for user riverdance on page ID 69 to access 1
+justinniezrecki@gmail.com:j. niezrecki:24.60.224.66:Thu Oct 10 15:54:35 EDT 2013:Added Special permissions for User riverdance on page with ID of 69 with permissions type 1
+justinniezrecki@gmail.com:j. niezrecki:24.60.224.66:Thu Oct 10 21:42:24 EDT 2013:Edited mod instance id '5' from pageId '1'
+justinniezrecki@gmail.com:j. niezrecki:24.60.224.66:Thu Oct 10 21:42:50 EDT 2013:Edited mod instance id '5' from pageId '1'
+justinniezrecki@gmail.com:j. niezrecki:24.60.224.66:Thu Oct 10 21:43:28 EDT 2013:Edited mod instance id '5' from pageId '1'
+:anonymous::Mon Oct 14 2:00:05 EDT 2013:Weekly Updates Sent
+micron1314@gmail.com:michael:72.10.96.132:Wed Oct 16 18:17:22 EDT 2013:Edited mod instance id '2' from pageId '94'
+micron1314@gmail.com:michael:72.10.96.132:Thu Oct 17 16:43:38 EDT 2013:Edited event with ID: 536
+justinniezrecki@gmail.com:j. niezrecki:24.60.224.66:Sun Oct 20 22:46:24 EDT 2013:Added event with title NRG Halloween Party starting on 1382655600 and ending on 1382666400
+justinniezrecki@gmail.com:j. niezrecki:24.60.224.66:Sun Oct 20 22:47:00 EDT 2013:Edited event with ID: 537
+justinniezrecki@gmail.com:j. niezrecki:24.60.224.66:Sun Oct 20 22:49:06 EDT 2013:Deleted event with id of 538.
+justinniezrecki@gmail.com:j. niezrecki:24.60.224.66:Sun Oct 20 22:49:39 EDT 2013:Added event with title Team Meeting starting on 1382655600 and ending on 1382662800
+:anonymous::Mon Oct 21 2:00:04 EDT 2013:Weekly Updates Sent
+cpjack23@gmail.com:cpjack233:72.10.96.132:Mon Oct 21 16:48:56 EDT 2013:Mass email sent :OFS Meeting and NRG Halloween Party
+micron1314@gmail.com:michael:72.10.96.132:Mon Oct 21 17:07:29 EDT 2013:Edited event with ID: 534
+micron1314@gmail.com:michael:72.10.96.132:Wed Oct 23 20:34:08 EDT 2013:Edited event with ID: 538
+micron1314@gmail.com:michael:72.10.96.132:Wed Oct 23 20:35:22 EDT 2013:sent SMS message: Correction: Meeting Thursday is at OFS
+micron1314@gmail.com:michael:72.10.96.132:Wed Oct 23 20:38:20 EDT 2013:Edited mod instance id '5' from pageId '1'
+micron1314@gmail.com:michael:72.10.96.132:Wed Oct 23 20:38:53 EDT 2013:Reverted mod id on page id 1 and instance id 5 to edit state 142
+micron1314@gmail.com:michael:72.10.96.132:Wed Oct 23 20:39:26 EDT 2013:Reverted mod id on page id 1 and instance id 5 to edit state 136
+micron1314@gmail.com:michael:72.10.96.132:Wed Oct 23 20:40:00 EDT 2013:Reverted mod id on page id 1 and instance id 5 to edit state 140
+justinniezrecki@gmail.com:j. niezrecki:24.60.224.66:Sun Oct 27 22:18:00 EDT 2013:Edited event with ID: 535
+justinniezrecki@gmail.com:j. niezrecki:24.60.224.66:Sun Oct 27 22:19:44 EDT 2013:Added event with title Team Meeting starting on 1383696000 and ending on 1383703200
+justinniezrecki@gmail.com:j. niezrecki:24.60.224.66:Sun Oct 27 22:19:48 EDT 2013:Added event with title Team Meeting starting on 1383868800 and ending on 1383876000
+justinniezrecki@gmail.com:j. niezrecki:24.60.224.66:Sun Oct 27 22:19:52 EDT 2013:Added event with title Team Meeting starting on 1384300800 and ending on 1384308000
+justinniezrecki@gmail.com:j. niezrecki:24.60.224.66:Sun Oct 27 22:19:55 EDT 2013:Added event with title Team Meeting starting on 1384905600 and ending on 1384912800
+justinniezrecki@gmail.com:j. niezrecki:24.60.224.66:Sun Oct 27 22:19:59 EDT 2013:Added event with title Team Meeting starting on 1384473600 and ending on 1384480800
+justinniezrecki@gmail.com:j. niezrecki:24.60.224.66:Sun Oct 27 22:20:03 EDT 2013:Added event with title Team Meeting starting on 1385078400 and ending on 1385085600
+justinniezrecki@gmail.com:j. niezrecki:24.60.224.66:Sun Oct 27 22:20:08 EDT 2013:Added event with title Team Meeting starting on 1385510400 and ending on 1385517600
+justinniezrecki@gmail.com:j. niezrecki:24.60.224.66:Sun Oct 27 22:20:13 EDT 2013:Added event with title Team Meeting starting on 1385683200 and ending on 1385690400
+justinniezrecki@gmail.com:j. niezrecki:24.60.224.66:Sun Oct 27 22:20:32 EDT 2013:Deleted event with id of 546.
+:anonymous::Mon Oct 28 2:00:05 EDT 2013:Weekly Updates Sent
+justinniezrecki@gmail.com:j. niezrecki:24.60.224.66:Mon Oct 28 8:24:02 EDT 2013:Edited mod instance id '20' from pageId '1'
+justinniezrecki@gmail.com:j. niezrecki:24.60.224.66:Tue Oct 29 21:44:42 EDT 2013:Deleted event with id of 539.
+justinniezrecki@gmail.com:j. niezrecki:24.60.224.66:Wed Oct 30 17:44:57 EDT 2013:Added event with title Über Party starting on 1383426000 and ending on 1383444000

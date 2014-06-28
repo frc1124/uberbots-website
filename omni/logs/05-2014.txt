@@ -1,0 +1,124 @@
+:anonymous::Tue Apr 1 2:00:02 EDT 2014:Logs Archived - 1396332002
+barbandjim92@gmail.com:lareau01:65.96.105.12:Wed Apr 2 5:27:29 EDT 2014:Added event with title 2nd annual CT CIAC State Robotics Championships.  starting on 1400324400 and ending on 1400367600
+barbandjim92@gmail.com:lareau01:65.96.105.12:Sun Apr 6 6:01:22 EDT 2014:Deleted event with id of 615_1.
+barbandjim92@gmail.com:lareau01:65.96.105.12:Sun Apr 6 6:01:26 EDT 2014:Deleted event with id of 615_-1.
+barbandjim92@gmail.com:lareau01:65.96.105.12:Sun Apr 6 6:01:32 EDT 2014:Deleted event with id of 615_0.
+barbandjim92@gmail.com:lareau01:65.96.105.12:Sun Apr 6 6:01:39 EDT 2014:Deleted event with id of 616_-1.
+barbandjim92@gmail.com:lareau01:65.96.105.12:Sun Apr 6 6:01:44 EDT 2014:Deleted event with id of 616_0.
+barbandjim92@gmail.com:lareau01:65.96.105.12:Sun Apr 6 6:01:48 EDT 2014:Deleted event with id of 616_1.
+barbandjim92@gmail.com:lareau01:65.96.105.12:Sun Apr 6 6:01:52 EDT 2014:Deleted event with id of 616_2.
+barbandjim92@gmail.com:lareau01:65.96.105.12:Sun Apr 6 6:12:00 EDT 2014:Added event with title Beantown Blitz starting on 1401530400 and ending on 1401584400
+barbandjim92@gmail.com:lareau01:65.96.105.12:Sun Apr 6 6:13:17 EDT 2014:Added event with title Where\'s Wolcott? Invitational starting on 1402743600 and ending on 1402790400
+barbandjim92@gmail.com:lareau01:65.96.105.12:Sun Apr 6 6:18:37 EDT 2014:Edited event with ID: 682
+barbandjim92@gmail.com:lareau01:65.96.105.12:Sun Apr 6 6:18:54 EDT 2014:Edited event with ID: 686
+barbandjim92@gmail.com:lareau01:65.96.105.12:Sun Apr 6 6:19:07 EDT 2014:Edited event with ID: 683
+barbandjim92@gmail.com:lareau01:65.96.105.12:Sun Apr 6 6:19:22 EDT 2014:Edited event with ID: 687
+barbandjim92@gmail.com:lareau01:65.96.105.12:Sun Apr 6 6:19:34 EDT 2014:Edited event with ID: 685
+barbandjim92@gmail.com:lareau01:65.96.105.12:Sun Apr 6 6:19:48 EDT 2014:Edited event with ID: 688
+barbandjim92@gmail.com:lareau01:65.96.105.12:Sun Apr 6 6:20:00 EDT 2014:Edited event with ID: 684
+barbandjim92@gmail.com:lareau01:65.96.105.12:Sun Apr 6 6:20:12 EDT 2014:Edited event with ID: 682
+barbandjim92@gmail.com:lareau01:65.96.105.12:Sun Apr 6 6:20:22 EDT 2014:Edited event with ID: 686
+barbandjim92@gmail.com:lareau01:65.96.105.12:Sun Apr 6 6:20:30 EDT 2014:Edited event with ID: 683
+barbandjim92@gmail.com:lareau01:65.96.105.12:Sun Apr 6 6:20:41 EDT 2014:Edited event with ID: 687
+barbandjim92@gmail.com:lareau01:65.96.105.12:Sun Apr 6 6:20:51 EDT 2014:Edited event with ID: 685
+barbandjim92@gmail.com:lareau01:65.96.105.12:Sun Apr 6 6:21:04 EDT 2014:Edited event with ID: 688
+barbandjim92@gmail.com:lareau01:65.96.105.12:Sun Apr 6 6:22:03 EDT 2014:Added event with title Teaming Meeting starting on 1398985200 and ending on 1398992400
+barbandjim92@gmail.com:lareau01:65.96.105.12:Sun Apr 6 6:22:21 EDT 2014:Added event with title Teaming Meeting starting on 1399417200 and ending on 1399424400
+barbandjim92@gmail.com:lareau01:65.96.105.12:Sun Apr 6 6:22:27 EDT 2014:Added event with title Teaming Meeting starting on 1399590000 and ending on 1399597200
+barbandjim92@gmail.com:lareau01:65.96.105.12:Sun Apr 6 6:22:36 EDT 2014:Added event with title Teaming Meeting starting on 1400022000 and ending on 1400029200
+barbandjim92@gmail.com:lareau01:65.96.105.12:Sun Apr 6 6:22:41 EDT 2014:Added event with title Teaming Meeting starting on 1400194800 and ending on 1400202000
+barbandjim92@gmail.com:lareau01:65.96.105.12:Sun Apr 6 6:22:47 EDT 2014:Added event with title Teaming Meeting starting on 1400626800 and ending on 1400634000
+barbandjim92@gmail.com:lareau01:65.96.105.12:Sun Apr 6 6:22:52 EDT 2014:Added event with title Teaming Meeting starting on 1400799600 and ending on 1400806800
+barbandjim92@gmail.com:lareau01:65.96.105.12:Sun Apr 6 6:22:56 EDT 2014:Added event with title Teaming Meeting starting on 1401231600 and ending on 1401238800
+barbandjim92@gmail.com:lareau01:65.96.105.12:Sun Apr 6 6:23:00 EDT 2014:Added event with title Teaming Meeting starting on 1401404400 and ending on 1401411600
+barbandjim92@gmail.com:lareau01:65.96.105.12:Sun Apr 6 6:23:35 EDT 2014:Added event with title Team Meeting starting on 1401836400 and ending on 1401843600
+barbandjim92@gmail.com:lareau01:65.96.105.12:Sun Apr 6 6:23:41 EDT 2014:Added event with title Team Meeting starting on 1402009200 and ending on 1402016400
+barbandjim92@gmail.com:lareau01:65.96.105.12:Sun Apr 6 6:23:50 EDT 2014:Added event with title Team Meeting starting on 1402441200 and ending on 1402448400
+barbandjim92@gmail.com:lareau01:65.96.105.12:Sun Apr 6 6:23:54 EDT 2014:Added event with title Team Meeting starting on 1402614000 and ending on 1402621200
+barbandjim92@gmail.com:lareau01:65.96.105.12:Sun Apr 6 6:24:06 EDT 2014:Added event with title Team Meeting starting on 1403046000 and ending on 1403053200
+barbandjim92@gmail.com:lareau01:65.96.105.12:Sun Apr 6 6:24:12 EDT 2014:Added event with title Team Meeting starting on 1403218800 and ending on 1403226000
+:anonymous::Mon Apr 7 2:00:07 EDT 2014:Weekly Updates Sent
+:anonymous::Mon Apr 14 2:00:07 EDT 2014:Weekly Updates Sent
+:anonymous::Mon Apr 21 2:00:08 EDT 2014:Weekly Updates Sent
+barbandjim92@gmail.com:lareau01:65.96.105.12:Wed Apr 23 5:16:18 EDT 2014:Added event with title Team Meeting starting on 1398294000 and ending on 1398301200
+barbandjim92@gmail.com:lareau01:65.96.105.12:Wed Apr 23 5:16:19 EDT 2014:Added event with title Team Meeting starting on 1398294000 and ending on 1398301200
+barbandjim92@gmail.com:lareau01:65.96.105.12:Wed Apr 23 5:16:44 EDT 2014:Added event with title Team Meeting starting on 1398466800 and ending on 1398474000
+barbandjim92@gmail.com:lareau01:65.96.105.12:Wed Apr 23 5:16:51 EDT 2014:Added event with title Team Meeting starting on 1398726000 and ending on 1398733200
+barbandjim92@gmail.com:lareau01:65.96.105.12:Wed Apr 23 5:16:55 EDT 2014:Added event with title Team Meeting starting on 1398898800 and ending on 1398906000
+barbandjim92@gmail.com:lareau01:65.96.105.12:Wed Apr 23 5:17:19 EDT 2014:Deleted event with id of 709.
+barbandjim92@gmail.com:lareau01:65.96.105.12:Wed Apr 23 5:17:25 EDT 2014:Deleted event with id of 684.
+barbandjim92@gmail.com:lareau01:65.96.105.12:Wed Apr 23 5:18:16 EDT 2014:Added event with title Team Meeting starting on 1398535200 and ending on 1398546000
+barbandjim92@gmail.com:lareau01:65.96.105.12:Wed Apr 23 5:18:22 EDT 2014:Added event with title Team Meeting starting on 1398621600 and ending on 1398632400
+barbandjim92@gmail.com:lareau01:65.96.105.12:Wed Apr 23 5:19:38 EDT 2014:Deleted event with id of 693.
+barbandjim92@gmail.com:lareau01:65.96.105.12:Wed Apr 23 5:19:42 EDT 2014:Deleted event with id of 694.
+barbandjim92@gmail.com:lareau01:65.96.105.12:Wed Apr 23 5:19:49 EDT 2014:Deleted event with id of 696.
+barbandjim92@gmail.com:lareau01:65.96.105.12:Wed Apr 23 5:19:53 EDT 2014:Deleted event with id of 697.
+barbandjim92@gmail.com:lareau01:65.96.105.12:Wed Apr 23 5:19:56 EDT 2014:Deleted event with id of 698.
+barbandjim92@gmail.com:lareau01:65.96.105.12:Wed Apr 23 5:20:00 EDT 2014:Deleted event with id of 699.
+barbandjim92@gmail.com:lareau01:65.96.105.12:Wed Apr 23 5:20:03 EDT 2014:Deleted event with id of 700.
+barbandjim92@gmail.com:lareau01:65.96.105.12:Wed Apr 23 5:20:06 EDT 2014:Deleted event with id of 701.
+barbandjim92@gmail.com:lareau01:65.96.105.12:Wed Apr 23 5:20:53 EDT 2014:Added event with title Team Meeting starting on 1399330800 and ending on 1399338000
+barbandjim92@gmail.com:lareau01:65.96.105.12:Wed Apr 23 5:21:01 EDT 2014:Added event with title Team Meeting starting on 1399503600 and ending on 1399510800
+barbandjim92@gmail.com:lareau01:65.96.105.12:Wed Apr 23 5:21:07 EDT 2014:Added event with title Team Meeting starting on 1399935600 and ending on 1399942800
+barbandjim92@gmail.com:lareau01:65.96.105.12:Wed Apr 23 5:21:12 EDT 2014:Added event with title Team Meeting starting on 1400108400 and ending on 1400115600
+barbandjim92@gmail.com:lareau01:65.96.105.12:Wed Apr 23 5:21:17 EDT 2014:Added event with title Team Meeting starting on 1400281200 and ending on 1400288400
+barbandjim92@gmail.com:lareau01:65.96.105.12:Wed Apr 23 5:21:23 EDT 2014:Added event with title Team Meeting starting on 1400540400 and ending on 1400547600
+barbandjim92@gmail.com:lareau01:65.96.105.12:Wed Apr 23 5:21:27 EDT 2014:Added event with title Team Meeting starting on 1400713200 and ending on 1400720400
+barbandjim92@gmail.com:lareau01:65.96.105.12:Wed Apr 23 5:21:32 EDT 2014:Added event with title Team Meeting starting on 1400886000 and ending on 1400893200
+barbandjim92@gmail.com:lareau01:65.96.105.12:Wed Apr 23 5:21:38 EDT 2014:Added event with title Team Meeting starting on 1401145200 and ending on 1401152400
+barbandjim92@gmail.com:lareau01:65.96.105.12:Wed Apr 23 5:21:42 EDT 2014:Added event with title Team Meeting starting on 1401318000 and ending on 1401325200
+barbandjim92@gmail.com:lareau01:65.96.105.12:Wed Apr 23 5:21:47 EDT 2014:Added event with title Team Meeting starting on 1401490800 and ending on 1401498000
+barbandjim92@gmail.com:lareau01:65.96.105.12:Wed Apr 23 12:13:52 EDT 2014:Edited event with ID: 690
+barbandjim92@gmail.com:lareau01:65.96.105.12:Sun Apr 27 9:04:25 EDT 2014:Edited event with ID: 714
+barbandjim92@gmail.com:lareau01:65.96.105.12:Sun Apr 27 9:04:49 EDT 2014:Edited event with ID: 714
+barbandjim92@gmail.com:lareau01:65.96.105.12:Sun Apr 27 9:05:40 EDT 2014:Edited event with ID: 714
+micron1314@gmail.com:michael:72.10.96.132:Sun Apr 27 16:48:21 EDT 2014:Edited mod instance id '20' from pageId '1'
+micron1314@gmail.com:michael:72.10.96.132:Sun Apr 27 22:09:09 EDT 2014:Edited mod instance id '20' from pageId '1'
+:anonymous::Mon Apr 28 2:00:07 EDT 2014:Weekly Updates Sent
+barbandjim92@gmail.com:lareau01:65.96.105.12:Mon Apr 28 5:11:33 EDT 2014:Added event with title May Day at RBS starting on 1399222800 and ending on 1399233600
+barbandjim92@gmail.com:lareau01:65.96.105.12:Mon Apr 28 5:12:18 EDT 2014:Edited event with ID: 
+barbandjim92@gmail.com:lareau01:65.96.105.12:Mon Apr 28 5:13:02 EDT 2014:Edited event with ID: 695
+barbandjim92@gmail.com:lareau01:65.96.105.12:Mon Apr 28 5:13:52 EDT 2014:Edited event with ID: 669
+barbandjim92@gmail.com:lareau01:65.96.105.12:Mon Apr 28 5:14:00 EDT 2014:Edited event with ID: 669
+barbandjim92@gmail.com:lareau01:65.96.105.12:Mon Apr 28 5:14:39 EDT 2014:Edited event with ID: 665
+barbandjim92@gmail.com:lareau01:65.96.105.12:Mon Apr 28 5:15:18 EDT 2014:Edited event with ID: 665
+barbandjim92@gmail.com:lareau01:65.96.105.12:Mon Apr 28 5:15:24 EDT 2014:Edited event with ID: 665
+barbandjim92@gmail.com:lareau01:65.96.105.12:Thu May 1 17:34:09 EDT 2014:Deleted event with id of 691.
+micron1314@gmail.com:michael:72.10.96.132:Thu May 1 19:16:26 EDT 2014:Edited event with ID: 695
+barbandjim92@gmail.com:lareau01:65.96.105.12:Sun May 4 17:16:09 EDT 2014:Edited event with ID: 716
+barbandjim92@gmail.com:lareau01:65.96.105.12:Sun May 4 17:16:19 EDT 2014:Deleted event with id of 695.
+:anonymous::Mon May 5 2:00:09 EDT 2014:Weekly Updates Sent
+micron1314@gmail.com:michael:72.10.96.132:Tue May 6 11:13:54 EDT 2014:Edited event with ID: 668
+barbandjim92@gmail.com:lareau01:65.96.105.12:Wed May 7 18:33:47 EDT 2014:Edited event with ID: 668
+barbandjim92@gmail.com:lareau01:65.96.105.12:Wed May 7 18:35:22 EDT 2014:Edited event with ID: 665
+barbandjim92@gmail.com:lareau01:65.96.105.12:Wed May 7 18:35:47 EDT 2014:Edited event with ID: 665
+barbandjim92@gmail.com:lareau01:65.96.105.12:Fri May 9 15:51:13 EDT 2014:Edited event with ID: 665
+:anonymous::Mon May 12 2:00:09 EDT 2014:Weekly Updates Sent
+barbandjim92@gmail.com:lareau01:65.96.105.12:Mon May 12 21:35:17 EDT 2014:Added event with title Team Meeting starting on 1400022000 and ending on 1400029200
+barbandjim92@gmail.com:lareau01:65.96.105.12:Mon May 12 21:35:26 EDT 2014:Added event with title Team Meeting starting on 1400194800 and ending on 1400202000
+barbandjim92@gmail.com:lareau01:65.96.105.12:Mon May 12 21:37:30 EDT 2014:Edited event with ID: 719
+barbandjim92@gmail.com:lareau01:65.96.105.12:Mon May 12 21:37:53 EDT 2014:Deleted event with id of 719.
+barbandjim92@gmail.com:lareau01:65.96.105.12:Mon May 12 21:39:27 EDT 2014:Added event with title Delivering Robot to Competition starting on 1400273100 and ending on 1400284800
+barbandjim92@gmail.com:lareau01:65.96.105.12:Mon May 12 21:39:35 EDT 2014:Added event with title Deliver Robot to Competition starting on 1400273100 and ending on 1400284800
+barbandjim92@gmail.com:lareau01:65.96.105.12:Mon May 12 21:40:10 EDT 2014:Deleted event with id of 730.
+barbandjim92@gmail.com:lareau01:65.96.105.12:Mon May 12 21:40:28 EDT 2014:Edited event with ID: 729
+barbandjim92@gmail.com:lareau01:65.96.105.12:Mon May 12 21:41:27 EDT 2014:Added event with title Team Meeting - CANCELLED starting on 1400281200 and ending on 1400288400
+barbandjim92@gmail.com:lareau01:65.96.105.12:Mon May 12 21:41:58 EDT 2014:Edited event with ID: 730
+barbandjim92@gmail.com:lareau01:65.96.105.12:Mon May 12 21:42:11 EDT 2014:Edited event with ID: 730
+barbandjim92@gmail.com:lareau01:65.96.105.12:Mon May 12 21:42:37 EDT 2014:Edited event with ID: 730
+barbandjim92@gmail.com:lareau01:65.96.105.12:Mon May 12 21:42:42 EDT 2014:Edited event with ID: 730
+barbandjim92@gmail.com:lareau01:65.96.105.12:Mon May 12 21:43:01 EDT 2014:Edited event with ID: 730
+barbandjim92@gmail.com:lareau01:65.96.105.12:Mon May 12 21:43:15 EDT 2014:Edited event with ID: 730
+justinniezrecki@gmail.com:j. niezrecki:24.60.224.66:Sat May 17 21:39:03 EDT 2014:Edited mod instance id '20' from pageId '1'
+micron1314@gmail.com:michael:72.10.96.132:Sat May 17 22:21:33 EDT 2014:Edited mod instance id '20' from pageId '1'
+:anonymous::Mon May 19 2:00:09 EDT 2014:Weekly Updates Sent
+barbandjim92@gmail.com:lareau01:65.96.105.12:Thu May 22 17:29:51 EDT 2014:Added event with title Team Meeting starting on 1400799600 and ending on 1400806800
+barbandjim92@gmail.com:lareau01:65.96.105.12:Fri May 23 21:34:20 EDT 2014:Edited event with ID: 671
+barbandjim92@gmail.com:lareau01:65.96.105.12:Fri May 23 21:35:06 EDT 2014:Deleted event with id of 723.
+:anonymous::Mon May 26 2:00:08 EDT 2014:Weekly Updates Sent
+micron1314@gmail.com:michael:72.10.96.132:Tue May 27 21:47:29 EDT 2014:Edited mod instance id '20' from pageId '1'
+barbandjim92@gmail.com:lareau01:65.96.105.12:Thu May 29 5:16:27 EDT 2014:Edited event with ID: 725
+barbandjim92@gmail.com:lareau01:65.96.105.12:Thu May 29 5:17:21 EDT 2014:Edited event with ID: 702
+barbandjim92@gmail.com:lareau01:65.96.105.12:Thu May 29 5:17:48 EDT 2014:Edited event with ID: 703
+barbandjim92@gmail.com:lareau01:65.96.105.12:Thu May 29 5:18:12 EDT 2014:Edited event with ID: 704
+barbandjim92@gmail.com:lareau01:65.96.105.12:Thu May 29 5:18:33 EDT 2014:Edited event with ID: 705

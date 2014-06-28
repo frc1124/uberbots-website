@@ -1,0 +1,75 @@
+:anonymous::Fri Apr 1 2:00:05 EDT 2011:Logs Archived - 1301637605
+plnyyanks@gmail.com:phil:71.234.198.104:Fri Apr 1 18:59:45 EDT 2011:Tweeted 'Thanks to all who helped us win the Website Award at the CTR!!!'
+plnyyanks@gmail.com:phil:71.234.198.104:Fri Apr 1 20:55:51 EDT 2011:Edited mod instance id '17' from pageId '1'
+plnyyanks@gmail.com:phil:71.234.198.104:Fri Apr 1 20:56:03 EDT 2011:Reverted mod id on page id 1 and instance id 17 to edit state 1134
+plnyyanks@gmail.com:phil:71.234.198.104:Sat Apr 2 22:12:46 EDT 2011:Deleted mod instance id '17' from pageId '1'
+plnyyanks@gmail.com:phil:71.234.198.104:Sun Apr 3 18:23:34 EDT 2011:Edited mod instance id '2' from pageId '67'
+plnyyanks@gmail.com:phil:71.234.198.104:Sun Apr 3 18:24:40 EDT 2011:Edited mod instance id '2' from pageId '40'
+:anonymous::Mon Apr 4 18:59:15 EDT 2011:uploaded picture 'DSCN0816.JPG' to album '' from 
+:anonymous::Mon Apr 4 19:00:32 EDT 2011:uploaded picture 'DSCN0817.JPG' to album '' from 
+:anonymous::Mon Apr 4 19:01:48 EDT 2011:uploaded picture 'DSCN0818.JPG' to album '' from 
+:anonymous::Mon Apr 4 19:03:03 EDT 2011:uploaded picture 'DSCN0819.JPG' to album '' from 
+:anonymous::Mon Apr 4 19:04:17 EDT 2011:uploaded picture 'DSCN0820.JPG' to album '' from 
+:anonymous::Mon Apr 4 19:05:32 EDT 2011:uploaded picture 'DSCN0824.JPG' to album '' from 
+:anonymous::Mon Apr 4 19:06:47 EDT 2011:uploaded picture 'DSCN0825.JPG' to album '' from 
+:anonymous::Mon Apr 4 19:08:02 EDT 2011:uploaded picture 'DSCN0826.JPG' to album '' from 
+:anonymous::Mon Apr 4 19:09:16 EDT 2011:uploaded picture 'DSCN0827.JPG' to album '' from 
+:anonymous::Mon Apr 4 19:10:30 EDT 2011:uploaded picture 'DSCN0828.JPG' to album '' from 
+:anonymous::Mon Apr 4 19:11:46 EDT 2011:uploaded picture 'DSCN0829.JPG' to album '' from 
+:anonymous::Mon Apr 4 19:13:00 EDT 2011:uploaded picture 'DSCN0831.JPG' to album '' from 
+:anonymous::Mon Apr 4 19:14:06 EDT 2011:uploaded picture 'DSCN0832.JPG' to album '' from 
+:anonymous::Mon Apr 4 19:15:28 EDT 2011:uploaded picture 'DSCN0835.JPG' to album '' from 
+:anonymous::Mon Apr 4 19:16:42 EDT 2011:uploaded picture 'DSCN0836.JPG' to album '' from 
+:anonymous::Mon Apr 4 19:17:58 EDT 2011:uploaded picture 'DSCN0843.JPG' to album '' from 
+:anonymous::Mon Apr 4 19:19:14 EDT 2011:uploaded picture 'DSCN0844.JPG' to album '' from 
+:anonymous::Mon Apr 4 19:20:29 EDT 2011:uploaded picture 'DSCN0847.JPG' to album '' from 
+:anonymous::Mon Apr 4 19:21:45 EDT 2011:uploaded picture 'DSCN0848.JPG' to album '' from 
+:anonymous::Mon Apr 4 19:23:00 EDT 2011:uploaded picture 'DSCN0849.JPG' to album '' from 
+:anonymous::Mon Apr 4 19:24:15 EDT 2011:uploaded picture 'DSCN0850.JPG' to album '' from 
+:anonymous::Mon Apr 4 19:25:30 EDT 2011:uploaded picture 'DSCN0851.JPG' to album '' from 
+:anonymous::Mon Apr 4 19:26:45 EDT 2011:uploaded picture 'DSCN0854.JPG' to album '' from 
+:anonymous::Mon Apr 4 19:28:02 EDT 2011:uploaded picture 'DSCN0855.JPG' to album '' from 
+:anonymous::Mon Apr 4 19:29:17 EDT 2011:uploaded picture 'DSCN0858.JPG' to album '' from 
+:anonymous::Mon Apr 4 19:30:38 EDT 2011:uploaded picture 'DSCN0862.JPG' to album '' from 
+:anonymous::Mon Apr 4 19:31:53 EDT 2011:uploaded picture 'DSCN0864.JPG' to album '' from 
+:anonymous::Mon Apr 4 19:33:08 EDT 2011:uploaded picture 'DSCN0866.JPG' to album '' from 
+:anonymous::Mon Apr 4 19:34:23 EDT 2011:uploaded picture 'DSCN0867.JPG' to album '' from 
+:anonymous::Mon Apr 4 19:35:39 EDT 2011:uploaded picture 'DSCN0868.JPG' to album '' from 
+:anonymous::Mon Apr 4 19:36:55 EDT 2011:uploaded picture 'DSCN0869.JPG' to album '' from 
+:anonymous::Mon Apr 4 19:38:08 EDT 2011:uploaded picture 'DSCN0871.JPG' to album '' from 
+:anonymous::Mon Apr 4 19:39:25 EDT 2011:uploaded picture 'DSCN0878.JPG' to album '' from 
+:anonymous::Mon Apr 4 19:40:40 EDT 2011:uploaded picture 'DSCN0880.JPG' to album '' from 
+:anonymous::Mon Apr 4 19:41:57 EDT 2011:uploaded picture 'DSCN0882.JPG' to album '' from 
+:anonymous::Mon Apr 4 19:43:22 EDT 2011:uploaded picture 'DSCN0886.JPG' to album '' from 
+:anonymous::Mon Apr 4 19:44:39 EDT 2011:uploaded picture 'DSCN0887.JPG' to album '' from 
+:anonymous::Mon Apr 4 19:45:53 EDT 2011:uploaded picture 'DSCN0888.JPG' to album '' from 
+:anonymous::Mon Apr 4 19:47:08 EDT 2011:uploaded picture 'DSCN0889.JPG' to album '' from 
+ameya.shashank@hotmail.com:ameyashashank:69.177.91.235:Sat Apr 9 11:19:44 EDT 2011:Mass email sent :Important - Conference Call
+jtyost531@yahoo.com:jutayo23:69.182.241.120:Mon Apr 11 0:57:57 EDT 2011:Mass email sent :Community Robot
+plnyyanks@gmail.com:phil:71.234.198.104:Tue Apr 12 12:10:24 EDT 2011:updated page, ID= 71
+laurenmcisaac@comcast.net:lauren:24.60.231.127:Wed Apr 13 19:54:30 EDT 2011:Mass email sent :Meeting Thursday
+ligotti@comcast.net:ligotti:71.234.123.210:Thu Apr 14 6:42:06 EDT 2011:Added event with title Team Meeting /w Simsbury starting on 1302820200 and ending on 1302829200
+ligotti@comcast.net:ligotti:71.234.123.210:Thu Apr 14 6:52:58 EDT 2011:Added event with title Demo with Seniors starting on 1306168200 and ending on 1306171800
+ligotti@comcast.net:ligotti:71.234.123.210:Thu Apr 14 6:53:04 EDT 2011:Added event with title Demo with Seniors starting on 1306168200 and ending on 1306171800
+ligotti@comcast.net:ligotti:71.234.123.210:Thu Apr 14 6:53:38 EDT 2011:Deleted event with id of 163.
+ligotti@comcast.net:ligotti:71.234.123.210:Thu Apr 14 6:54:46 EDT 2011:Added event with title End of the Year Celebration starting on 1306450800 and ending on 1306458000
+:anonymous::Thu Apr 14 17:44:25 EDT 2011:Uploaded file ../media/files/ShowRobotDesignCompetiton-2011.rtf
+:anonymous::Mon Apr 18 19:24:04 EDT 2011:uploaded picture 'CTR Hartford Picture Bigger.jpg' to album 'Northeast Utilites FIRST CT Regional' from 2011
+enigmoid@gmail.com:enigmoid:65.96.104.42:Tue Apr 26 15:14:50 EDT 2011:Added event with title Team Meeting starting on 1303857000 and ending on 1303866000
+jtyost531@yahoo.com:jutayo23:69.182.241.120:Tue Apr 26 19:43:20 EDT 2011:Added event with title Mayfair starting on 1304265600 and ending on 1304280000
+jtyost531@yahoo.com:jutayo23:69.182.241.120:Tue Apr 26 19:43:30 EDT 2011:Added event with title Mayfair starting on 1304265600 and ending on 1304280000
+jtyost531@yahoo.com:jutayo23:69.182.241.120:Tue Apr 26 19:43:32 EDT 2011:Added event with title Mayfair starting on 1304265600 and ending on 1304280000
+jtyost531@yahoo.com:jutayo23:69.182.241.120:Tue Apr 26 19:43:46 EDT 2011:Deleted event with id of 168.
+jtyost531@yahoo.com:jutayo23:69.182.241.120:Tue Apr 26 19:43:52 EDT 2011:Deleted event with id of 169.
+ameya.shashank@hotmail.com:ameyashashank:69.177.91.235:Wed Apr 27 20:02:25 EDT 2011:Added event with title Meeting starting on 1304029800 and ending on 1304038800
+plnyyanks@gmail.com:phil:71.234.198.104:Wed Apr 27 21:49:24 EDT 2011:Edited mod instance id '0' from pageId '18'
+laurenmcisaac@comcast.net:lauren:24.60.231.127:Wed Apr 27 22:48:22 EDT 2011:Mass email sent :Meeting tomorrow
+plnyyanks@gmail.com:phil:71.234.198.104:Thu Apr 28 20:07:01 EDT 2011:Added event with title Lego Contest starting on 1304533800 and ending on 1304537400
+plnyyanks@gmail.com:phil:71.234.198.104:Thu Apr 28 20:07:35 EDT 2011:Added event with title Lego Contest starting on 1304620200 and ending on 1304623800
+plnyyanks@gmail.com:phil:71.234.198.104:Thu Apr 28 20:20:11 EDT 2011:Added event with title Meeting starting on 1305673200 and ending on 1305680400
+plnyyanks@gmail.com:phil:71.234.198.104:Thu Apr 28 21:47:21 EDT 2011:Added event with title bltwsed starting on 1302642300 and ending on 1302656160
+plnyyanks@gmail.com:phil:71.234.198.104:Thu Apr 28 21:47:36 EDT 2011:Deleted event with id of 172.
+jtyost531@yahoo.com:jutayo23:69.182.241.120:Thu Apr 28 22:42:38 EDT 2011:Mass email sent :Cosi Fundraiser
+enigmoid@gmail.com:enigmoid:65.96.104.42:Fri Apr 29 15:33:26 EDT 2011:uploaded picture 'IMG_1290.JPG' to album 'CNC Machine' from 2011
+enigmoid@gmail.com:enigmoid:65.96.104.42:Fri Apr 29 15:33:37 EDT 2011:uploaded picture 'IMG_1638.JPG' to album 'CNC Machine' from 2011
+enigmoid@gmail.com:enigmoid:65.96.104.42:Fri Apr 29 15:33:45 EDT 2011:uploaded picture 'IMG_1219.jpg' to album 'CNC Machine' from 2011

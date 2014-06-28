@@ -1,0 +1,15 @@
+<h2>Select Calendar Type</h2><br>
+
+<select id="calSelect_{{pageId}}_{{instanceId}}">
+<option {{full}} value='0'>Full Month Calendar</option>
+<option {{week}} value='1'>One Week Calendar</option>
+<option {{list}} value='2'>List of Events</option>
+</select><br>
+
+[[IF listCal]]
+<div id="listInput">
+<p><label for="days" style="width:250px;display:inline-block;">Number of Days in the Future to Display Events: </label><input name="days" id="days" style="width:50px;" value="{{days}}"/></p>
+</div>
+[[END IF]]
+
+<button onclick="saveMod({{pageId}},{{instanceId}},{type:$('#calSelect_{{pageId}}_{{instanceId}}').val(),days:$('#days').attr('value')})">Save</button>

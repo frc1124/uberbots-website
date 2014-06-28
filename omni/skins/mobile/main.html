@@ -1,0 +1,144 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+    	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<meta http-equiv="content-language" content="en">
+		<meta name="language" content="English" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, target-densityDpi=device-dpi">
+		<link type="text/css" href="{{skinRoot}}/css/classic/jquery-ui-1.8.2.custom.css" rel="stylesheet" />
+		<meta name="description" content="The official website for The UberBots, team 1124 of the FIRST Robotics Program.  This site contains all of the useful tools for any team member, sponsor, or parent." />
+		<meta name="keywords" content="uberbots, UberBots, �berBots, team, 1124, FIRST, calendar, media, news" />
+        <link type="text/css" href="{{skinRoot}}/css/main.css" rel="stylesheet" />
+		<link rel="SHORTCUT ICON" HREF="http://www.uberbots.org/favicon.ico">
+		<link rel="alternate" href="http://twitter.com/statuses/user_timeline/134827411.rss" title="team1124's Tweets" type="application/rss+xml" />
+		<style type="text/css" media="all">
+			[[IF EDITABLE]]
+			.modSort {list-style-type: none;}
+			[[END IF]]
+		</style>
+		<script src="{{skinRoot}}/scripts/jquery.js" type="text/javascript"></script>
+		<script src="{{skinRoot}}/scripts/jquery-ui.js" type="text/javascript"></script>
+		<script src="{{skinRoot}}/scripts/main.js" type="text/javascript"></script>
+		
+		[[IF EDITABLE]]
+        <script src="{{skinRoot}}/scripts/editing.js" type="text/javascript"></script>
+		<script type="text/javascript" src="http://uberbots.org/omni/skins/{{currentSkin}}/jHTMLArea/scripts/jHtmlArea-0.7.0.js"></script>
+		<script type="text/javascript" src="http://uberbots.org/omni/skins/{{currentSkin}}/jHTMLArea/scripts/jHtmlArea-0.7.0.js"></script>
+		<link rel="Stylesheet" type="text/css" href="http://uberbots.org/omni/skins/{{currentSkin}}/jHTMLArea/style/jHtmlArea.css" />
+		[[END IF]]
+		<script type="text/javascript">
+		$(document).ready(function(){
+			{{secondMenu}}
+			pageId = "{{pageId}}";
+			});
+		</script>
+		<title>{{title}} - UberBots</title>
+				<!-- Google Analytics -->
+		<script type="text/javascript">
+		  var _gaq = _gaq || [];
+		  _gaq.push(['_setAccount', 'UA-25021871-3']);
+		  _gaq.push(['_trackPageview']);
+
+		  (function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		  })();
+
+		</script> <!-- End Google Analytics -->
+        {{additionalHead}}
+	</head>
+	<body>
+	
+		<div id="bodyContainer">
+	<div id="header">
+	
+			<div id="navLinksContainer">
+				<div id="navLinks">
+	[[IF NOT LOGGEDIN]]
+	<a href="http://www.uberbots.org/forums/ucp.php?mode=login" onClick="toggleLoginBox&#40;&#41;;return false;">Login</a>
+	<div id="loginBox" class="navFloat ui-corner-bottom" style="display:none;">
+	<form action="http://www.uberbots.org/forums/ucp.php?mode=login&amp;sid={{sessionId}}" method="post">
+	<span class="label"><label for="usernameBox">Username:</label></span><input id="usernameBox" name="username" type="text"><p>
+	<span class="label"><label for="passwordBox">Password:</label></span><input id="passwordBox"  name="password" type="password"><p>
+	<input type="hidden" name="redirect" value="{{currentPage}}">
+	<input type="hidden" name="sid" value="{{sessionId}}">
+	<input type="submit" value="Login" name="login">
+	</form>
+	<a href="/forums/ucp.php?mode=sendpassword" style="padding:0px;margin:0px;">Forgot Password?</a><br>
+	<a href="/forums/ucp.php?mode=register" style="padding:0px;margin:0px;">Register</a>
+	</div>
+	[[END IF]]
+	[[IF LOGGEDIN]]
+	<a href="http://www.uberbots.org/forums/ucp.php?mode=logout&amp;sid={{sessionId}}&amp;redirect={{currentPage}}">Logout</a>
+	[[END IF]]
+
+	[[IF EDITABLE]]<a href="#" onClick="toggleEditBox&#40;&#41;;">Edit</a>
+	<div id="editBox" class="navFloat ui-corner-bottom" style="width:175px;">
+	<label for="rearrangeBox">Rearrange </label><input type="checkbox" id="rearrangeBox"><p>
+	<button title="click here and then click a module to edit it" onClick="selectEdit&#40;&#41;;">Edit Module</button><p>
+	<button title="click here and then click a module to view its edit history" onClick="selectHistory&#40;&#41;;">Module History</button><p>
+	<button title="click here and then click a module to delete it" onClick="selectDel&#40;&#41;;">Delete Module</button><p>
+	<button title="click here and drag and drop a module into the column you want it it" id="listModulesButton" onClick="listModules&#40;&#41;;">Add module +</button>
+	<div id="modList"></div>
+	</div>
+	
+	[[END IF]]
+	
+	<a href="/forums/">Forums</a>
+	
+	<a href="/o/sitemap">Sitemap</a>
+	
+	<a href="#" title="decrease font size" class="decreaseFont">A-</a>
+	<a href="#" title="reset font size" class="resetFont">A</a>
+	<a href="#" title="increase font size" class="increaseFont">A+</a>
+	</div>
+	</div>
+	<a href="http://www.uberbots.org">
+	<img src="{{skinRoot}}/images/header-left.png" alt="UberBots, Avon, CT, 06001" style="border:none; float:left; width:25%;">
+	</a>
+	<a id="top" href="http://www.usfirst.org">
+	<img src="{{skinRoot}}/images/header-right.png" alt="FIRST Robotics Competition Team 1124" style="border:none; float:right;width:20%;">
+	</a>
+	<img src="{{skinRoot}}/images/headerText.png" alt="FIRST Robotics Competition Team 1124" style="border:none;width:55%;">
+	</div>
+	
+	<div id="topMenuContainer">
+	<div id="topMenu">
+		<div id="topMenuText">
+			{{topMenu}}
+		</div>
+	</div>
+	</div>
+	<div id="secondMenuDiv"><div></div></div></div>
+	
+	[[IF NOT ISHOME]]<div id="breadcrumbs">{{breadcrumbs}}</div>[[END IF]]
+	<div id="contentBox">	
+	<div id="mainColumn">
+	<p style="text-align:center;"><a href="#" onclick="defaultSkin()">Switch to desktop skin</a></p>
+	<p style="text-align:center;"><a id="columnToggle" href="#" onclick="toggleContent()">Show the seconday content column</a></p>
+	[[IF EDITABLE]]<ul class="modSort">[[END IF]]
+	{{mainColumn}}
+	[[IF EDITABLE]]</ul>[[END IF]]
+	</div>
+	<div id="secondaryColumn">
+	<p style="text-align:center;"><a href="#" onclick="defaultSkin()">Switch to desktop skin</a></p>
+	<p style="text-align:center;"><a id="columnToggle" href="#" onclick="toggleContent()">Show the main content column</a></p>
+	[[IF EDITABLE]]<ul class="modSort">[[END IF]]
+	{{secondColumn}}
+	[[IF EDITABLE]]</ul>[[END IF]]
+	</div>
+	
+    <div style="text-align:center;clear:both;">
+    <p>&copy; 2011 Avon Robotics</p>
+    <p>All Rights Reserved </p>
+	<p>Powered by <a href="http://omnipage.googlecode.com" target="_blank">OmniPage</a></p>
+	<img src="http://uberbots.org/omni/media/embedded/08Excellence.jpg" alt="FRC 2008 Website Excelence Award Image"/>
+	&nbsp;
+    <img src="http://uberbots.org/omni/media/embedded/11Excellence.jpg" alt="FRC 2011 Website Excelence Award Image"/>
+    &nbsp;
+    </div>
+	</div>
+	</div>
+	</body>
+</html>

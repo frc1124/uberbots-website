@@ -1,0 +1,11 @@
+[02-Oct-2011 12:33:20] PHP Parse error:  syntax error, unexpected T_IS_NOT_EQUAL in /home1/uberbots/public_html/omni/modules/mod_controlPanel/getLogs.php on line 48
+[02-Oct-2011 12:33:39] PHP Parse error:  syntax error, unexpected T_IS_NOT_EQUAL in /home1/uberbots/public_html/omni/modules/mod_controlPanel/getLogs.php on line 48
+[02-Oct-2011 16:30:41] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'uberbots'@'localhost' (using password: NO) in /home1/uberbots/public_html/omni/modules/mod_controlPanel/support.php on line 63
+[02-Oct-2011 16:30:41] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home1/uberbots/public_html/omni/modules/mod_controlPanel/support.php on line 63
+[02-Oct-2011 16:30:41] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home1/uberbots/public_html/omni/modules/mod_controlPanel/support.php on line 67
+[02-Oct-2011 16:36:55] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home1/uberbots/public_html/omni/modules/mod_controlPanel/support.php on line 75
+[02-Oct-2011 16:43:08] PHP Parse error:  syntax error, unexpected T_ECHO in /home1/uberbots/public_html/omni/modules/mod_controlPanel/support.php on line 75
+[02-Oct-2011 18:48:11] PHP Fatal error:  Call to undefined function printr() in /home1/uberbots/public_html/omni/modules/mod_controlPanel/support.php on line 76
+[10-Oct-2011 13:37:27] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting '(' in /home1/uberbots/public_html/omni/modules/mod_controlPanel/support.php on line 46
+[10-Oct-2011 13:38:20] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting '(' in /home1/uberbots/public_html/omni/modules/mod_controlPanel/support.php on line 48
+[10-Oct-2011 13:39:04] PHP Parse error:  syntax error, unexpected '}' in /home1/uberbots/public_html/omni/modules/mod_controlPanel/support.php on line 50

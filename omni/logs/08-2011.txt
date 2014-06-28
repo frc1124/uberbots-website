@@ -1,0 +1,133 @@
+:anonymous::Mon Aug 1 2:00:04 EDT 2011:Logs Archived - 1312178404
+plnyyanks@gmail.com:phil:71.234.198.104:Mon Aug 1 15:55:08 EDT 2011:Edited mod instance id '1' from pageId '21'
+plnyyanks@gmail.com:phil:71.234.198.104:Mon Aug 1 15:55:33 EDT 2011:Edited mod instance id '1' from pageId '21'
+plnyyanks@gmail.com:phil:71.234.198.104:Mon Aug 1 15:57:37 EDT 2011:Edited mod instance id '1' from pageId '21'
+plnyyanks@gmail.com:phil:71.234.198.104:Mon Aug 1 16:50:39 EDT 2011:Edited mod instance id '2' from pageId '1'
+plnyyanks@gmail.com:phil:71.234.198.104:Mon Aug 1 16:56:47 EDT 2011:Edited mod instance id '14' from pageId '1'
+plnyyanks@gmail.com:phil:71.234.198.104:Mon Aug 1 16:57:02 EDT 2011:Edited mod instance id '14' from pageId '1'
+plnyyanks@gmail.com:phil:71.234.198.104:Mon Aug 1 16:57:19 EDT 2011:Edited mod instance id '14' from pageId '1'
+plnyyanks@gmail.com:phil:71.234.198.104:Mon Aug 1 16:58:02 EDT 2011:Edited mod instance id '1' from pageId '22'
+plnyyanks@gmail.com:phil:71.234.198.104:Mon Aug 1 16:59:28 EDT 2011:Edited mod instance id '1' from pageId '22'
+plnyyanks@gmail.com:phil:71.234.198.104:Mon Aug 1 17:11:33 EDT 2011:updated page, ID= 31
+plnyyanks@gmail.com:phil:71.234.198.104:Tue Aug 2 19:08:58 EDT 2011:Mass email sent :Lake Compouce Trip - August 5
+plnyyanks@gmail.com:phil:71.234.198.104:Tue Aug 2 19:28:10 EDT 2011:Edited mod instance id '3' from pageId '10'
+plnyyanks@gmail.com:phil:71.234.198.104:Tue Aug 2 19:28:18 EDT 2011:Edited mod instance id '3' from pageId '10'
+:anonymous::Tue Aug 2 19:45:17 EDT 2011:Uploaded file ../media/files/Uberbots Theme.thmx
+:anonymous::Tue Aug 2 19:47:26 EDT 2011:Uploaded file ../media/files/ShowRobotDesignCompetiton-2011.rtf
+plnyyanks@gmail.com:phil:71.234.198.104:Sun Aug 7 14:37:48 EDT 2011:updated page, ID= 55
+plnyyanks@gmail.com:phil:71.234.198.104:Sun Aug 7 14:38:02 EDT 2011:updated page, ID= 55
+plnyyanks@gmail.com:phil:71.234.198.104:Sun Aug 7 14:44:02 EDT 2011:Edited mod instance id '1' from pageId '71'
+plnyyanks@gmail.com:phil:71.234.198.104:Sun Aug 7 14:45:36 EDT 2011:Edited mod instance id '1' from pageId '39'
+plnyyanks@gmail.com:phil:71.234.198.104:Sun Aug 7 14:46:34 EDT 2011:updated page, ID= 39
+plnyyanks@gmail.com:phil:71.234.198.104:Sun Aug 7 14:47:40 EDT 2011:Edited mod instance id '3' from pageId '10'
+plnyyanks@gmail.com:phil:71.234.198.104:Sun Aug 7 14:47:58 EDT 2011:Edited mod instance id '1' from pageId '39'
+plnyyanks@gmail.com:phil:71.234.198.104:Sun Aug 7 18:09:44 EDT 2011:Edited mod instance id '1' from pageId '55'
+plnyyanks@gmail.com:phil:71.234.198.104:Sun Aug 7 20:42:59 EDT 2011:Edited mod instance id '3' from pageId '10'
+plnyyanks@gmail.com:phil:71.234.198.104:Tue Aug 9 18:35:40 EDT 2011:Edited mod instance id '3' from pageId '10'
+plnyyanks@gmail.com:phil:71.234.198.104:Tue Aug 9 18:36:09 EDT 2011:Edited mod instance id '1' from pageId '39'
+plnyyanks@gmail.com:phil:71.234.198.104:Tue Aug 9 18:48:43 EDT 2011:Added event with title Community Robot Proposal Due starting on 1313424060 and ending on 1313467140
+plnyyanks@gmail.com:phil:71.234.198.104:Tue Aug 9 18:49:04 EDT 2011:Edited event with ID: 200
+plnyyanks@gmail.com:phil:71.234.198.104:Tue Aug 9 18:50:46 EDT 2011:Added event with title Community Robot Due starting on 1323968460 and ending on 1324011540
+plnyyanks@gmail.com:phil:71.234.198.104:Thu Aug 11 21:41:15 EDT 2011:Added mod 'Like and ShareThis' in pageId '1'
+plnyyanks@gmail.com:phil:71.234.198.104:Thu Aug 11 21:42:16 EDT 2011:Deleted mod instance id '19' from pageId '1'
+plnyyanks@gmail.com:phil:71.234.198.104:Sat Aug 13 15:29:50 EDT 2011:Tweeted 'Everybody make sure you catch i.am.FIRST-Science is Rock and Roll, on tomorrow night at 7 on ABC #omgrobots'
+plnyyanks@gmail.com:phil:71.234.198.104:Sun Aug 14 17:56:04 EDT 2011:Tweeted 'Who's ready for i.am.FIRST tonight? Make sure you catch it and definitely thank @iamwill for all he's done. Thanks! #omgrobots #iamfirsttv'
+:anonymous::Mon Aug 15 12:13:38 EDT 2011:Uploaded file ../media/files/Robotics Club Trailer Use Policy.doc
+plnyyanks@gmail.com:phil:71.234.198.104:Mon Aug 22 10:06:27 EDT 2011:Added event with title 9th Grade Orientation starting on 1314616500 and ending on 1314626400
+:anonymous::Tue Aug 23 21:13:26 EDT 2011:Uploaded file ../media/files/qr.png
+plnyyanks@gmail.com:phil:71.234.198.104:Tue Aug 23 21:23:29 EDT 2011:Edited mod instance id '1' from pageId '73'
+plnyyanks@gmail.com:phil:71.234.198.104:Tue Aug 23 21:24:54 EDT 2011:Edited mod instance id '1' from pageId '73'
+plnyyanks@gmail.com:phil:71.234.198.104:Tue Aug 23 21:24:54 EDT 2011:Edited mod instance id '1' from pageId '73'
+plnyyanks@gmail.com:phil:71.234.198.104:Tue Aug 23 21:25:53 EDT 2011:Edited mod instance id '1' from pageId '73'
+plnyyanks@gmail.com:phil:71.234.198.104:Tue Aug 23 21:31:08 EDT 2011:Edited mod instance id '1' from pageId '73'
+plnyyanks@gmail.com:phil:71.234.198.104:Tue Aug 23 21:31:30 EDT 2011:Edited mod instance id '1' from pageId '73'
+plnyyanks@gmail.com:phil:71.234.198.104:Tue Aug 23 21:31:40 EDT 2011:Edited mod instance id '1' from pageId '73'
+plnyyanks@gmail.com:phil:71.234.198.104:Tue Aug 23 21:35:20 EDT 2011:Edited mod instance id '1' from pageId '73'
+plnyyanks@gmail.com:phil:71.234.198.104:Tue Aug 23 21:35:48 EDT 2011:Edited mod instance id '1' from pageId '73'
+plnyyanks@gmail.com:phil:71.234.198.104:Tue Aug 23 21:36:16 EDT 2011:Edited mod instance id '1' from pageId '73'
+plnyyanks@gmail.com:phil:71.234.198.104:Tue Aug 23 21:36:42 EDT 2011:Edited mod instance id '1' from pageId '73'
+plnyyanks@gmail.com:phil:71.234.198.104:Thu Aug 25 14:38:43 EDT 2011:Added event with title 2012 Kickoff starting on 1325948400 and ending on 1325973600
+plnyyanks@gmail.com:phil:71.234.198.104:Thu Aug 25 14:39:05 EDT 2011:Added mod 'Scripts' in pageId '1'
+plnyyanks@gmail.com:phil:71.234.198.104:Thu Aug 25 14:39:17 EDT 2011:Edited mod instance id '20' from pageId '1'
+plnyyanks@gmail.com:phil:71.234.198.104:Thu Aug 25 14:39:50 EDT 2011:Edited mod instance id '20' from pageId '1'
+plnyyanks@gmail.com:phil:71.234.198.104:Thu Aug 25 14:40:34 EDT 2011:Resorted mods on pageId '0'
+plnyyanks@gmail.com:phil:71.234.198.104:Thu Aug 25 14:40:34 EDT 2011:Resorted mods on pageId '1'
+jtyost531@yahoo.com:jutayo23:69.182.241.120:Thu Aug 25 19:03:05 EDT 2011:Edited mod instance id '1' from pageId '73'
+jtyost531@yahoo.com:jutayo23:69.182.241.120:Thu Aug 25 19:04:08 EDT 2011:Edited mod instance id '1' from pageId '73'
+jtyost531@yahoo.com:jutayo23:69.182.241.120:Thu Aug 25 19:06:45 EDT 2011:Reverted mod id on page id 73 and instance id 1 to edit state 1221
+jtyost531@yahoo.com:jutayo23:69.182.241.120:Thu Aug 25 19:09:50 EDT 2011:Edited mod instance id '1' from pageId '73'
+jtyost531@yahoo.com:jutayo23:69.182.241.120:Thu Aug 25 19:10:20 EDT 2011:Edited mod instance id '1' from pageId '73'
+jtyost531@yahoo.com:jutayo23:69.182.241.120:Thu Aug 25 19:10:36 EDT 2011:Edited mod instance id '1' from pageId '73'
+jtyost531@yahoo.com:jutayo23:69.182.241.120:Thu Aug 25 19:11:15 EDT 2011:Edited mod instance id '1' from pageId '73'
+jtyost531@yahoo.com:jutayo23:69.182.241.120:Thu Aug 25 19:18:23 EDT 2011:Edited mod instance id '1' from pageId '73'
+jtyost531@yahoo.com:jutayo23:69.182.241.120:Thu Aug 25 19:20:22 EDT 2011:Edited mod instance id '1' from pageId '73'
+jtyost531@yahoo.com:jutayo23:69.182.241.120:Thu Aug 25 19:22:09 EDT 2011:Edited mod instance id '1' from pageId '73'
+jtyost531@yahoo.com:jutayo23:69.182.241.120:Thu Aug 25 19:23:37 EDT 2011:Edited mod instance id '1' from pageId '73'
+jtyost531@yahoo.com:jutayo23:69.182.241.120:Thu Aug 25 19:23:51 EDT 2011:Edited mod instance id '1' from pageId '73'
+jtyost531@yahoo.com:jutayo23:69.182.241.120:Thu Aug 25 19:28:41 EDT 2011:Edited mod instance id '1' from pageId '73'
+jtyost531@yahoo.com:jutayo23:69.182.241.120:Thu Aug 25 19:33:38 EDT 2011:Edited mod instance id '1' from pageId '73'
+jtyost531@yahoo.com:jutayo23:69.182.241.120:Thu Aug 25 19:34:08 EDT 2011:Edited mod instance id '1' from pageId '73'
+jtyost531@yahoo.com:jutayo23:69.182.241.120:Thu Aug 25 19:34:24 EDT 2011:Edited mod instance id '1' from pageId '73'
+jtyost531@yahoo.com:jutayo23:69.182.241.120:Thu Aug 25 19:34:57 EDT 2011:Edited mod instance id '1' from pageId '73'
+jtyost531@yahoo.com:jutayo23:69.182.241.120:Thu Aug 25 19:35:27 EDT 2011:Edited mod instance id '1' from pageId '73'
+jtyost531@yahoo.com:jutayo23:69.182.241.120:Thu Aug 25 19:35:49 EDT 2011:Edited mod instance id '1' from pageId '73'
+jtyost531@yahoo.com:jutayo23:69.182.241.120:Thu Aug 25 19:36:06 EDT 2011:Edited mod instance id '1' from pageId '73'
+jtyost531@yahoo.com:jutayo23:69.182.241.120:Thu Aug 25 19:36:45 EDT 2011:Edited mod instance id '1' from pageId '73'
+jtyost531@yahoo.com:jutayo23:69.182.241.120:Thu Aug 25 19:38:02 EDT 2011:Edited mod instance id '1' from pageId '73'
+jtyost531@yahoo.com:jutayo23:69.182.241.120:Thu Aug 25 19:39:02 EDT 2011:Edited mod instance id '1' from pageId '73'
+jtyost531@yahoo.com:jutayo23:69.182.241.120:Thu Aug 25 19:39:35 EDT 2011:Edited mod instance id '1' from pageId '73'
+jtyost531@yahoo.com:jutayo23:69.182.241.120:Thu Aug 25 19:40:11 EDT 2011:Edited mod instance id '1' from pageId '73'
+jtyost531@yahoo.com:jutayo23:69.182.241.120:Thu Aug 25 19:41:27 EDT 2011:Edited mod instance id '1' from pageId '73'
+jtyost531@yahoo.com:jutayo23:69.182.241.120:Thu Aug 25 19:42:19 EDT 2011:Edited mod instance id '1' from pageId '73'
+jtyost531@yahoo.com:jutayo23:69.182.241.120:Thu Aug 25 19:45:49 EDT 2011:Edited mod instance id '1' from pageId '73'
+jtyost531@yahoo.com:jutayo23:69.182.241.120:Thu Aug 25 19:46:33 EDT 2011:Edited mod instance id '1' from pageId '73'
+jtyost531@yahoo.com:jutayo23:69.182.241.120:Fri Aug 26 12:39:11 EDT 2011:Edited event with ID: 191
+plnyyanks@gmail.com:phil:71.234.198.104:Sun Aug 28 9:13:23 EDT 2011:Deleted event with id of 202.
+plnyyanks@gmail.com:phil:71.234.198.104:Sun Aug 28 15:48:52 EDT 2011:Edited event with ID: 191
+plnyyanks@gmail.com:phil:71.234.198.104:Mon Aug 29 21:09:36 EDT 2011:Added event with title Meeting starting on 1315350000 and ending on 1315357200
+plnyyanks@gmail.com:phil:71.234.198.104:Mon Aug 29 21:09:40 EDT 2011:Added event with title Meeting starting on 1315522800 and ending on 1315530000
+plnyyanks@gmail.com:phil:71.234.198.104:Mon Aug 29 21:13:27 EDT 2011:Added event with title Meeting starting on 1315954800 and ending on 1315962000
+plnyyanks@gmail.com:phil:71.234.198.104:Mon Aug 29 21:13:29 EDT 2011:Added event with title Meeting starting on 1316127600 and ending on 1316134800
+plnyyanks@gmail.com:phil:71.234.198.104:Mon Aug 29 21:13:33 EDT 2011:Added event with title Meeting starting on 1316559600 and ending on 1316566800
+plnyyanks@gmail.com:phil:71.234.198.104:Mon Aug 29 21:13:35 EDT 2011:Added event with title Meeting starting on 1316732400 and ending on 1316739600
+plnyyanks@gmail.com:phil:71.234.198.104:Mon Aug 29 21:13:38 EDT 2011:Added event with title Meeting starting on 1317164400 and ending on 1317171600
+plnyyanks@gmail.com:phil:71.234.198.104:Mon Aug 29 21:13:41 EDT 2011:Added event with title Meeting starting on 1317337200 and ending on 1317344400
+plnyyanks@gmail.com:phil:71.234.198.104:Mon Aug 29 21:16:54 EDT 2011:Added event with title Meeting starting on 1317769200 and ending on 1317776400
+plnyyanks@gmail.com:phil:71.234.198.104:Mon Aug 29 21:16:58 EDT 2011:Added event with title Meeting starting on 1317942000 and ending on 1317949200
+plnyyanks@gmail.com:phil:71.234.198.104:Mon Aug 29 21:17:00 EDT 2011:Added event with title Meeting starting on 1318374000 and ending on 1318381200
+plnyyanks@gmail.com:phil:71.234.198.104:Mon Aug 29 21:17:03 EDT 2011:Added event with title Meeting starting on 1318546800 and ending on 1318554000
+plnyyanks@gmail.com:phil:71.234.198.104:Mon Aug 29 21:17:06 EDT 2011:Added event with title Meeting starting on 1318978800 and ending on 1318986000
+plnyyanks@gmail.com:phil:71.234.198.104:Mon Aug 29 21:17:08 EDT 2011:Added event with title Meeting starting on 1319151600 and ending on 1319158800
+plnyyanks@gmail.com:phil:71.234.198.104:Mon Aug 29 21:17:10 EDT 2011:Added event with title Meeting starting on 1319583600 and ending on 1319590800
+plnyyanks@gmail.com:phil:71.234.198.104:Mon Aug 29 21:17:13 EDT 2011:Added event with title Meeting starting on 1319756400 and ending on 1319763600
+plnyyanks@gmail.com:phil:71.234.198.104:Mon Aug 29 21:17:58 EDT 2011:Added event with title Meeting starting on 1320188400 and ending on 1320195600
+plnyyanks@gmail.com:phil:71.234.198.104:Mon Aug 29 21:18:03 EDT 2011:Added event with title Meeting starting on 1320361200 and ending on 1320368400
+plnyyanks@gmail.com:phil:71.234.198.104:Mon Aug 29 21:18:11 EDT 2011:Added event with title Meeting starting on 1320796800 and ending on 1320804000
+plnyyanks@gmail.com:phil:71.234.198.104:Mon Aug 29 21:18:14 EDT 2011:Added event with title Meeting starting on 1320969600 and ending on 1320976800
+plnyyanks@gmail.com:phil:71.234.198.104:Mon Aug 29 21:18:16 EDT 2011:Added event with title Meeting starting on 1321401600 and ending on 1321408800
+plnyyanks@gmail.com:phil:71.234.198.104:Mon Aug 29 21:18:18 EDT 2011:Added event with title Meeting starting on 1321574400 and ending on 1321581600
+plnyyanks@gmail.com:phil:71.234.198.104:Mon Aug 29 21:18:21 EDT 2011:Added event with title Meeting starting on 1322006400 and ending on 1322013600
+plnyyanks@gmail.com:phil:71.234.198.104:Mon Aug 29 21:18:28 EDT 2011:Added event with title Meeting starting on 1322179200 and ending on 1322186400
+plnyyanks@gmail.com:phil:71.234.198.104:Mon Aug 29 21:18:31 EDT 2011:Added event with title Meeting starting on 1322611200 and ending on 1322618400
+plnyyanks@gmail.com:phil:71.234.198.104:Mon Aug 29 21:19:00 EDT 2011:Added event with title Meeting starting on 1322784000 and ending on 1322791200
+plnyyanks@gmail.com:phil:71.234.198.104:Mon Aug 29 21:19:08 EDT 2011:Added event with title Meeting starting on 1323216000 and ending on 1323223200
+plnyyanks@gmail.com:phil:71.234.198.104:Mon Aug 29 21:19:10 EDT 2011:Added event with title Meeting starting on 1323388800 and ending on 1323396000
+plnyyanks@gmail.com:phil:71.234.198.104:Mon Aug 29 21:19:12 EDT 2011:Added event with title Meeting starting on 1323820800 and ending on 1323828000
+plnyyanks@gmail.com:phil:71.234.198.104:Mon Aug 29 21:19:15 EDT 2011:Added event with title Meeting starting on 1324425600 and ending on 1324432800
+plnyyanks@gmail.com:phil:71.234.198.104:Mon Aug 29 21:19:18 EDT 2011:Added event with title Meeting starting on 1324598400 and ending on 1324605600
+plnyyanks@gmail.com:phil:71.234.198.104:Mon Aug 29 21:19:20 EDT 2011:Added event with title Meeting starting on 1325030400 and ending on 1325037600
+plnyyanks@gmail.com:phil:71.234.198.104:Mon Aug 29 21:19:22 EDT 2011:Added event with title Meeting starting on 1325203200 and ending on 1325210400
+plnyyanks@gmail.com:phil:71.234.198.104:Mon Aug 29 21:19:55 EDT 2011:Edited event with ID: 201
+plnyyanks@gmail.com:phil:71.234.198.104:Mon Aug 29 21:20:29 EDT 2011:Added event with title Meeting starting on 1325635200 and ending on 1325642400
+plnyyanks@gmail.com:phil:71.234.198.104:Mon Aug 29 21:20:33 EDT 2011:Added event with title Meeting starting on 1325808000 and ending on 1325815200
+plnyyanks@gmail.com:phil:71.234.198.104:Mon Aug 29 21:26:41 EDT 2011:Added event with title Meeting starting on 1314918000 and ending on 1314925200
+plnyyanks@gmail.com:phil:71.234.198.104:Tue Aug 30 19:37:47 EDT 2011:Edited mod instance id '1' from pageId '73'
+plnyyanks@gmail.com:phil:71.234.198.104:Tue Aug 30 19:38:09 EDT 2011:Edited mod instance id '1' from pageId '73'
+plnyyanks@gmail.com:phil:71.234.198.104:Tue Aug 30 19:40:00 EDT 2011:Edited mod instance id '1' from pageId '73'
+plnyyanks@gmail.com:phil:71.234.198.104:Tue Aug 30 19:40:18 EDT 2011:Edited mod instance id '1' from pageId '73'
+plnyyanks@gmail.com:phil:71.234.198.104:Tue Aug 30 19:41:21 EDT 2011:Edited mod instance id '1' from pageId '73'
+plnyyanks@gmail.com:phil:71.234.198.104:Tue Aug 30 19:41:37 EDT 2011:Edited mod instance id '1' from pageId '73'
+plnyyanks@gmail.com:phil:71.234.198.104:Tue Aug 30 19:42:10 EDT 2011:Edited mod instance id '1' from pageId '73'
+plnyyanks@gmail.com:phil:71.234.198.104:Tue Aug 30 19:56:08 EDT 2011:Edited mod instance id '1' from pageId '73'
+plnyyanks@gmail.com:phil:71.234.198.104:Tue Aug 30 19:56:19 EDT 2011:Edited mod instance id '1' from pageId '73'
+plnyyanks@gmail.com:phil:71.234.198.104:Wed Aug 31 11:03:48 EDT 2011:Added event with title Community Robot Presentation starting on 1316041200 and ending on 1316048400

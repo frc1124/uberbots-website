@@ -1,0 +1,7 @@
+<!-- Outputs a day on the calendar -->
+<td id="day_{{month}}_{{day}}_{{year}}" class="{{class}} calDay" onclick="{{click}}"> <!-- start day -->
+<a href="?viewDay&amp;day={{time}}">
+[[IF today]]<b>[[END IF]] <!-- if day is today, bold number -->
+{{day}} <!-- put day number -->
+[[IF today]] - Today </b>[[END IF]]</a><!-- if today, output today and end bold -->
+<br>{{event}}</td> <!-- add event infmation, blank if no event -->

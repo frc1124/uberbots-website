@@ -1,0 +1,82 @@
+:anonymous::Sat Mar 1 2:00:02 EST 2014:Logs Archived - 1393657202
+:anonymous::Mon Mar 3 2:00:08 EST 2014:Weekly Updates Sent
+micron1314@gmail.com:michael:72.10.96.132:Mon Mar 3 16:48:24 EST 2014:Edited mod instance id '4' from pageId '97'
+barbandjim92@gmail.com:lareau01:65.96.105.12:Tue Mar 4 21:56:32 EST 2014:Edited event with ID: 661
+barbandjim92@gmail.com:lareau01:65.96.105.12:Tue Mar 4 21:56:56 EST 2014:Edited event with ID: 624
+micron1314@gmail.com:michael:72.10.96.132:Sun Mar 9 22:45:23 EDT 2014:Edited mod instance id '20' from pageId '1'
+:anonymous::Mon Mar 10 2:00:07 EDT 2014:Weekly Updates Sent
+barbandjim92@gmail.com:lareau01:65.96.105.12:Mon Mar 10 7:03:06 EDT 2014:Edited event with ID: 625
+barbandjim92@gmail.com:lareau01:65.96.105.12:Mon Mar 10 7:04:05 EDT 2014:Edited event with ID: 626
+barbandjim92@gmail.com:lareau01:65.96.105.12:Wed Mar 12 7:34:06 EDT 2014:Added event with title Team Meeting starting on 1394663400 and ending on 1394672400
+barbandjim92@gmail.com:lareau01:65.96.105.12:Wed Mar 12 7:34:36 EDT 2014:Edited event with ID: 645
+barbandjim92@gmail.com:lareau01:65.96.105.12:Thu Mar 13 16:26:43 EDT 2014:Edited event with ID: 646
+barbandjim92@gmail.com:lareau01:65.96.105.12:Thu Mar 13 16:27:02 EDT 2014:Edited event with ID: 627
+barbandjim92@gmail.com:lareau01:65.96.105.12:Thu Mar 13 16:27:16 EDT 2014:Edited event with ID: 628
+barbandjim92@gmail.com:lareau01:65.96.105.12:Thu Mar 13 16:29:09 EDT 2014:Edited event with ID: 651
+barbandjim92@gmail.com:lareau01:65.96.105.12:Thu Mar 13 16:32:18 EDT 2014:Edited event with ID: 652
+barbandjim92@gmail.com:lareau01:65.96.105.12:Thu Mar 13 16:32:35 EDT 2014:Edited event with ID: 629
+barbandjim92@gmail.com:lareau01:65.96.105.12:Thu Mar 13 16:32:46 EDT 2014:Edited event with ID: 630
+barbandjim92@gmail.com:lareau01:65.96.105.12:Sun Mar 16 19:46:01 EDT 2014:Added event with title Optional Meeting starting on 1395095400 and ending on 1395104400
+barbandjim92@gmail.com:lareau01:65.96.105.12:Sun Mar 16 19:46:42 EDT 2014:Edited event with ID: 663
+barbandjim92@gmail.com:lareau01:65.96.105.12:Sun Mar 16 19:47:35 EDT 2014:Added event with title Optional Meeting starting on 1395095400 and ending on 1395104400
+:anonymous::Mon Mar 17 2:00:08 EDT 2014:Weekly Updates Sent
+barbandjim92@gmail.com:lareau01:65.96.105.12:Tue Mar 18 5:11:55 EDT 2014:Edited event with ID: 663
+barbandjim92@gmail.com:lareau01:65.96.105.12:Tue Mar 18 5:28:05 EDT 2014:Added event with title \"Screen Free Week\" Family Picnic starting on 1399671000 and ending on 1399676400
+barbandjim92@gmail.com:lareau01:65.96.105.12:Tue Mar 18 5:28:16 EDT 2014:Added event with title \"Screen Free Week\" Family Picnic starting on 1399671000 and ending on 1399676400
+barbandjim92@gmail.com:lareau01:65.96.105.12:Tue Mar 18 5:28:51 EDT 2014:Deleted event with id of 666.
+barbandjim92@gmail.com:lareau01:65.96.105.12:Tue Mar 18 5:30:17 EDT 2014:Added event with title BattleCry 15 starting on 1400925600 and ending on 1401066000
+barbandjim92@gmail.com:lareau01:65.96.105.12:Tue Mar 18 5:30:29 EDT 2014:Added event with title BattleCry 15 starting on 1401012000 and ending on 1401066000
+barbandjim92@gmail.com:lareau01:65.96.105.12:Tue Mar 18 5:32:07 EDT 2014:Added event with title Lego Contest @ PGS starting on 1399579200 and ending on 1399582800
+barbandjim92@gmail.com:lareau01:65.96.105.12:Tue Mar 18 5:32:31 EDT 2014:Edited event with ID: 
+barbandjim92@gmail.com:lareau01:65.96.105.12:Tue Mar 18 5:40:27 EDT 2014:Added event with title Lego Contest Awards starting on 1399660200 and ending on 1399662000
+barbandjim92@gmail.com:lareau01:65.96.105.12:Tue Mar 18 5:41:17 EDT 2014:Edited event with ID: 668
+barbandjim92@gmail.com:lareau01:65.96.105.12:Tue Mar 18 5:42:49 EDT 2014:Added event with title State Championships starting on 1399719600 and ending on 1399762800
+barbandjim92@gmail.com:lareau01:65.96.105.12:Tue Mar 18 5:43:31 EDT 2014:Added event with title State Championships starting on 1399806000 and ending on 1399849200
+barbandjim92@gmail.com:lareau01:65.96.105.12:Tue Mar 18 5:43:48 EDT 2014:Deleted event with id of 666_0.
+micron1314@gmail.com:michael:72.10.96.132:Tue Mar 18 6:30:24 EDT 2014:Edited event with ID: 627
+micron1314@gmail.com:michael:72.10.96.132:Tue Mar 18 6:30:32 EDT 2014:Edited event with ID: 663
+micron1314@gmail.com:michael:72.10.96.132:Tue Mar 18 6:30:47 EDT 2014:Edited event with ID: 628
+micron1314@gmail.com:michael:72.10.96.132:Tue Mar 18 6:31:03 EDT 2014:Edited event with ID: 629
+micron1314@gmail.com:michael:72.10.96.132:Tue Mar 18 6:31:11 EDT 2014:Edited event with ID: 630
+barbandjim92@gmail.com:lareau01:65.96.105.12:Tue Mar 18 7:46:51 EDT 2014:Deleted event with id of 671.
+barbandjim92@gmail.com:lareau01:65.96.105.12:Tue Mar 18 7:47:58 EDT 2014:Added event with title BattleCry 15 starting on 1400929200 and ending on 1400972400
+barbandjim92@gmail.com:lareau01:65.96.105.12:Tue Mar 18 12:09:45 EDT 2014:Deleted event with id of 670.
+barbandjim92@gmail.com:lareau01:65.96.105.12:Wed Mar 19 5:17:03 EDT 2014:Edited event with ID: 663
+barbandjim92@gmail.com:lareau01:65.96.105.12:Wed Mar 19 5:17:50 EDT 2014:Edited event with ID: 663
+barbandjim92@gmail.com:lareau01:65.96.105.12:Wed Mar 19 5:19:35 EDT 2014:Edited event with ID: 651
+barbandjim92@gmail.com:lareau01:65.96.105.12:Wed Mar 19 5:20:36 EDT 2014:Added event with title Drivers / Mechanical / Programming starting on 1395504000 and ending on 1395522000
+barbandjim92@gmail.com:lareau01:65.96.105.12:Wed Mar 19 5:21:25 EDT 2014:Edited event with ID: 651
+barbandjim92@gmail.com:lareau01:65.96.105.12:Wed Mar 19 5:21:53 EDT 2014:Edited event with ID: 672
+barbandjim92@gmail.com:lareau01:65.96.105.12:Wed Mar 19 5:23:18 EDT 2014:Edited event with ID: 652
+micron1314@gmail.com:michael:72.10.96.132:Wed Mar 19 14:51:32 EDT 2014:Edited event with ID: 627
+micron1314@gmail.com:michael:72.10.96.132:Wed Mar 19 14:52:17 EDT 2014:Edited event with ID: 663
+micron1314@gmail.com:michael:72.10.96.132:Wed Mar 19 14:52:39 EDT 2014:Edited event with ID: 627
+micron1314@gmail.com:michael:72.10.96.132:Wed Mar 19 14:53:02 EDT 2014:Edited event with ID: 627
+justinniezrecki@gmail.com:j. niezrecki:24.60.224.66:Fri Mar 21 8:40:39 EDT 2014:Added event with title Mechanical/ Programming starting on 1395266400 and ending on 1395277200
+justinniezrecki@gmail.com:j. niezrecki:24.60.224.66:Fri Mar 21 8:40:47 EDT 2014:Added event with title Mechanical/ Programming starting on 1395439200 and ending on 1395450000
+justinniezrecki@gmail.com:j. niezrecki:24.60.224.66:Fri Mar 21 8:41:01 EDT 2014:Added event with title Mechanical/ Programming/ Drivers starting on 1395439200 and ending on 1395450000
+justinniezrecki@gmail.com:j. niezrecki:24.60.224.66:Fri Mar 21 8:41:09 EDT 2014:Deleted event with id of 674.
+justinniezrecki@gmail.com:j. niezrecki:24.60.224.66:Fri Mar 21 8:41:14 EDT 2014:Deleted event with id of 673.
+justinniezrecki@gmail.com:j. niezrecki:24.60.224.66:Fri Mar 21 8:42:43 EDT 2014:Added event with title Driver\'s Meeting starting on 1395700200 and ending on 1395709200
+justinniezrecki@gmail.com:j. niezrecki:24.60.224.66:Fri Mar 21 8:42:52 EDT 2014:Added event with title Drivers Meeting starting on 1395700200 and ending on 1395709200
+justinniezrecki@gmail.com:j. niezrecki:24.60.224.66:Fri Mar 21 8:42:55 EDT 2014:Added event with title Drivers Meeting starting on 1395873000 and ending on 1395882000
+justinniezrecki@gmail.com:j. niezrecki:24.60.224.66:Fri Mar 21 8:42:57 EDT 2014:Added event with title Drivers Meeting starting on 1396045800 and ending on 1396054800
+justinniezrecki@gmail.com:j. niezrecki:24.60.224.66:Fri Mar 21 8:43:13 EDT 2014:Deleted event with id of 676.
+justinniezrecki@gmail.com:j. niezrecki:24.60.224.66:Fri Mar 21 8:44:39 EDT 2014:Added event with title Team Meeting starting on 1396393200 and ending on 1396400400
+justinniezrecki@gmail.com:j. niezrecki:24.60.224.66:Fri Mar 21 8:44:43 EDT 2014:Added event with title Team Meeting starting on 1396566000 and ending on 1396573200
+justinniezrecki@gmail.com:j. niezrecki:24.60.224.66:Fri Mar 21 8:44:46 EDT 2014:Added event with title Team Meeting starting on 1396998000 and ending on 1397005200
+justinniezrecki@gmail.com:j. niezrecki:24.60.224.66:Fri Mar 21 8:44:49 EDT 2014:Added event with title Team Meeting starting on 1397602800 and ending on 1397610000
+justinniezrecki@gmail.com:j. niezrecki:24.60.224.66:Fri Mar 21 8:44:52 EDT 2014:Added event with title Team Meeting starting on 1398812400 and ending on 1398819600
+justinniezrecki@gmail.com:j. niezrecki:24.60.224.66:Fri Mar 21 8:44:55 EDT 2014:Added event with title Team Meeting starting on 1398207600 and ending on 1398214800
+justinniezrecki@gmail.com:j. niezrecki:24.60.224.66:Fri Mar 21 8:45:00 EDT 2014:Added event with title Team Meeting starting on 1397170800 and ending on 1397178000
+justinniezrecki@gmail.com:j. niezrecki:24.60.224.66:Fri Mar 21 8:45:04 EDT 2014:Added event with title Team Meeting starting on 1397775600 and ending on 1397782800
+justinniezrecki@gmail.com:j. niezrecki:24.60.224.66:Fri Mar 21 8:45:34 EDT 2014:Added event with title Team Meeting starting on 1398337200 and ending on 1398387600
+barbandjim92@gmail.com:lareau01:65.96.105.12:Sat Mar 22 7:38:48 EDT 2014:Deleted event with id of 679.
+barbandjim92@gmail.com:lareau01:65.96.105.12:Sat Mar 22 7:41:37 EDT 2014:Added event with title Deliver Robot to Hartford starting on 1396044000 and ending on 1396058400
+barbandjim92@gmail.com:lareau01:65.96.105.12:Sat Mar 22 7:42:28 EDT 2014:Edited event with ID: 630
+:anonymous::Mon Mar 24 2:00:08 EDT 2014:Weekly Updates Sent
+barbandjim92@gmail.com:lareau01:65.96.105.12:Thu Mar 27 5:24:09 EDT 2014:Edited event with ID: 689
+barbandjim92@gmail.com:lareau01:65.96.105.12:Sun Mar 30 21:01:16 EDT 2014:Edited event with ID: 680
+barbandjim92@gmail.com:lareau01:65.96.105.12:Sun Mar 30 21:01:33 EDT 2014:Edited event with ID: 681
+:anonymous::Mon Mar 31 2:00:08 EDT 2014:Weekly Updates Sent
+micron1314@gmail.com:michael:72.10.96.132:Mon Mar 31 16:29:48 EDT 2014:Edited mod instance id '20' from pageId '1'

@@ -1,0 +1,44 @@
+:anonymous::Thu Nov 1 2:00:02 EDT 2012:Logs Archived - 1351749602
+plnyyanks@gmail.com:phil:71.234.198.104:Sat Nov 3 21:47:06 EDT 2012:Added event with title 2013 Kickoff starting on 1357392600 and ending on 1357423200
+plnyyanks@gmail.com:phil:71.234.198.104:Sun Nov 4 11:30:46 EST 2012:Edited event with ID: 377
+:anonymous::Mon Nov 5 2:00:04 EST 2012:Weekly Updates Sent
+mikemacelletti@gmail.com:mike:24.60.224.252:Mon Nov 5 17:14:38 EST 2012:Mass email sent :Tuesday Meeting
+ameya.shashank@hotmail.com:ameyashashank:69.177.91.235:Wed Nov 7 17:08:41 EST 2012:Mass email sent :Club Photos
+:anonymous::Sat Nov 10 10:56:18 EST 2012:uploaded picture 'SDC10036.JPG' to album 'Bash at the Beach' from 2013
+:anonymous::Sat Nov 10 10:56:49 EST 2012:uploaded picture 'SDC10037.JPG' to album 'Bash at the Beach' from 2013
+:anonymous::Sat Nov 10 10:57:20 EST 2012:uploaded picture 'SDC10038.JPG' to album 'Bash at the Beach' from 2013
+:anonymous::Sat Nov 10 10:58:04 EST 2012:uploaded picture 'SDC10039.JPG' to album 'Bash at the Beach' from 2013
+:anonymous::Sat Nov 10 10:58:35 EST 2012:uploaded picture 'SDC10043.JPG' to album 'Bash at the Beach' from 2013
+:anonymous::Sat Nov 10 10:59:07 EST 2012:uploaded picture 'SDC10042.JPG' to album 'Bash at the Beach' from 2013
+:anonymous::Sat Nov 10 10:59:41 EST 2012:uploaded picture 'SDC10041.JPG' to album 'Bash at the Beach' from 2013
+:anonymous::Sat Nov 10 11:00:16 EST 2012:uploaded picture 'SDC10044.JPG' to album 'Bash at the Beach' from 2013
+:anonymous::Sat Nov 10 11:04:19 EST 2012:uploaded picture 'SDC10005.JPG' to album 'End of Year Party' from 2012
+:anonymous::Sat Nov 10 11:04:51 EST 2012:uploaded picture 'SDC10006.JPG' to album 'End of Year Party' from 2012
+:anonymous::Sat Nov 10 11:05:25 EST 2012:uploaded picture 'SDC10010.JPG' to album 'End of Year Party' from 2012
+:anonymous::Sat Nov 10 11:06:05 EST 2012:uploaded picture 'SDC10009.JPG' to album 'End of Year Party' from 2012
+:anonymous::Sat Nov 10 11:06:37 EST 2012:uploaded picture 'SDC10008.JPG' to album 'End of Year Party' from 2012
+:anonymous::Sat Nov 10 11:07:08 EST 2012:uploaded picture 'SDC10007.JPG' to album 'End of Year Party' from 2012
+:anonymous::Sat Nov 10 11:07:40 EST 2012:uploaded picture 'SDC10020.JPG' to album 'End of Year Party' from 2012
+:anonymous::Mon Nov 12 2:00:04 EST 2012:Weekly Updates Sent
+plnyyanks@gmail.com:phil:71.234.198.104:Tue Nov 13 9:52:08 EST 2012:Added event with title Club Pictures starting on 1354120500 and ending on 1354164060
+plnyyanks@gmail.com:phil:71.234.198.104:Tue Nov 13 16:10:46 EST 2012:Added event with title Cosi Fundraiser  starting on 1353009600 and ending on 1353031200
+plnyyanks@gmail.com:phil:71.234.198.104:Tue Nov 13 16:15:21 EST 2012:Added event with title Cosi Fundraiser starting on 1356120000 and ending on 1356141600
+plnyyanks@gmail.com:phil:71.234.198.104:Tue Nov 13 16:17:33 EST 2012:Edited event with ID: 380
+plnyyanks@gmail.com:phil:71.234.198.104:Tue Nov 13 16:18:01 EST 2012:Edited event with ID: 379
+plnyyanks@gmail.com:phil:71.234.198.104:Tue Nov 13 16:18:26 EST 2012:Edited event with ID: 380
+plnyyanks@gmail.com:phil:71.234.198.104:Wed Nov 14 7:24:39 EST 2012:Deleted event with id of 357.
+plnyyanks@gmail.com:phil:71.234.198.104:Wed Nov 14 7:27:07 EST 2012:Edited event with ID: 379
+plnyyanks@gmail.com:phil:71.234.198.104:Wed Nov 14 20:55:49 EST 2012:Mass email sent :Cosi Fundraiser
+plnyyanks@gmail.com:phil:71.234.198.104:Sat Nov 17 9:14:06 EST 2012:Deleted event with id of 359.
+plnyyanks@gmail.com:phil:71.234.198.104:Sat Nov 17 9:23:33 EST 2012:Deleted event with id of 368.
+plnyyanks@gmail.com:phil:71.234.198.104:Sat Nov 17 9:23:35 EST 2012:Deleted event with id of 369.
+plnyyanks@gmail.com:phil:71.234.198.104:Sat Nov 17 9:24:04 EST 2012:Edited event with ID: 367
+:anonymous::Mon Nov 19 2:00:02 EST 2012:Weekly Updates Sent
+:anonymous::Mon Nov 19 2:00:06 EST 2012:Weekly Updates Sent
+:anonymous::Mon Nov 26 2:00:10 EST 2012:Weekly Updates Sent
+:anonymous::Mon Nov 26 2:00:10 EST 2012:Weekly Updates Sent
+plnyyanks@gmail.com:phil:71.234.198.104:Tue Nov 27 20:02:31 EST 2012:Mass email sent :Yearbook Club Pictures
+plnyyanks@gmail.com:phil:71.234.198.104:Tue Nov 27 20:10:22 EST 2012:Added Special permissions for User lareau01 on page with ID of 14 with permissions type 0
+plnyyanks@gmail.com:phil:71.234.198.104:Tue Nov 27 20:12:11 EST 2012:Delted permissions for user merlinius on page ID 14
+plnyyanks@gmail.com:phil:71.234.198.104:Tue Nov 27 20:12:48 EST 2012:Delted permissions for user enigmoid on page ID 7
+plnyyanks@gmail.com:phil:71.234.198.104:Tue Nov 27 20:14:39 EST 2012:Delted permissions for user enigmoid on page ID 9

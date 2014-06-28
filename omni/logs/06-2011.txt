@@ -1,0 +1,39 @@
+:anonymous::Wed Jun 1 2:00:03 EDT 2011:Logs Archived - 1306908003
+plnyyanks@gmail.com:phil:71.234.198.104:Fri Jun 3 13:39:19 EDT 2011:Added event with title Meeting starting on 1307487600 and ending on 1307494800
+plnyyanks@gmail.com:phil:71.234.198.104:Fri Jun 3 13:39:55 EDT 2011:Added event with title Meeting starting on 1307660400 and ending on 1307667600
+plnyyanks@gmail.com:phil:71.234.198.104:Fri Jun 3 13:58:47 EDT 2011:Mass email sent :CNC Field Trip
+laurenmcisaac@comcast.net:lauren:24.60.231.127:Mon Jun 6 21:28:08 EDT 2011:Mass email sent :Reminder, CNC feild trip tomorrow
+plnyyanks@gmail.com:phil:71.234.198.104:Tue Jun 7 10:20:31 EDT 2011:Added event with title CNC Field Trip starting on 1307473200 and ending on 1307480400
+ameya.shashank@hotmail.com:ameyashashank:69.177.91.235:Wed Jun 8 21:54:55 EDT 2011:Deleted event with id of 176.
+jtyost531@yahoo.com:jutayo23:69.182.241.120:Mon Jun 13 18:10:52 EDT 2011:Mass email sent :PGA Golf Tournament
+jtyost531@yahoo.com:jutayo23:69.182.241.120:Tue Jun 21 17:47:36 EDT 2011:Added event with title Meeting starting on 1308870000 and ending on 1308877200
+jtyost531@yahoo.com:jutayo23:69.182.241.120:Tue Jun 21 17:51:21 EDT 2011:Added event with title Travelers PGA Golf Tournament starting on 1309023000 and ending on 1309039200
+jtyost531@yahoo.com:jutayo23:69.182.241.120:Tue Jun 21 22:39:17 EDT 2011:Mass email sent :Thursday's Meeting
+ameya.shashank@hotmail.com:ameyashashank:69.177.91.235:Fri Jun 24 9:41:06 EDT 2011:Added event with title Meeting starting on 1309302000 and ending on 1309309200
+ameya.shashank@hotmail.com:ameyashashank:69.177.91.235:Fri Jun 24 9:41:09 EDT 2011:Added event with title Meeting starting on 1309474800 and ending on 1309482000
+ameya.shashank@hotmail.com:ameyashashank:69.177.91.235:Fri Jun 24 9:41:32 EDT 2011:Added event with title Meeting starting on 1309906800 and ending on 1309914000
+ameya.shashank@hotmail.com:ameyashashank:69.177.91.235:Fri Jun 24 9:41:35 EDT 2011:Added event with title Meeting starting on 1310079600 and ending on 1310086800
+ameya.shashank@hotmail.com:ameyashashank:69.177.91.235:Fri Jun 24 9:41:44 EDT 2011:Added event with title Meeting starting on 1310511600 and ending on 1310518800
+ameya.shashank@hotmail.com:ameyashashank:69.177.91.235:Fri Jun 24 9:41:47 EDT 2011:Added event with title Meeting starting on 1310684400 and ending on 1310691600
+ameya.shashank@hotmail.com:ameyashashank:69.177.91.235:Fri Jun 24 9:41:50 EDT 2011:Added event with title Meeting starting on 1311116400 and ending on 1311123600
+ameya.shashank@hotmail.com:ameyashashank:69.177.91.235:Fri Jun 24 9:41:53 EDT 2011:Added event with title Meeting starting on 1311289200 and ending on 1311296400
+ameya.shashank@hotmail.com:ameyashashank:69.177.91.235:Fri Jun 24 9:41:56 EDT 2011:Added event with title Meeting starting on 1311721200 and ending on 1311728400
+ameya.shashank@hotmail.com:ameyashashank:69.177.91.235:Fri Jun 24 9:41:59 EDT 2011:Added event with title Meeting starting on 1311894000 and ending on 1311901200
+:anonymous::Sun Jun 26 11:39:10 EDT 2011:uploaded picture 'DSCF0280.JPG' to album 'Birdies for Charity' from 2011
+:anonymous::Sun Jun 26 11:39:35 EDT 2011:uploaded picture 'DSCF0283.JPG' to album 'Birdies for Charity' from 2011
+:anonymous::Sun Jun 26 11:40:01 EDT 2011:uploaded picture 'DSCF0288.JPG' to album 'Birdies for Charity' from 2011
+:anonymous::Sun Jun 26 11:40:25 EDT 2011:uploaded picture 'DSCF0290.JPG' to album 'Birdies for Charity' from 2011
+:anonymous::Sun Jun 26 13:05:37 EDT 2011:uploaded picture '0625111409.jpg' to album 'Birdies for Charity' from 2011
+:anonymous::Sun Jun 26 13:05:50 EDT 2011:uploaded picture '0625111435.jpg' to album 'Birdies for Charity' from 2011
+:anonymous::Sun Jun 26 13:06:04 EDT 2011:uploaded picture '0625111456.jpg' to album 'Birdies for Charity' from 2011
+:anonymous::Sun Jun 26 13:06:18 EDT 2011:uploaded picture '0625111511.jpg' to album 'Birdies for Charity' from 2011
+plnyyanks@gmail.com:phil:71.234.198.104:Tue Jun 28 20:53:48 EDT 2011:added page Welcome id 73 with parent 0
+plnyyanks@gmail.com:phil:71.234.198.104:Tue Jun 28 20:53:59 EDT 2011:Added mod 'HTML' in pageId '73'
+plnyyanks@gmail.com:phil:71.234.198.104:Tue Jun 28 20:55:17 EDT 2011:Edited mod instance id '1' from pageId '73'
+enigmoid@gmail.com:enigmoid:65.96.104.42:Tue Jun 28 20:57:29 EDT 2011:Deleted event with id of 181.
+plnyyanks@gmail.com:phil:71.234.198.104:Tue Jun 28 21:55:07 EDT 2011:Edited mod instance id '1' from pageId '73'
+plnyyanks@gmail.com:phil:71.234.198.104:Tue Jun 28 21:55:48 EDT 2011:Edited mod instance id '1' from pageId '73'
+plnyyanks@gmail.com:phil:71.234.198.104:Tue Jun 28 21:56:27 EDT 2011:Edited mod instance id '1' from pageId '73'
+plnyyanks@gmail.com:phil:71.234.198.104:Tue Jun 28 21:56:38 EDT 2011:Edited mod instance id '1' from pageId '73'
+jtyost531@yahoo.com:jutayo23:69.182.241.120:Wed Jun 29 21:41:21 EDT 2011:Mass email sent :Tomorrow's Meeting
+plnyyanks@gmail.com:phil:71.234.198.104:Thu Jun 30 10:19:53 EDT 2011:Added event with title Meeting starting on 1309473000 and ending on 1309478400

@@ -1,0 +1,29 @@
+
+<a href='javascript:void(0)' id="icalLink" onclick="$('#ical').toggle()">Export to iCal</a>
+<div id="ical" style="display:none;">
+<form id="icalForm" name="icalForm" action="http://uberbots.org/omni/actions/ical.php" method="post">
+<b>Select How to Export to iCal:</b><br/>
+<select id="exportType" name="exportType" onchange="if(this.value=='range'){document.getElementById('exportRange').style.display='';document.getElementById('exportSingle').style.display='none';}else{if(this.value=='single'){document.getElementById('exportSingle').style.display='';document.getElementById('exportRange').style.display='none';}else{document.getElementById('exportSingle').style.display='none';document.getElementById('exportRange').style.display='none';}}">
+<option value=""></option>
+<option value="all">All Events</option>
+<option value="future">Future Events</option>
+<option value="range">Range of Events</option>
+<option value="single">Single Event</option>
+</select>
+<fieldset name="exportRange" id="exportRange">
+<label for="sMonth" style="display:inline-block;width:150px;">Start Date:</label><div style="display:inline;" id="startDate"><input type="text" style="width:50px;" name="sMonth" id="sMonth" value="MM" onfocus="if(this.value=='MM')this.value=''"/> <input type="text" style="width:50px;" name="sDay" id="sDay" value="DD" onfocus="if(this.value=='DD')this.value=''"/> <input type="text" style="width:100px;" name="sYear" id="sYear" value="YYYY" onfocus="if(this.value=='YYYY')this.value=''"/></div><br/>
+<label for="eMonth" style="display:inline-block;width:150px;">End Date:</label><div style="display:inline;" id="EndDate"><input type="text" style="width:50px;" name="eMonth" id="eMonth" value="MM" onfocus="if(this.value=='MM')this.value=''"/> <input type="text" style="width:50px;" name="eDay" id="eDay" value="DD" onfocus="if(this.value=='DD')this.value=''"/> <input type="text" style="width:100px;" name="eYear" id="eYear" value="YYYY" onfocus="if(this.value=='YYYY')this.value=''"/></div>
+</fieldset>
+
+<fieldset name="exportSingle" id="exportSingle">
+<div id="eventSelect" style="display:inline;">
+<input type="hidden" name="month" id="month" class = "icalMonth" style="width:50px;" value="MM"/> <input type="hidden" name="day" id="day" class="icalDay" style="width:50px;" value="DD"/> <input type="hidden" name="year" id="year" class="icalYear" style="width:100px;" value="YYYY"/><br/>
+<input type="hidden" style="width:150px;" name="icalName" id="icalName"/><input type="hidden" value="" name="eventID" id="eventID"/></div>
+Click on and Event to Select it.
+<div id="selected" style="display:none;">Event Selected</div>
+</fieldset>
+
+<br/>
+<input type="submit" value="Export"/>
+</form>
+</div>
