@@ -3,7 +3,7 @@
 header("location:/o"); //redirect to omni, which does its own mobile detection
 
 /*
-function mobile_device_detect($iphone=true,$android=true,$opera=true,$blackberry=true,$palm=true,$windows=true,$mobileredirect=false,$desktopredirect=false){
+function mobile_device_detect($iphone=trsue,$android=true,$opera=true,$blackberry=true,$palm=true,$windows=true,$mobileredirect=false,$desktopredirect=false){
 
   $mobile_browser   = false; // set mobile browser as false till we can prove otherwise
   $user_agent       = $_SERVER['HTTP_USER_AGENT']; // get the user agent value - this should be cleaned to ensure no nefarious input gets executed
