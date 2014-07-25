@@ -23,9 +23,9 @@ height:120px;
 #navLinks {
 color:#fff;
 margin-right:15px;
-border:#900 1.5px solid;
+border:#EBEBEB 1.5px solid; /*#900*/
 border-top:0;
-background:#7b0000 url(/omni/skins/classic/images/top-menu-repeat.jpg) repeat-x top;
+background: rgba(235, 235, 235, 0.8) /*#7b0000 url(/omni/skins/classic/images/top-menu-repeat.jpg) repeat-x top*/;
 float:right;
 padding:6px 15px;
 }
@@ -77,33 +77,37 @@ display:inline-block;
 color:#FFF;
 height:25px;
 overflow-y:hidden;
-background:#7b0000 url(/omni/skins/classic/images/top-menu-repeat.jpg) repeat-x top;
+background: rgba(235, 235, 235, 0.8) /*#7b0000 url(/omni/skins/classic/images/top-menu-repeat.jpg) repeat-x top*/;
 width:900px;
 font-weight:700;
 }
 
-#topMenuLeft {
+/*#topMenuLeft {
 width:15px;
 height:25px;
 background:top left url(/omni/skins/classic/images/top-menu-left.jpg);
 float:left;
-}
+}*/
 
-#topMenuRight {
+/*#topMenuRight {
 width:15px;
 height:25px;
 background:top right url(/omni/skins/classic/images/top-menu-right.jpg);
 float:right;
-}
+}*/
 
 #topMenuText {
 display:inline-block;
 padding:4px;
 }
 
-#topMenuText A,#secondMenuDiv A,#breadcrumbs A {
+#topMenuText A, #breadcrumbs A {
 text-decoration:none;
-color:#FFF;
+color:rgba(255, 255, 255, 1.0);
+}
+#secondMenuDiv A {
+text-decoration:none;
+color:rgba(99, 99, 99, 1.0);
 }
 
 #topMenuText .topMenuItem,#secondMenuDiv A, #breadcrumbs A {
@@ -113,8 +117,8 @@ margin-left:10px;
 
 #secondMenuDiv {
 position:absolute;
-background-color:#7b0000; 
-color:#FFF;
+background-color: rgba(255, 255, 255, 0.85)/*#7b0000*/; 
+color:#636363;
 font-size:1em;
 height:17px;
 z-index:1001;
@@ -123,8 +127,8 @@ width:862px;
 }
 
 #breadcrumbs{
-background-color:#335cd6;
-background: url(/omni/skins/classic/images/breadcrumbs-background.png);
+/*background-color:#335cd6;*/
+background: rgba(68, 117, 201, 1.0)/*url(/omni/skins/classic/images/breadcrumbs-background.png)*/;
 height:17px;
 padding:4px 19px;
 color:#fff;
