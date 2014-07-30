@@ -27,7 +27,7 @@ include "$root_path/includes/menu.php";
 include "$root_path/includes/modHistory.php";
 
 //initalize phpBB session
-//include "phpBBsession.php";
+include "phpBBsession.php";
 
 
 //set current skin or use default
