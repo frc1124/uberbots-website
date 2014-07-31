@@ -1,8 +1,0 @@
-<!--Time to kickoff counter-->
-/*
-<?PHP
-if(time()<1263049218000){
-?>
-*/
-/*
-<style>.c{font-size:54pt;width:25%;}</style><script>var target=new Date(2010,0,9,10,0,0,0);function dateSet(){this.days=0;this.hours=0,this.mins=0,this.secs=0}function $(i,j){document.getElementById(i).innerHTML=j}function f(k){return Math.floor(k)}function update(){var now=new Date();var u=new dateSet();var d=(target.getTime()-now.getTime())/1000;if(d>0){u.days=f(d/86400);d-=u.days*86400;u.hours=f(d/3600);d-=u.hours*3600;u.mins=f(d/60);d-=u.mins*60;u.secs=f(d)}$("days",u.days);$("hours",u.hours);$("mins",u.mins);$("secs",u.secs);setTimeout(update,1000)}window.onload=update;document.attachEvent("DOMContentLoaded",update);</script><div class="high_title">Countdown to Kickoff!</div><table width="100%" border="0" style="text-align:center;"><tr><td class="c" id="days"></td><td class="c" id="hours"></td><td class="c" id="mins"></td><td class="c" id="secs"></td></tr><tr><td>Days</td><td>Hours</td><td>Minutes</td><td>Seconds</td></tr></table>*/
