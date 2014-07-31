@@ -1,6 +1,6 @@
 <?PHP
 
-header("location:/o"); //redirect to omni, which does its own mobile detection
+header("location:/b/beta.html"); //redirect to temp beta page; redirect to omni, which does its own mobile detection: header("location:/o");
 
 /*
 function mobile_device_detect($iphone=trsue,$android=true,$opera=true,$blackberry=true,$palm=true,$windows=true,$mobileredirect=false,$desktopredirect=false){
