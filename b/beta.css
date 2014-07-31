@@ -2,9 +2,14 @@ body {
 	font-family:"Open Sans","Verdana",sans-serif;
 	background:#222 bottom left no-repeat fixed url(/omni/skins/classic/images/embossed.jpg);
 	color: white;
+	text-align: center
 }
 
-h1, p{
+h1{
+	font-weight: 400;
+}
+
+p{
 	font-weight: 300;
 }
 
@@ -16,4 +21,10 @@ a, a:visited{
 a:hover{
 	color: #DADADA;
 	text-decoration: underline;
+}
+
+img{
+	display: block;
+	margin-left: auto;
+    margin-right: auto;
 }
