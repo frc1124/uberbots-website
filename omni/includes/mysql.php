@@ -14,7 +14,7 @@
 function mySQLConnect(){
 	$username = "uberbots_omni";
 	$password = "core[1124]";
-	$database = "uberbots_omni";
+	$database = "uberbots_omni2";
 	global $mySQLLink, $mySQLDatabase;
 	$mySQLLink = mysql_connect("localhost",$username,$password) or die(mysql_error());
 	$mySQLDatabase = mysql_select_db($database,$mySQLLink) or die(mysql_error());
