@@ -22,7 +22,7 @@ mySQLConnect();
 $page = new url();
 $page->init();
 
-//user permissions
+//user permissions (security.php)
 $editable = userPermissions(1);
 
 if($page->error404 || !userPermissions(0)){
@@ -31,6 +31,7 @@ if($page->error404 || !userPermissions(0)){
 	exit;
 	}
 
+//create menu
 $menu = drawMenu();
 
 //render final output
@@ -62,6 +63,16 @@ $html = parseSkin($skinVars,"main",$options);
 $tidy = new tidy;
 $tidy->parseString($html, $config, 'utf8');
 $tidy->cleanRepair();
-  
+
+//testing
+echo("Debug Info");
+echo("</br>");
+echo("Group ID: ");
+echo($user->data["group_id"]);
+echo("</br>");
+echo("User ID: ");
+echo($user->data["user_id"]);
+
+//output page
 echo $html;
 ?>

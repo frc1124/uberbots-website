@@ -28,8 +28,8 @@ function userPermissions($type,$pageId=""){
 	//everyone starts out without permission
 	$result = false;
 	
-	//Admin and Management groups and Ligotti have automatic full permission (and Evan)
-	if(($user->data["group_id"]==5)||($user->data["group_id"]==10)||($user->data["user_id"]==73)||($user->data["user_id"]==22698))
+	//Admin and Management groups have automatic full permission (and Evan)
+	if(($user->data["group_id"]==5)||($user->data["group_id"]==10)||($user->data["user_id"]==22698))
 	$result = true;
 	
 	$query = mysql_query("SELECT * FROM `pages` WHERE `id` = '".mysql_real_escape_string($pageId)."'") or die(mysql_error());
