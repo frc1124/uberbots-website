@@ -29,7 +29,6 @@ include "$root_path/includes/modHistory.php";
 //initalize phpBB session
 include "phpBBsession.php";
 
-
 //set current skin or use default
 $currentSkin = isset($_GET["skin"])?$_GET["skin"]:"classic";
 

@@ -32,13 +32,15 @@ function userPermissions($type,$pageId=""){
 	if(($user->data["group_id"]==5)||($user->data["group_id"]==10)||($user->data["user_id"]==22698))
 	$result = true;
 	
+	//get page info
 	$query = mysql_query("SELECT * FROM `pages` WHERE `id` = '".mysql_real_escape_string($pageId)."'") or die(mysql_error());
 	$row = mysql_fetch_array($query);
+	
 	//if not private, user has read access
 	if($row["private"]=="0"&&$type==0)
 	$result = true;
 	
-	//inherit
+	//inherit permissions
 	if($row["inheritPermissions"]=="1"&&userPermissions($type,$row["parentId"]))
 	$result = true;
 	
@@ -57,6 +59,7 @@ function userPermissions($type,$pageId=""){
 
 function logEmail($subject,$contents){
 	global $user,$root_path;
+	//log mass emails
 	$date = date("m-d-Y G:i:s");
 	$entry = "<h1>Mass Email Sent on $date</h1><p><strong>Subject: </strong>$subject</p><br/><div>$contents</div>";
 	$file = fopen("$root_path/logs/mass emails/".$date.".html",'a+');

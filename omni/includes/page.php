@@ -21,7 +21,7 @@ class url{
 		global $mySQLLink;
 		
 		//full url
-		$this->fullUrl = "http://www.beta.uberbots.org".$_SERVER['REQUEST_URI'];
+		$this->fullUrl = "http://www.alpha.uberbots.org".$_SERVER['REQUEST_URI'];
 
 		//everything after ".org"
 		$url = $_SERVER['REQUEST_URI'];
@@ -53,7 +53,8 @@ class url{
 			
 			$parentId = $row["id"];
 			$this->title = $row["title"];
-			}
+			
+		}
 		
 		if(sizeOf($explode)==2||sizeOf($explode)==1){
 			$query = mysql_query("SELECT * FROM `pages` WHERE `deleted` = '0' AND `title` LIKE 'home'",$GLOBALS["mySQLLink"]) or die(mysql_error());
@@ -62,12 +63,14 @@ class url{
 			
 			$parentId = $row["id"];
 			$this->title = $row["title"];
-			}
+			
+		}
+		
 		//redirect
 		if(strlen($row["redirect"])>0){
 			header("location:".$row["redirect"]);
 			exit;
-			}
+		}
 
 		$this->pageId = $parentId;
 		
@@ -98,8 +101,5 @@ class url{
 		}
 		return $breadCrumbs;
 	}
-	
 }
-
-
 ?>

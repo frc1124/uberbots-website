@@ -18,9 +18,9 @@ function mySQLConnect(){
 	global $mySQLLink, $mySQLDatabase;
 	$mySQLLink = mysql_connect("localhost",$username,$password) or die(mysql_error());
 	$mySQLDatabase = mysql_select_db($database,$mySQLLink) or die(mysql_error());
-	}
+}
 	
 function mySQLClose(){
 	mysql_close();
-	}
+}
 ?>
