@@ -18,17 +18,16 @@ include "../includes/emailConfirm.php";
 
 mySQLConnect();
 
-if(isset($_POST["add"]))
-	{
+if(isset($_POST["add"])){
 	if(!mysql_fetch_array(mysql_query("SELECT * FROM `emailList` WHERE `email` LIKE '".mysql_real_escape_string($_POST["email"])."'"))){
 		mysql_query("INSERT INTO `emailList` VALUES ('".mysql_real_escape_string($_POST["email"])."', '0')") or die(mysql_error());
 		echo "You are now on the mailing list. An email will be sent to the address supplied for confirmation.";
 		sendConfirmation($_POST['email']);
-		}
+	}
 	else{
 		echo "You are already subscribed.";
-		}
 	}
+}
 
 if(isset($_POST["unsubscribe"])){
 	if(mysql_fetch_array(mysql_query("SELECT * FROM `emailList` WHERE `email` LIKE '".mysql_real_escape_string($_POST["email"])."'"))){

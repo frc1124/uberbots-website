@@ -43,7 +43,7 @@ $carriers = array(
 //loop through each phone number
 while($row=$db->sql_fetchrow($query)){
 	$list.=$row["number"]."@".$carriers[$row["carrier"]]."; ";
-	}
+}
 
 
 // if sent to server through CRON job, the php $_SERVER['REMOTE_ADDR'] will be blank, signifies script was run for SMS update
@@ -56,7 +56,7 @@ if($_SERVER['REMOTE_ADDR']==""){
 	//create content for each event
 	while($row = mysql_fetch_array($query)){
 		$content .= date("m/d, h:i A",$row["startTime"]).", ".$row["name"].(strlen($row["description"])>0?", DESCR: ".$row["description"]:"").(strlen($row["location"])>0?" at ".$row["location"]:"").".\n";
-		}
+	}
 	
 	//stop here if there are no events
 	if(!isset($content))
@@ -68,7 +68,7 @@ if($_SERVER['REMOTE_ADDR']==""){
 if($_POST["message"]&&userPermissions(1,2)){
 	$content = $_POST["message"];
 	logEntry("sent SMS message: ".$_POST["message"]);
-	}
+}
 
 
 //finally, mail it if there's something to mail

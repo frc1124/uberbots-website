@@ -143,32 +143,28 @@ if($_SERVER['REMOTE_ADDR']==""||isset($_GET['calendar'])){
 		$query = $db->sql_query($fSql) or die(mysql_error());
 		
 		while($row=$db->sql_fetchrow($query)){
-			$firstPostQ = $db->sql_query("SELECT * 
-FROM  `phpbb_posts` WHERE `post_id` = '".$row["topic_first_post_id"]."'");
+			$firstPostQ = $db->sql_query("SELECT * FROM  `phpbb_posts` WHERE `post_id` = '".$row["topic_first_post_id"]."'");
 			$firstPost = $db->sql_fetchrow($firstPostQ);
 			
 			$firstPost["post_text"]=substr(preg_replace("/(\[(.*?)\:(.*?)\]|<.+>)/", "",$firstPost["post_text"]),0,160)."...";
 			
 			if($auth->acl_get('f_read', $row["forum_id"])){
-			$updates.= "<a href=\"http://uberbots.org/forums/viewtopic.php?f=".$row["forum_id"]."&t=".$row["topic_id"]."\" style=\"text-decoration:none;color:black;\">
-			
-			
-			<div style=\" color:#f33; border-bottom: #f33 solid 1px; font-size: 16px;\">" . $row["topic_title"]. "</div>\n<div style=\"padding-left: 10px;\">
-			".$firstPost["post_text"]."
-			<br>
-			<small>&nbsp; &nbsp; &nbsp; -Posted by ".$row["topic_first_poster_name"]."</small></div></a>";
+				$updates.= "<a href=\"http://uberbots.org/forums/viewtopic.php?f=".$row["forum_id"]."&t=".$row["topic_id"]."\" style=\"text-decoration:none;color:black;\">
+				<div style=\" color:#f33; border-bottom: #f33 solid 1px; font-size: 16px;\">" . $row["topic_title"]. "</div>\n<div style=\"padding-left: 10px;\">
+				".$firstPost["post_text"]."
+				<br>
+				<small>&nbsp; &nbsp; &nbsp; -Posted by ".$row["topic_first_poster_name"]."</small></div></a>";
 			}
-	}}
+		}
+	}
 	$subject = "UberBots Weekly Updates: " . date("m/d/y", $timeStart) . " to " . date("m/d/y", $timeEnd);
 	if(!isset($_GET["calendar"]) && $updates != ""){
-			$mail = mail("",$subject,$updates.$footer,$list) or die("Mail sending failed<p>".$list);
+		$mail = mail("",$subject,$updates.$footer,$list) or die("Mail sending failed<p>".$list);
 		if($mail)
 			logEntry("Weekly Updates Sent");
 	}else{
 		echo $updates."<p>".str_replace(array("<",">"),array("&lt;","&gt;"),$list);
 		mail("",$subject,$updates.$footer,$list) or die("Mail sending failed<p>".$list);
 	}
-	
 }
-
 ?>
