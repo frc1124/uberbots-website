@@ -27,6 +27,7 @@ exit;
 
 for($i=0;$i<sizeOf($order);$i++){
 	mysql_query("UPDATE `modules` SET `order` = '".$i."' WHERE `instanceID` = '".$order[$i]."' AND `pageId` = '".$pageId."'")  or die(mysql_error());
-	}
+}
+
 logEntry("Resorted mods on pageId '".$pageId."'");
 ?>

@@ -33,8 +33,8 @@ else{
 			
 		function addEvent() {
 				if(!userPermissions(1,11)){
-				echo file_get_contents("http://www.uberbots.org/omni/error.php?errorCode=403");
-				return false;
+					echo file_get_contents("http://www.uberbots.org/omni/error.php?errorCode=403");
+					return false;
 				}
 				
 			//add event in SQL
@@ -151,26 +151,26 @@ else{
 					return false;
 				}
 				
-						//insert event data into SQL
-						$query = mysql_query("SELECT * FROM `uberbots_omni`.`calendar` ORDER BY `id` DESC") or die(mysql_error());
-						
-						$row = mysql_fetch_array($query)or die(mysql_error());
-						$id = $row['id']+1;
-						mysql_query("INSERT INTO `uberbots_omni`.`calendar` (`id`, `name`, `description`, `type`, `startTime`, `endTime`, `location`) VALUES ('".mysql_real_escape_string($id)."', '".mysql_real_escape_string($eventName)."', '".mysql_real_escape_string($eventDescription)."', '".mysql_real_escape_string($eventType)."', '".mysql_real_escape_string($startUnix)."', '".mysql_real_escape_string($endUnix)."', '".mysql_real_escape_string($eventLocation)."')") or die(mysql_error());
-						
-						$startTime = date("D n-j-y \a\t g:i A",$startUnix);
-						$endTime = date('D n-j-y \a\t g:i A', $endUnix);
-						
-						logEntry("Added event with title ".$eventName." starting on ".$startUnix." and ending on ".$endUnix."");
-						
-						echo "<span><a href=\"javascript:void(0);\" id=\"".$id."\" class=\"eventLink\">".$eventName."</a>
-								<div id=\"event_".$id."\" class=\"eventTip ui-corner-all\">".$eventName."<br>".$eventDescription."<br>
-								<b>Event Type:</b> ".$eventType."<br>
-								<b>Start:</b> ".$startTime."<br>
-								<b>End:</b> ".$endTime."<br>
-								<b>Location:</b> ".$eventLocation."<br>
-								</div></span>";
-										
+				//insert event data into SQL
+				$query = mysql_query("SELECT * FROM `uberbots_omni`.`calendar` ORDER BY `id` DESC") or die(mysql_error());
+				
+				$row = mysql_fetch_array($query)or die(mysql_error());
+				$id = $row['id']+1;
+				mysql_query("INSERT INTO `uberbots_omni`.`calendar` (`id`, `name`, `description`, `type`, `startTime`, `endTime`, `location`) VALUES ('".mysql_real_escape_string($id)."', '".mysql_real_escape_string($eventName)."', '".mysql_real_escape_string($eventDescription)."', '".mysql_real_escape_string($eventType)."', '".mysql_real_escape_string($startUnix)."', '".mysql_real_escape_string($endUnix)."', '".mysql_real_escape_string($eventLocation)."')") or die(mysql_error());
+				
+				$startTime = date("D n-j-y \a\t g:i A",$startUnix);
+				$endTime = date('D n-j-y \a\t g:i A', $endUnix);
+				
+				logEntry("Added event with title ".$eventName." starting on ".$startUnix." and ending on ".$endUnix."");
+				
+				echo "<span><a href=\"javascript:void(0);\" id=\"".$id."\" class=\"eventLink\">".$eventName."</a>
+					<div id=\"event_".$id."\" class=\"eventTip ui-corner-all\">".$eventName."<br>".$eventDescription."<br>
+					<b>Event Type:</b> ".$eventType."<br>
+					<b>Start:</b> ".$startTime."<br>
+					<b>End:</b> ".$endTime."<br>
+					<b>Location:</b> ".$eventLocation."<br>
+					</div></span>";
+					
 		}
 
 function editEvent(){
@@ -303,6 +303,5 @@ function editEvent(){
 		  <p><strong>Location: </strong>".$eventLocation."</p> <!-- event location -->
 		  <p><strong>Number of Mentors:</strong> ".mysql_num_rows(mysql_query("SELECT * FROM `calendarMentors` WHERE `eventId` = '".$row['id']."' AND `response` = '1'"))."</p>
 		  ";
-		 
 }
 ?>

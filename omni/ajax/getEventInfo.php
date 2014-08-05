@@ -19,8 +19,7 @@ mySQLConnect();
 $calPermissions = userPermissions(1,11);
 if($calPermissions && $_POST['getInfo'] == "true"){
 	getInfo($_POST['id']);
-}
-else{
+}else{
 	echo file_get_contents("http://www.uberbots.org/omni/error.php?errorCode=403");
 	exit;
 }
