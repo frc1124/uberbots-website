@@ -65,7 +65,7 @@ $tidy->parseString($html, $config, 'utf8');
 $tidy->cleanRepair();
 
 //testing
-echo("<div style='color:white'>");
+echo("<div style='color:white;position:fixed'>");
 echo("Debug Info");
 echo("</br>");
 echo("Group ID: ");
@@ -73,6 +73,9 @@ echo($user->data["group_id"]);
 echo("</br>");
 echo("User ID: ");
 echo($user->data["user_id"]);
+echo("</br>");
+echo("Version: ");
+echo("stable");
 echo("</div>");
 
 //output page
