@@ -151,7 +151,7 @@ else{
 				}
 				
 				//insert event data into SQL
-				$query = mysql_query("SELECT * FROM `uberbots_omni`.`calendar` ORDER BY `id` DESC") or die(mysql_error());
+				$query = mysql_query("SELECT * FROM `calendar` ORDER BY `id` DESC") or die(mysql_error());
 				
 				$row = mysql_fetch_array($query)or die(mysql_error());
 				$id = $row['id']+1;
@@ -275,7 +275,7 @@ function editEvent(){
 	}
 	
 	//check event location
-	if($eventLocation == "Enter location"){
+	if($eventType == "" || $eventLocation == "Enter location"){
 		echo "Error: You must enter an event location.";
 		return false;
 	}

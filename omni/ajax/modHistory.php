@@ -24,7 +24,7 @@ if(!userPermissions(1,$pageId))
 exit;
 
 switch($_GET['mode']){
-case "showMod":
+	case "showMod":
 		$query = mysql_query("SELECT * FROM `modules` WHERE `pageId` = '".mysql_real_escape_string($_GET['page'])."' AND `instanceId` = '".mysql_real_escape_string($_GET['instance'])."'");
 		$modId = mysql_fetch_array($query);
 		$modId = $modId["modId"];
