@@ -12,8 +12,7 @@
  * Gets infomation about a page and returns it to the control panel for page editing
  */
 
-$root_path = "/home1/uberbots/public_html/omni";
-include "$root_path/includes/common.php";
+include "../includes/common.php";
 mySQLConnect();
 
 $permissions = userPermissions(1,2);
