@@ -17,8 +17,8 @@ function drawMenu(){
 	$query = mysql_query("SELECT * FROM `pages` WHERE `parentId` = '0' AND `deleted` != '1' ORDER BY `order` ASC",$GLOBALS["mySQLLink"]);
 	//scan through query
 	while($row=mysql_fetch_array($query)){
-	//make sure user has access
-		if(userPermissions(0,$row["id"])&&$row['hide']==0){
+	//make sure user has access and the page isn't a sitemap
+		if(userPermissions(0,$row["id"])&&$row["title"]!="Sitemap"&&$row['hide']==0){
 			//draw primary menu
 			$output[0] .= parseSkin(array("id"=>$row["id"],"title"=>$row["title"],
 			"url"=>strlen($row["redirect"])>0?$row["redirect"]:("/o/".str_replace(" ","_",$row["title"]))),
