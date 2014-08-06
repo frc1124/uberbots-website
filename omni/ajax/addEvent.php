@@ -13,8 +13,7 @@
    * Version 0.1																			*
    ******************************************************************************************/
 
-$root_path = "/home1/uberbots/public_html/omni";
-include "$root_path/includes/common.php";
+include "../includes/common.php";
 
 mySQLConnect();
 
@@ -140,7 +139,7 @@ else{
 				}
 				
 				//check event location
-				if($eventLocation == "Enter location"){
+				if($eventLocation == "" || $eventLocation == "Enter location"){
 					echo "Error: You must enter an event location.";
 					return false;
 				}
@@ -156,7 +155,7 @@ else{
 				
 				$row = mysql_fetch_array($query)or die(mysql_error());
 				$id = $row['id']+1;
-				mysql_query("INSERT INTO `uberbots_omni`.`calendar` (`id`, `name`, `description`, `type`, `startTime`, `endTime`, `location`) VALUES ('".mysql_real_escape_string($id)."', '".mysql_real_escape_string($eventName)."', '".mysql_real_escape_string($eventDescription)."', '".mysql_real_escape_string($eventType)."', '".mysql_real_escape_string($startUnix)."', '".mysql_real_escape_string($endUnix)."', '".mysql_real_escape_string($eventLocation)."')") or die(mysql_error());
+				mysql_query("INSERT INTO `calendar` (`id`, `name`, `description`, `type`, `startTime`, `endTime`, `location`) VALUES ('".mysql_real_escape_string($id)."', '".mysql_real_escape_string($eventName)."', '".mysql_real_escape_string($eventDescription)."', '".mysql_real_escape_string($eventType)."', '".mysql_real_escape_string($startUnix)."', '".mysql_real_escape_string($endUnix)."', '".mysql_real_escape_string($eventLocation)."')") or die(mysql_error());
 				
 				$startTime = date("D n-j-y \a\t g:i A",$startUnix);
 				$endTime = date('D n-j-y \a\t g:i A', $endUnix);
@@ -288,7 +287,7 @@ function editEvent(){
 	}
 	
 	//update event in SQL
-	$query = mysql_query("UPDATE `uberbots_omni`.`calendar` SET `name` = '".mysql_real_escape_string($eventName)."', `description` = '".mysql_real_escape_string($eventDescription)."', `type` = '".mysql_real_escape_string($eventType)."', `startTime` = ".mysql_real_escape_string($startUnix).", `endTime` = ".mysql_real_escape_string($endUnix).", `location` = '".mysql_real_escape_string($eventLocation)."' WHERE `id` = '".mysql_real_escape_string($_POST['eventId'])."'")or die(mysql_error());	
+	$query = mysql_query("UPDATE `calendar` SET `name` = '".mysql_real_escape_string($eventName)."', `description` = '".mysql_real_escape_string($eventDescription)."', `type` = '".mysql_real_escape_string($eventType)."', `startTime` = ".mysql_real_escape_string($startUnix).", `endTime` = ".mysql_real_escape_string($endUnix).", `location` = '".mysql_real_escape_string($eventLocation)."' WHERE `id` = '".mysql_real_escape_string($_POST['eventId'])."'")or die(mysql_error());	
 	
 	$startTime = date("D n-j-y \a\t g:i A",$startUnix);
 	$endTime = date('D n-j-y \a\t g:i A', $endUnix);

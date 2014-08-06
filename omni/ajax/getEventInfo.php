@@ -12,8 +12,8 @@
  * Gets infomation about an event and returns that to calendar javascript. used in event editing
  */
 
-$root_path = "/home1/uberbots/public_html/omni";
-include "$root_path/includes/common.php";
+
+include "../includes/common.php";
 mySQLConnect();
 
 $calPermissions = userPermissions(1,11);
