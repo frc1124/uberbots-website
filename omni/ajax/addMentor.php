@@ -29,10 +29,11 @@ if($_POST['mode']=="add"){
 			$query = mysql_query("UPDATE calendarMentors SET response = '1' WHERE userId = '".mysql_real_escape_string($mentor)."' AND eventId = '".mysql_real_escape_string($eventId)."'");
 		}
 
-		if($query)
-		echo "Sucessfully added mentor ".$user->data["username_clean"]." attending this event.";
-		else
-		echo "Error adding mentor: ".$query;
+		if($query){
+			echo "Sucessfully added mentor ".$user->data["username_clean"]." attending this event.";
+		}else{
+			echo "Error adding mentor: ".$query;
+		}
 	}else{
 		echo "User is not a mentor.";
 	}
@@ -43,8 +44,9 @@ if($_POST['mode']=="rem"){
 		$eventId = mysql_real_escape_string($_POST['eventId']);
 		$mentor = mysql_real_escape_string($_POST['mentor']);
 		$query = mysql_query("UPDATE calendarMentors SET response = '0' WHERE userId = '".mysql_real_escape_string($mentor)."' AND eventId = '".mysql_real_escape_string($eventId)."'",$mySQLLink)or die(mysql_error());
-		if($query)
+		if($query){
 			echo "Sucessfully removed mentor ".$user->data["username_clean"]." attending this event.";
+		}
 	}
 }
 ?>

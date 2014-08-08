@@ -16,8 +16,9 @@
 include "../includes/common.php";
 mySQLConnect();
 
-if(!userPermissions(1,12))
-exit;
+if(!userPermissions(1,12)){
+	exit;
+}
 
 mkdir($_POST["location"]."/New Folder");
 

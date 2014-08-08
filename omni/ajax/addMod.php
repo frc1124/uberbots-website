@@ -15,11 +15,11 @@
 
 //include common
 include "../includes/common.php";
-
 mySQLConnect();
 
-if(!userPermissions(1,$_GET["pageId"]))
-exit;
+if(!userPermissions(1,$_GET["pageId"])){
+	exit;
+}
 
 //add modules
 if($_GET["mode"]=="add"){

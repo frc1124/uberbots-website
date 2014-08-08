@@ -4,18 +4,20 @@
    * Please see the license.txt file in the /omni directory for the full text               *
    * License text can also be found at: http://www.opensource.org/licenses/mit-license.php  *
    * Copyright (c) 2011 Avon Robotics                                                       *
-   ******************************************************************************************/
+   ******************************************************************************************
    
-/* /ajax/getEventInfo.php
- * version 0.1
- * Developed by Phil Lopreiato
- * Gets infomation about an event and returns that to calendar javascript. used in event editing
- */
+   *************************************************************************************************
+   * /ajax/getEventInfo.php                                                                        *
+   * version 0.1                                                                                   *
+   * Developed by Phil Lopreiato                                                                   *
+   * Gets infomation about an event and returns that to calendar javascript. used in event editing *
+   *************************************************************************************************/
 
 
 include "../includes/common.php";
 mySQLConnect();
 
+//check permissions
 $calPermissions = userPermissions(1,11);
 if($calPermissions && $_POST['getInfo'] == "true"){
 	getInfo($_POST['id']);
@@ -69,5 +71,4 @@ function getInfo($id){
 	$data .= "#eventType: other";
 	echo $data;
 }
-
 ?>

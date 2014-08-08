@@ -14,8 +14,8 @@
    ******************************************************************************************/
 
 include "../includes/common.php";
-
 mySQLConnect();
+
 if(is_numeric($_POST['year'])){
 	$year = " AND `year` = '".$_POST['year']."'";
 }elseif(isset($_GET['year'])){
@@ -23,6 +23,7 @@ if(is_numeric($_POST['year'])){
 }else{
 	$year = "";
 }
+
 //return all pictures in starting album
 $query = mysql_query("SELECT * FROM `photos` WHERE `parentId` = '".mysql_real_escape_string($_POST["parentId"])."'".($_POST["parentId"]==0?$year:"")." ORDER BY `YEAR` DESC") or die(mysql_error());
 

@@ -4,13 +4,14 @@
    * Please see the license.txt file in the /omni directory for the full text               *
    * License text can also be found at: http://www.opensource.org/licenses/mit-license.php  *
    * Copyright (c) 2011 Avon Robotics                                                       *
-   ******************************************************************************************/
+   ******************************************************************************************
 
-/* module history AJAX support
-*  version 0.1
-*  developed by Phil Lopreiato
-*  receives GET variables and returns module in edit state
-*/
+   ******************************************************************************************
+   * module history AJAX support                                                            *
+   *  version 0.1                                                                           *
+   *  developed by Phil Lopreiato                                                           *
+   *  receives GET variables and returns module in edit state                               *
+   ******************************************************************************************/
 
 //include common
 include "../includes/common.php";
@@ -20,8 +21,9 @@ mySQLConnect();
 $pageId = $_GET["pageId"];
 $instanceId = $_GET["instanceId"];
 
-if(!userPermissions(1,$pageId))
-exit;
+if(!userPermissions(1,$pageId)){
+	exit;
+}
 
 switch($_GET['mode']){
 	case "showMod":

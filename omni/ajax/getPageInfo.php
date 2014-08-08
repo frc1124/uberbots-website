@@ -4,13 +4,14 @@
    * Please see the license.txt file in the /omni directory for the full text               *
    * License text can also be found at: http://www.opensource.org/licenses/mit-license.php  *
    * Copyright (c) 2011 Avon Robotics                                                       *
+   ******************************************************************************************
+ 
+   ******************************************************************************************
+   * /ajax/getPageInfo.php                                                                  *
+   * version 0.1                                                                            *
+   * Developed by Phil Lopreiato                                                            *
+   * Gets infomation about a page and returns it to the control panel for page editing      *
    ******************************************************************************************/
-   
-/* /ajax/getPageInfo.php
- * version 0.1
- * Developed by Phil Lopreiato
- * Gets infomation about a page and returns it to the control panel for page editing
- */
 
 include "../includes/common.php";
 mySQLConnect();
