@@ -30,14 +30,14 @@ $list = 'Content-Type: text/plain; charset=UTF-8; format=flowed'."\r\n".
 'Bcc: ';
 
 $carriers = array(
-2=>"message.alltel.com",
-3=>"txt.att.net",
-4=>"myboostmobile.com",
-5=>"messaging.nextel.com",
-6=>"messaging.sprintpcs.com",
-7=>"tmomail.net",
-8=>"vtext.com",
-9=>"vmobl.com"
+	2=>"message.alltel.com",
+	3=>"txt.att.net",
+	4=>"myboostmobile.com",
+	5=>"messaging.nextel.com",
+	6=>"messaging.sprintpcs.com",
+	7=>"tmomail.net",
+	8=>"vtext.com",
+	9=>"vmobl.com"
 );
 
 //loop through each phone number
@@ -59,8 +59,9 @@ if($_SERVER['REMOTE_ADDR']==""){
 	}
 	
 	//stop here if there are no events
-	if(!isset($content))
+	if(!isset($content)){
 		exit;
+	}
 }
 
 

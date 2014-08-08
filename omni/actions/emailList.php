@@ -23,8 +23,7 @@ if(isset($_POST["add"])){
 		mysql_query("INSERT INTO `emailList` VALUES ('".mysql_real_escape_string($_POST["email"])."', '0')") or die(mysql_error());
 		echo "You are now on the mailing list. An email will be sent to the address supplied for confirmation.";
 		sendConfirmation($_POST['email']);
-	}
-	else{
+	}else{
 		echo "You are already subscribed.";
 	}
 }

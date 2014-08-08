@@ -64,8 +64,9 @@ if($group=="2"||$group=="3"){
 	
 	while($row = $db->sql_fetchrow($query)){
 		//don't duplicate
-		if(!strpos($list,$row["email"]))
+		if(!strpos($list,$row["email"])){
 			$list .= "<".$row["email"].">; ";
+		}
 	}
 }
 //append footer
@@ -160,8 +161,9 @@ if($_SERVER['REMOTE_ADDR']==""||isset($_GET['calendar'])){
 	$subject = "UberBots Weekly Updates: " . date("m/d/y", $timeStart) . " to " . date("m/d/y", $timeEnd);
 	if(!isset($_GET["calendar"]) && $updates != ""){
 		$mail = mail("",$subject,$updates.$footer,$list) or die("Mail sending failed<p>".$list);
-		if($mail)
+		if($mail){
 			logEntry("Weekly Updates Sent");
+		}
 	}else{
 		echo $updates."<p>".str_replace(array("<",">"),array("&lt;","&gt;"),$list);
 		mail("",$subject,$updates.$footer,$list) or die("Mail sending failed<p>".$list);

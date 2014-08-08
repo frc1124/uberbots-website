@@ -25,8 +25,9 @@ if(($_SERVER['REMOTE_ADDR']=="") || ((($isMan || $isAdmin) && (isset($_GET['cpan
 	$logPath = "../logs/security.txt"; //log file path
 	$newPath = "../logs/".$date.".txt"; //new file path
 
-	if(file_exists($newPath))
-	$newPath = "../logs/".$date." - ".time().".txt";
+	if(file_exists($newPath)){
+		$newPath = "../logs/".$date." - ".time().".txt";
+	}
 	//moves file with new name
 	$rename = rename($logPath, $newPath); 
 	if(!$rename){
