@@ -22,27 +22,31 @@ fclose($file);
 function userPermissions($type,$pageId=""){
 	global $user,$page;
 	//if pageId is not specified, use current one
-	if($pageId == "")
+	if($pageId == ""){
 		$pageId = $page->pageId;
+	}
 	
 	//everyone starts out without permission
 	$result = false;
 	
 	//Admin and Management groups have automatic full permission (and Evan)
-	if(($user->data["group_id"]==5)||($user->data["group_id"]==10)||($user->data["user_id"]==22698))
-	$result = true;
+	if(($user->data["group_id"]==5)||($user->data["group_id"]==10)||($user->data["user_id"]==22698)){
+		$result = true;
+	}
 	
 	//get page info
 	$query = mysql_query("SELECT * FROM `pages` WHERE `id` = '".mysql_real_escape_string($pageId)."'") or die(mysql_error());
 	$row = mysql_fetch_array($query);
 	
 	//if not private, user has read access
-	if($row["private"]=="0"&&$type==0)
-	$result = true;
+	if($row["private"]=="0"&&$type==0){
+		$result = true;
+	}
 	
 	//inherit permissions
-	if($row["inheritPermissions"]=="1"&&userPermissions($type,$row["parentId"]))
-	$result = true;
+	if($row["inheritPermissions"]=="1"&&userPermissions($type,$row["parentId"])){
+		$result = true;
+	}
 	
 	//check database for individual user permissions
 	$query = mysql_query("SELECT * FROM `pagePermissions` WHERE `pageId` = '".mysql_real_escape_string($pageId)."' AND `id` = '".$user->data["user_id"]."'");
@@ -53,7 +57,7 @@ function userPermissions($type,$pageId=""){
 		$result = true;
 		if($row["access"]==1)
 		$result = true;
-		}
+	}
 	return $result;
 }
 

@@ -101,5 +101,5 @@ function getModule($modId){
 function deleteMod($pageId,$instanceId=-1){
 	mysql_query("UPDATE `modules` SET deleted = '1' WHERE `pageId` = '".mysql_real_escape_string($pageId)."' ".($instanceId==-1?"":("AND `instanceId` = '".mysql_real_escape_string($instanceId)."'")))or die(mysql_error());
 	mysql_query("UPDATE `moduleProps` SET deleted = '1' WHERE `pageId` = '".mysql_real_escape_string($pageId)."' ".($instanceId==-1?"":("AND `instanceId` = '".mysql_real_escape_string($instanceId)."'")))or die(mysql_error());
-	}
+}
 ?>

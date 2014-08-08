@@ -75,7 +75,7 @@ echo("User ID: ");
 echo($user->data["user_id"]);
 echo("</br>");
 echo("Version: ");
-echo("stable");
+echo("testing_if-statements-change");
 echo("</div>");
 
 //output page

@@ -117,10 +117,10 @@ function restoreEdit($page,$instance,$edit){
 	}
 	$update = setVariables($pageId,$instanceId,$props);
 	if($update){
-	logEntry("Reverted mod id on page id ".$pageId." and instance id ".$instanceId." to edit state ".$editId);
-	$out .= "Sucessfully restored module";
+		logEntry("Reverted mod id on page id ".$pageId." and instance id ".$instanceId." to edit state ".$editId);
+		$out .= "Sucessfully restored module";
 	}else{
-	$out .= $update;
+		$out .= $update;
 	}
 	return $out;
 }
