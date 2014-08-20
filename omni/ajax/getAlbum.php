@@ -14,8 +14,8 @@
    ******************************************************************************************/
 
 include "../includes/common.php";
-
 mySQLConnect();
+
 if(is_numeric($_POST['year'])){
 	$year = " AND `year` = '".$_POST['year']."'";
 }elseif(isset($_GET['year'])){
@@ -23,6 +23,7 @@ if(is_numeric($_POST['year'])){
 }else{
 	$year = "";
 }
+
 //return all pictures in starting album
 $query = mysql_query("SELECT * FROM `photos` WHERE `parentId` = '".mysql_real_escape_string($_POST["parentId"])."'".($_POST["parentId"]==0?$year:"")." ORDER BY `YEAR` DESC") or die(mysql_error());
 
@@ -33,25 +34,22 @@ if($_POST["parentId"]==0){
 		$head = "";
 	}
 	echo "<h2>Photo Gallery".$head."</h2>";
-	}
-
-else{
+}else{
 	$albumRow = mysql_fetch_array(mysql_query("SELECT * FROM `photos` WHERE `photoId` = '".mysql_real_escape_string($_POST["parentId"])."'"));
 
 	echo "<a href='javascript:void(0)' onclick='showAlbum(".$albumRow["parentId"].");hideRight();' style='float:right;'>Back</a>
 	<h2>".htmlentities($albumRow["title"])."</h2>
 	".htmlentities($albumRow["year"])." - ".htmlentities($albumRow["caption"])."<p>";
-
-	}
+}
 
 while($row = mysql_fetch_array($query)){
 	if($row["type"] == "1"){
 		$thumbImage = mysql_fetch_array(mysql_query("SELECT * FROM `photos` WHERE `parentId` = '".$row["photoId"]."' AND `type` = '0'"));
 		$output.= "<div class=\"thumbnail\" onclick=\"showAlbum(".$row["photoId"].")\"><img src=\"/omni/modules/mod_gallery/imageresize.php?type=albumThumbnail&amp;src=".urlencode($thumbImage["filepath"])."\"><br>".$row["title"]." - ".$row["year"]."</div>";
-		}
-	else{
+	}else{
 		$output.= "<div class=\"thumbnail\" onclick=\"showPicture('".$row["filepath"]."','".htmlentities(addslashes($row["caption"]))."',this);\"><img src=\"/omni/modules/mod_gallery/imageresize.php?type=thumbnail&amp;src=".urlencode($row["filepath"])."\"><br>".$row["title"]."&nbsp;</div>";
-	}}
+	}
+}
 
 echo $output;
 ?>

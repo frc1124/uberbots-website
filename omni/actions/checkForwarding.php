@@ -21,11 +21,12 @@ $handle = opendir($mentor_path);
 
 while (false !== ($file = readdir($handle))) {
     if($file!="."&&$file!=".."){
-		if($fileHandler = fopen($mentor_path."/".$file,'r'))
+		if($fileHandler = fopen($mentor_path."/".$file,'r')){
 			$contents = fread($fileHandler,100000);
-		else
+		}else{
 			echo "file could not be read/opened ";
-
+		}
+		
 		fclose($fileHandler);
 
 		preg_match("%Subject: (.+)%",$contents,$subject);
@@ -35,8 +36,6 @@ while (false !== ($file = readdir($handle))) {
 		$firstLine = strpos($contents,"\n\n");
 		
 		$contents = substr($contents,$firstLine);
-		
-		//$contents = str_replace("\n  ","",$contents);		
 
 		//get emails
 		
@@ -46,7 +45,7 @@ while (false !== ($file = readdir($handle))) {
 		
 		while($row=$db->sql_fetchrow($query)){
 			$emails.=$row['user_email']."; ";
-			}
+		}
 		
 		echo $emails;
 		

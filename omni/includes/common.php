@@ -12,7 +12,7 @@
 */
 
 //root path
-$root_path = "/home1/uberbots/public_html/beta/omni";
+$root_path = "/home1/uberbots/public_html/alpha/omni";
 
 //domain
 $domain = "http://yourDomain.com";
@@ -28,7 +28,6 @@ include "$root_path/includes/modHistory.php";
 
 //initalize phpBB session
 include "phpBBsession.php";
-
 
 //set current skin or use default
 $currentSkin = isset($_GET["skin"])?$_GET["skin"]:"classic";

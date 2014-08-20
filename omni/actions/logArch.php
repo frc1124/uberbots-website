@@ -21,20 +21,21 @@ $isMan = $user->data["group_id"]==10?true:false;
 
 if(($_SERVER['REMOTE_ADDR']=="") || ((($isMan || $isAdmin) && (isset($_GET['cpanel'])) && userPermissions(0,2)))){
 
-$date = date("m-Y",mktime(0,0,0,date("m")-1,date("d"),date("Y"))); //get date stamp for last month
-$logPath = "../logs/security.txt"; //log file path
-$newPath = "../logs/".$date.".txt"; //new file path
+	$date = date("m-Y",mktime(0,0,0,date("m")-1,date("d"),date("Y"))); //get date stamp for last month
+	$logPath = "../logs/security.txt"; //log file path
+	$newPath = "../logs/".$date.".txt"; //new file path
 
-if(file_exists($newPath))
-	$newPath = "../logs/".$date." - ".time().".txt";
-
-$rename = rename($logPath, $newPath); //moves file with new name
-if(!$rename){
-	echo "Error";
-}else{
-	logEntry("Logs Archived - ".date(U));
-	header("location: http://uberbots.org/o/control_panel");
-}
+	if(file_exists($newPath)){
+		$newPath = "../logs/".$date." - ".time().".txt";
+	}
+	//moves file with new name
+	$rename = rename($logPath, $newPath); 
+	if(!$rename){
+		echo "Error";
+	}else{
+		logEntry("Logs Archived - ".date(U));
+		header("location: http://uberbots.org/o/control_panel");
+	}
 }else{
 	echo file_get_contents('http://uberbots.org/omni/error.php?errorCode=401');
 }

@@ -4,16 +4,16 @@
    * Please see the license.txt file in the /omni directory for the full text               *
    * License text can also be found at: http://www.opensource.org/licenses/mit-license.php  *
    * Copyright (c) 2011 Avon Robotics                                                       *
+   ******************************************************************************************
+ 
+   ******************************************************************************************
+   * /ajax/getPageInfo.php                                                                  *
+   * version 0.1                                                                            *
+   * Developed by Phil Lopreiato                                                            *
+   * Gets infomation about a page and returns it to the control panel for page editing      *
    ******************************************************************************************/
-   
-/* /ajax/getPageInfo.php
- * version 0.1
- * Developed by Phil Lopreiato
- * Gets infomation about a page and returns it to the control panel for page editing
- */
 
-$root_path = "/home1/uberbots/public_html/omni";
-include "$root_path/includes/common.php";
+include "../includes/common.php";
 mySQLConnect();
 
 $permissions = userPermissions(1,2);
@@ -57,5 +57,4 @@ function getPageInfo($id){
 	$data = substr($data,0,-1);
 	echo $data;
 }
-
 ?>

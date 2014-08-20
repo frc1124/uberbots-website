@@ -4,23 +4,24 @@
    * Please see the license.txt file in the /omni directory for the full text               *
    * License text can also be found at: http://www.opensource.org/licenses/mit-license.php  *
    * Copyright (c) 2011 Avon Robotics                                                       *
-   ******************************************************************************************/
+   ******************************************************************************************
    
-/* /ajax/getEventInfo.php
- * version 0.1
- * Developed by Phil Lopreiato
- * Gets infomation about an event and returns that to calendar javascript. used in event editing
- */
+   *************************************************************************************************
+   * /ajax/getEventInfo.php                                                                        *
+   * version 0.1                                                                                   *
+   * Developed by Phil Lopreiato                                                                   *
+   * Gets infomation about an event and returns that to calendar javascript. used in event editing *
+   *************************************************************************************************/
 
-$root_path = "/home1/uberbots/public_html/omni";
-include "$root_path/includes/common.php";
+
+include "../includes/common.php";
 mySQLConnect();
 
+//check permissions
 $calPermissions = userPermissions(1,11);
 if($calPermissions && $_POST['getInfo'] == "true"){
 	getInfo($_POST['id']);
-}
-else{
+}else{
 	echo file_get_contents("http://www.uberbots.org/omni/error.php?errorCode=403");
 	exit;
 }
@@ -70,5 +71,4 @@ function getInfo($id){
 	$data .= "#eventType: other";
 	echo $data;
 }
-
 ?>

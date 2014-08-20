@@ -31,6 +31,5 @@ function parseBB($text){
 	generate_text_for_storage($text, $uid, $bitfield, $options, $allow_bbcode, $allow_urls, $allow_smilies);
 	$text = generate_text_for_display($text, $uid, $bitfield, $options);
 	return $text;
-	}
-
+}
 ?>

@@ -16,13 +16,15 @@
 include "../includes/common.php";
 mySQLConnect();
 
-if(!userPermissions(1,12))
-exit;
+if(!userPermissions(1,12)){
+	exit;
+}
 
-if(is_dir($_POST["location"]))
-rmdir($_POST["location"]);
-else
-unlink($_POST["location"]);
+if(is_dir($_POST["location"])){
+	rmdir($_POST["location"]);
+}else{
+	unlink($_POST["location"]);
+}
 
 logEntry("Deleted file ".$_POST["location"]);
 ?>

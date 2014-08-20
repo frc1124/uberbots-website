@@ -8,8 +8,9 @@
 $dirHandle = opendir($root_path."/modules");
 while($row = readdir($dirHandle)){
 	if(file_exists($root_path."/modules/".$row."/mod.php")){
-	include $root_path."/modules/".$row."/mod.php";
-	}}
+		include $root_path."/modules/".$row."/mod.php";
+	}
+}
 
 //render modules of given page ID
 function renderModules($pageId){
@@ -22,7 +23,7 @@ function renderModules($pageId){
 		$output .= parseSkin(array("content"=>$module,"pageId"=>$pageId,"instanceId"=>$row["instanceId"]),"basic_module");
 		}
 	return $output;
-	}
+}
 
 //render edit state of modules
 function renderEdit($pageId,$instanceId){
@@ -32,7 +33,7 @@ function renderEdit($pageId,$instanceId){
 	$properties = getProps($pageId,$instanceId);
 	$module = getModule($row["modId"])->renderEdit($properties);
 	return $module;
-	}
+}
 	
 //get properties in array
 function getProps($pageId,$instanceId){
@@ -45,7 +46,7 @@ function getProps($pageId,$instanceId){
 	$properties["pageId"]=$pageId;
 	$properties["instanceId"]=$instanceId;
 	return $properties;
-	}
+}
 
 //return mod object from modId
 function getModule($modId){
@@ -100,5 +101,5 @@ function getModule($modId){
 function deleteMod($pageId,$instanceId=-1){
 	mysql_query("UPDATE `modules` SET deleted = '1' WHERE `pageId` = '".mysql_real_escape_string($pageId)."' ".($instanceId==-1?"":("AND `instanceId` = '".mysql_real_escape_string($instanceId)."'")))or die(mysql_error());
 	mysql_query("UPDATE `moduleProps` SET deleted = '1' WHERE `pageId` = '".mysql_real_escape_string($pageId)."' ".($instanceId==-1?"":("AND `instanceId` = '".mysql_real_escape_string($instanceId)."'")))or die(mysql_error());
-	}
+}
 ?>

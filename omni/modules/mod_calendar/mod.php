@@ -37,6 +37,9 @@ class mod_calendar {
 		//$current skin is the name of the current skin - use for skin stuff
 		global $root_path, $currentSkin;
 		
+		//connect to mySQL
+		mySQLConnect();
+		
 		//more globals
 		//$user is user related data
 		//$db is phpbb SQL stuff
@@ -264,14 +267,14 @@ class mod_calendar {
 			$endDate = $currentDate + (60*60*24*$properties['days']);
 			$list = "";
 			
-			if(mysql_num_rows(mysql_query("SELECT * FROM `uberbots_omni`.`calendar` WHERE (`startTime` >= '".$currentDate."' AND `startTime` < '".($endDate + (60*60*24))."')"))!=0){
+			if(mysql_num_rows(mysql_query("SELECT * FROM `calendar` WHERE (`startTime` >= '".$currentDate."' AND `startTime` < '".($endDate + (60*60*24))."')"))!=0){
 				
 				for($currentDate; $currentDate <= $endDate; $currentDate += (60*60*24)){
 					$day = date('j',$currentDate);
 					$month = date('n',$currentDate);
 					$year = date('Y',$currentDate);
 					$thisUnix = mktime( 0 , 0 , 0 , $month , $day , $year ); 
-					$oneDay = mysql_query("SELECT * FROM `uberbots_omni`.`calendar` WHERE (`startTime` >= '".$thisUnix."' AND `startTime` < '".($thisUnix + (60*60*24))."') OR (`endTime` >= '".$thisUnix."' AND `endTime` < '".($thisUnix + (60*60*24))."') OR (`startTime` < '".$thisUnix."' AND `endTime` >= '".($thisUnix + (60*60*24))."')");
+					$oneDay = mysql_query("SELECT * FROM `calendar` WHERE (`startTime` >= '".$thisUnix."' AND `startTime` < '".($thisUnix + (60*60*24))."') OR (`endTime` >= '".$thisUnix."' AND `endTime` < '".($thisUnix + (60*60*24))."') OR (`startTime` < '".$thisUnix."' AND `endTime` >= '".($thisUnix + (60*60*24))."')");
 					$e = FALSE;
 					if(mysql_num_rows($oneDay) > 0)
 						$list .= "<p style=\"margin-bottom:0;\"><strong>".date("l F j",$currentDate)."</strong></p>";
@@ -439,11 +442,11 @@ class mod_calendar {
 
 				$thisUnix = mktime( 0 , 0 , 0 , $month , $day , $year ); //UNIX timestamp of current day, used for events
 				//check if there's an event on day
-				/*$start = mysql_query("SELECT * FROM `uberbots_omni`.`calendar` WHERE `startTime` <= '".$thisUnix."' AND `startTime` > '".($thisUnix + (60*60*24))."'");
-				$end = mysql_query("SELECT * FROM `uberbots_omni`.`calendar` WHERE `endTime` <= '".$thisUnix."' AND `endTime` > '".($thisUnix + (60*60*24))."'");
-				$thru = mysql_query("SELECT * FROM `uberbots_omni`.`calendar` WHERE `startTime` < '".$thisUnix."' AND `endTime` > '".($thisUnix + (60*60*24))."'");
+				/*$start = mysql_query("SELECT * FROM `calendar` WHERE `startTime` <= '".$thisUnix."' AND `startTime` > '".($thisUnix + (60*60*24))."'");
+				$end = mysql_query("SELECT * FROM `calendar` WHERE `endTime` <= '".$thisUnix."' AND `endTime` > '".($thisUnix + (60*60*24))."'");
+				$thru = mysql_query("SELECT * FROM `calendar` WHERE `startTime` < '".$thisUnix."' AND `endTime` > '".($thisUnix + (60*60*24))."'");
 				*/
-				$oneDay = mysql_query("SELECT * FROM `uberbots_omni`.`calendar` WHERE (`startTime` >= '".$thisUnix."' AND `startTime` < '".($thisUnix + (60*60*24))."') OR (`endTime` >= '".$thisUnix."' AND `endTime` < '".($thisUnix + (60*60*24))."') OR (`startTime` < '".$thisUnix."' AND `endTime` >= '".($thisUnix + (60*60*24))."')");
+				$oneDay = mysql_query("SELECT * FROM `calendar` WHERE (`startTime` >= '".$thisUnix."' AND `startTime` < '".($thisUnix + (60*60*24))."') OR (`endTime` >= '".$thisUnix."' AND `endTime` < '".($thisUnix + (60*60*24))."') OR (`startTime` < '".$thisUnix."' AND `endTime` >= '".($thisUnix + (60*60*24))."')");
 				//above line finds all events that either start, end, or go through the current day
 				
 				

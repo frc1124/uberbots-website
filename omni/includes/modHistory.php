@@ -11,29 +11,35 @@
 *  developed by Matt Howard, Phil Lopreiato
 */
 
+//module history functions
+
 function setVariables($pageId, $instanceId, $variables){
 	global $user,$mySQLLink;
+	
 	$pageId = mysql_real_escape_string($pageId);
 	$instanceId = mysql_real_escape_string($instanceId);
 	//put old edit data into database
-	//$oldProps = getProps($pageId,$instanceId); //array();
 	$propQuery = mysql_query("SELECT * FROM `moduleProps` WHERE `instanceId` = '".$instanceId."' AND `pageId` = '".$pageId."'",$mySQLLink) or die(mysql_error());
 	while($propRow = mysql_fetch_array($propQuery)){
 			$oldProps[$propRow["propName"]]=$propRow["propValue"];
 	}
-	$id = mysql_fetch_array(mysql_query("SELECT * FROM editHistory ORDER BY editId DESC")); //get current highest edit ID
+	//get current highest edit ID
+	$id = mysql_fetch_array(mysql_query("SELECT * FROM editHistory ORDER BY editId DESC")); 
+	//record edits
 	$string = "INSERT INTO editHistory (editId, pageId, instanceId, time, ip, user) VALUES ('".($id['editId']+1)."','".$pageId."','".$instanceId."','".time()."','".$_SERVER['REMOTE_ADDR']."','".$user->data["username_clean"]."')";
 	mysql_query($string)or die(mysql_error()); //insert edit into editHistory table
 	
-	foreach($oldProps as $name => $value){ //for each old module property, insert a row into modulePropsHistory table with data
+	//for each old module property, insert a row into modulePropsHistory table with data
+	foreach($oldProps as $name => $value){
 		//echo "INSERT INTO modulePropsHistory (editId,propName,propValue) VALUES ('".($id['editId']+1)."','".$name."','".$value."')";
 		//if($name != "pageId" && $name != "instanceId")
 		if($name != "pageId" || $name != "instanceId"){
 			mysql_query("INSERT INTO modulePropsHistory (editId, propName, propValue) VALUES ('".($id['editId']+1)."','".mysql_real_escape_string($name)."','".mysql_real_escape_string(stripslashes($value))."')")or die(mysql_error());
 		}
 	}
-
-	foreach ($variables as $key => $value){ //for each new property (passed on through $variables array), update current mySQL record
+	
+	//for each new property (passed on through $variables array), update current mySQL record
+	foreach ($variables as $key => $value){ 
 		$exist = mysql_query("SELECT * FROM `moduleProps` WHERE `pageId` = '".$pageId."' AND `instanceId` = '".$instanceId."' AND `propName` = '".mysql_real_escape_string($key)."'")or die(mysql_error());
 		if(mysql_num_rows($exist) > 0){
 			mysql_query("UPDATE `moduleProps` SET `propValue` = '".mysql_real_escape_string($value)."' WHERE `pageId` = '".$pageId."' AND `instanceId` = '".$instanceId."' AND `propName` = '".mysql_real_escape_string($key)."'")or die(mysql_error());
@@ -49,8 +55,10 @@ function getEditHistory($pageId, $instanceId){
 	$output = "";
 	$editQuery = mysql_query("SELECT * FROM `editHistory` WHERE `pageId` = '".mysql_real_escape_string($pageId)."' AND `instanceId` = '".mysql_real_escape_string($instanceId)."' ORDER BY editId ASC")or die(mysql_error());
 	if(mysql_num_rows($editQuery)<1){
+		//no history found
 		$output .= "<p>".$pageId." - ".$instanceId."</p><p>This module has no edit history.</p>";
 	}else{
+		//render output
 		$output .= "<table style='width:100%' id='editHistory_".$pageId."_".$instanceId."' name='editHistory_".$pageId."_".$instanceId."'>";
 		$output .= "<tr id='editHistory_".$pageId."_".$instanceId."_headerRow' name='editHistory_".$pageId."_".$instanceId."_headerRow' style='text-decoration:bold;'><td>Edit Time</td><td>User</td><td>IP</td><td>Show/Hide Edit Data</td></tr>";
 		while($row = mysql_fetch_assoc($editQuery)){
@@ -73,14 +81,18 @@ function getEditInfo($page,$instance,$id){
 	$instanceId = mysql_real_escape_string($instance);
 	$editId = mysql_real_escape_string($id);
 	$output = "";
+	
 	$q = mysql_query("SELECT * FROM `modulePropsHistory` WHERE editId = '".$editId."'")or die(mysql_error());
 	$output .= "<table id='editData_".$_GET['id']."' name='editData_".$editId."' style='width:100%;'><tr style='text-decoration:bold;'><td>Property Name</td><td>Property Value</td></tr>";
+	
 	while($row = mysql_fetch_assoc($q)){
 		$output .= "<tr><td style='vertical-align:text-top;'>".$row['propName']."</td><td><div style='overflow:auto;width:100%'>".htmlentities($row['propValue'])."</div></td></tr>";
 	}
+	
 	$output .= "</table>";
 	$mod = mysql_fetch_array(mysql_query("SELECT * FROM modules WHERE pageId = '".$pageId."' AND instanceId = '".$instanceId."'"))or die(mysql_error());
 	$output .= "<button name='revertButton' id='revertButton' onclick='revertEdit(".$pageId.",".$instanceId.",".$editId.")'>".($mod['deleted']==0?"Restore Module to this State":"Undelete Module to this State")."</button>";
+	
 	return $output;
 }
 
@@ -105,13 +117,15 @@ function restoreEdit($page,$instance,$edit){
 	}
 	$update = setVariables($pageId,$instanceId,$props);
 	if($update){
-	logEntry("Reverted mod id on page id ".$pageId." and instance id ".$instanceId." to edit state ".$editId);
-	$out .= "Sucessfully restored module";
+		logEntry("Reverted mod id on page id ".$pageId." and instance id ".$instanceId." to edit state ".$editId);
+		$out .= "Sucessfully restored module";
 	}else{
-	$out .= $update;
+		$out .= $update;
 	}
 	return $out;
 }
+
+//page history functions
 
 function restorePage($page){
 	global $mySQLLink;

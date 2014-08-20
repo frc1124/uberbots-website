@@ -21,14 +21,15 @@ class url{
 		global $mySQLLink;
 		
 		//full url
-		$this->fullUrl = "http://www.beta.uberbots.org".$_SERVER['REQUEST_URI'];
+		$this->fullUrl = "http://www.alpha.uberbots.org".$_SERVER['REQUEST_URI']; //change back for beta
 
 		//everything after ".org"
 		$url = $_SERVER['REQUEST_URI'];
 
 		//bug fix: if only "/o/?sid=blah", add home
-		if(substr($url,0,4)=="/o/?")
-		$url = "/o/home?".substr($url,4);
+		if(substr($url,0,4)=="/o/?"){
+			$url = "/o/home?".substr($url,4);
+		}
 		
 		$explode = explode("/",$url);
 		
@@ -36,8 +37,9 @@ class url{
 		
 		$parentId = 0;
 		
-		if($explode[sizeof($explode)-1]=="")
-		unset($explode[sizeof($explode)-1]);
+		if($explode[sizeof($explode)-1]==""){
+			unset($explode[sizeof($explode)-1]);
+		}
 		
 		$explode[sizeof($explode)-1] = explode("?",$explode[sizeof($explode)-1]);
 		
@@ -53,7 +55,8 @@ class url{
 			
 			$parentId = $row["id"];
 			$this->title = $row["title"];
-			}
+			
+		}
 		
 		if(sizeOf($explode)==2||sizeOf($explode)==1){
 			$query = mysql_query("SELECT * FROM `pages` WHERE `deleted` = '0' AND `title` LIKE 'home'",$GLOBALS["mySQLLink"]) or die(mysql_error());
@@ -62,12 +65,14 @@ class url{
 			
 			$parentId = $row["id"];
 			$this->title = $row["title"];
-			}
+			
+		}
+		
 		//redirect
 		if(strlen($row["redirect"])>0){
 			header("location:".$row["redirect"]);
 			exit;
-			}
+		}
 
 		$this->pageId = $parentId;
 		
@@ -98,8 +103,5 @@ class url{
 		}
 		return $breadCrumbs;
 	}
-	
 }
-
-
 ?>

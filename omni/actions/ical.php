@@ -24,16 +24,17 @@ mySQLConnect();
 
 //begin ical
 echo "BEGIN:VCALENDAR\r
-METHOD:PUBLISH\r
-VERSION:2.0\r
-CALSCALE:GREGORIAN\r
-PRODID:-//Avon Robotics//OmniCore//EN\r
-X-WR-TIMEZONE:America/New_York\r
-X-WR-CALNAME:UberBots Calendar";
+	 METHOD:PUBLISH\r
+	 VERSION:2.0\r
+	 CALSCALE:GREGORIAN\r
+	 PRODID:-//Avon Robotics//OmniCore//EN\r
+	 X-WR-TIMEZONE:America/New_York\r
+	 X-WR-CALNAME:UberBots Calendar";
 $queryString = "";
 
-if($_POST['exportType'] == "all"  || $_GET['exportType'] == "all")
+if($_POST['exportType'] == "all"  || $_GET['exportType'] == "all"){
 	$queryString = "SELECT * FROM `calendar`";
+}
 
 if($_POST['exportType'] == "future" || $_GET['exportType'] == "future"){
 	$queryString = "SELECT * FROM `calendar` WHERE startTime >= ".time();
@@ -43,14 +44,15 @@ if($_POST['exportType'] == "range"){
 	$start = mktime(0,0,0,mysql_real_escape_string($_POST['sMonth']),mysql_real_escape_string($_POST['sDay']),mysql_real_escape_string($_POST['sYear']));
 	$end = mktime(0,0,0,mysql_real_escape_string($_POST['eMonth']),mysql_real_escape_string($_POST['eDay']),mysql_real_escape_string($_POST['eYear']));
 	$queryString = "SELECT * FROM `calendar` WHERE startTime >= ".$start." AND endTime <= ".$end;
-	}
+}
 
-if($_POST['exportType'] == "single")
+if($_POST['exportType'] == "single"){
 	$queryString = "SELECT * FROM `calendar` WHERE id = ".mysql_real_escape_string($_POST['eventID']);
-	
-if($_GET['type']=="single")
+}
+
+if($_GET['type']=="single"){
 	$queryString = "SELECT * FROM `calendar` WHERE id = ".mysql_real_escape_string($_GET['id']);
-	
+}
 	
 if($queryString != ""){
 	$query = mysql_query($queryString, $mySQLLink) or die(mysql_error());
@@ -70,8 +72,6 @@ if($queryString != ""){
 
 	}
 }
-	echo "\r\n";
-
-
+echo "\r\n";
 ?>
 END:VCALENDAR

@@ -13,11 +13,11 @@
    * Version 0.1																			*
    ******************************************************************************************/
  
-		include "../includes/common.php";
-		mySQLConnect();
+include "../includes/common.php";
+mySQLConnect();
  
- //get cal user permissions
- $calPermissions = userPermissions(1,11);
+//get cal user permissions
+$calPermissions = userPermissions(1,11);
  
 if($_POST['delEvent']=="true"){
 	if($calPermissions){
