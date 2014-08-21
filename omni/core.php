@@ -75,7 +75,7 @@ echo("User ID: ");
 echo($user->data["user_id"]);
 echo("</br>");
 echo("Version: ");
-echo("html_cleanup");
+echo("css/js_cleanup");
 echo("</div>");
 
 //output page
