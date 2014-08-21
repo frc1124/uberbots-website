@@ -2,28 +2,40 @@
 <script type="text/javascript">
 	$(document).ready(function(){
 		$("#form1").validate({
-				rules:{
-					picture:"required",
-					title:"required",
-					content:"required",
-					importance:{required:true,range:[0,100]}
-				}
-				});});
+			rules:{
+				picture:"required",
+				title:"required",
+				content:"required",
+				importance:{required:true,range:[0,100]}
+			}
+		});
+	});
 </script>
-<H1 style="margin-bottom:10px;">[[IF INEDIT]]Edit[[END IF]] [[IF NOT INEDIT]]Create[[END IF]] a news article</H1>
+<h1 style="margin-bottom:10px;">[[IF INEDIT]]Edit[[END IF]] [[IF NOT INEDIT]]Create[[END IF]] a news article</h1>
 <form method="post" id="form1">
-<label style="display:inline-block;width:125px;" for="titleBox">Title:</label><input type="text" name="title" id="titleBox" [[IF INEDIT]]value="{{title}}"[[END IF]]/><p>
-<label style="display:inline-block;width:125px;" for="pictureBox">Picture:</label><input type="text" name="picture" id="pictureBox" [[IF INEDIT]]value="{{photo}}"[[END IF]]/><br />
-Above, insert the URL of a picture on the internet. You may copy a url from the Photo Gallery.<p>
-<label style="display:inline-block;width:125px;" for="captionBox">Caption:</label><input type="text" name="caption" id="captionBox" [[IF INEDIT]]value="{{caption}}"[[END IF]]/><p>
-<label style="display:inline-block;width:250px;" for="contentBox">Content: (plain text/html)</label><br />
-<textarea type="text" name="content" id="contentBox" style="width:100%;height:250px;">[[IF INEDIT]]{{content}}[[END IF]]</textarea>
-<p>
-<label style="display:inline-block;width:125px;" for="importanceBox">Importance:</label><input type="text" name="importance" id="importanceBox" [[IF INEDIT]]value="{{importance}}"[[END IF]]/><p>
-On a scale from 1-100, how important is the article. This helps in calculating how the articles are shown. For reference:<br>
-100-Winning a regional<br>
-75-Kickoff<br>
-40-Demo<p>
-[[IF INEDIT]]<input type="hidden" value="{{id}}" name="id" />[[END IF]]
-<input type="submit" name="add">
+	<label style="display:inline-block;width:125px;" for="titleBox">Title:</label>
+	<input type="text" name="title" id="titleBox" [[IF INEDIT]]value="{{title}}"[[END IF]]/>
+	<p>
+	<label style="display:inline-block;width:125px;" for="pictureBox">Picture:</label>
+	<input type="text" name="picture" id="pictureBox" [[IF INEDIT]]value="{{photo}}"[[END IF]]/>
+	<br/>
+	Above, insert the URL of a picture on the internet. You may copy a url from the Photo Gallery.
+	<p>
+	<label style="display:inline-block;width:125px;" for="captionBox">Caption:</label>
+	<input type="text" name="caption" id="captionBox" [[IF INEDIT]]value="{{caption}}"[[END IF]]/>
+	<p>
+	<label style="display:inline-block;width:250px;" for="contentBox">Content: (plain text/html)</label>
+	<br/>
+	<textarea type="text" name="content" id="contentBox" style="width:100%;height:250px;">[[IF INEDIT]]{{content}}[[END IF]]</textarea>
+	<p>
+	<label style="display:inline-block;width:125px;" for="importanceBox">Importance:</label>
+	<input type="text" name="importance" id="importanceBox" [[IF INEDIT]]value="{{importance}}"[[END IF]]/>
+	<p>
+	On a scale from 1-100, how important is the article. This helps in calculating how the articles are shown. For reference:
+	<br>
+	100-Winning a regional<br>
+	75-Kickoff<br>
+	40-Demo<p>
+	[[IF INEDIT]]<input type="hidden" value="{{id}}" name="id" />[[END IF]]
+	<input type="submit" name="add">
 </form>

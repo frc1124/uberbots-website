@@ -1,30 +1,35 @@
+<!-- Video library -->
 <script type="text/javascript">
-function playerReady(object) {
-	player = document.getElementById(object.id);
-	player.sendEvent('LOAD','{{skinRoot}}/images/videoPreview.png');
-	player.sendEvent('PLAY');
-	loadVideo('{{view}}');
-}
-function loadVideo(file){
-	if(file!=''){
-		document.getElementById("mpl").sendEvent("load","/omni/modules/mod_video/playlist.php?id="+file);
+	function playerReady(object) {
+		player = document.getElementById(object.id);
+		player.sendEvent('LOAD','{{skinRoot}}/images/videoPreview.png');
+		player.sendEvent('PLAY');
+		loadVideo('{{view}}');
+	}
+	
+	function loadVideo(file){
+		if(file!=''){
+			document.getElementById("mpl").sendEvent("load","/omni/modules/mod_video/playlist.php?id="+file);
 		}
 	}
-$(document).ready(function(){
-  so = new SWFObject('/omni/modules/mod_video/player.swf','mpl','596','335','9');
-  so.addParam('allowfullscreen','true');
-  so.addParam('allowscriptaccess','always');
-  so.addParam('wmode','opaque');
-  so.addVariable('backcolor','FFFF00');
-  so.addVariable('frontcolor','CC0000');
-  so.addVariable('controlbar','over');
-  so.addVariable('autostart','true');
-  so.addVariable('plugins','captions-1');
-  so.addVariable('captions.state','false');
-  so.write('mediaspace');
-});
+	
+	$(document).ready(function(){
+	  so = new SWFObject('/omni/modules/mod_video/player.swf','mpl','596','335','9');
+	  so.addParam('allowfullscreen','true');
+	  so.addParam('allowscriptaccess','always');
+	  so.addParam('wmode','opaque');
+	  so.addVariable('backcolor','FFFF00');
+	  so.addVariable('frontcolor','CC0000');
+	  so.addVariable('controlbar','over');
+	  so.addVariable('autostart','true');
+	  so.addVariable('plugins','captions-1');
+	  so.addVariable('captions.state','false');
+	  so.write('mediaspace');
+	});
 </script>
+
 <script type='text/javascript' src='/omni/modules/mod_video/swfobject.js'></script>
+
 <h1>Videos</h1>
 <div id="mediaspace"></div>
 <h1>Video Library</h1>

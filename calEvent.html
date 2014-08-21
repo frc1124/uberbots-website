@@ -1,0 +1,21 @@
+<!-- Event information -->
+<div style="display:inline;"><a href="http://uberbots.org/o/calendar?viewEvent&amp;eventId={{eventId}}" id="[[IF list]]list_item_[[END IF]]{{eventId}}[[IF multiple]]_{{suffix}}[[END IF]]" onclick="[[IF EDITABLE]]getData({{eventId}});[[END IF]]return false;" class="eventLink"> <!-- define div of event info -->
+[[IF minutes]] <!-- if there are meeting minutes, show minute icon -->
+<img height="12" src="/omni/skins/classic/images/minutes-small.png" alt="There are meeting minutes!">[[END IF]]{{eventName}}</a> <!-- Show event name -->
+<div id="[[IF list]]list_[[END IF]]event_{{eventId}}[[IF multiple]]_{{suffix}}[[END IF]]" class="eventTip ui-corner-all" style="display:none;">
+<div class="eventInfo">
+<p>{{eventName}}</p> <!-- popup of event info, start with event name -->
+<p>{{eventDescription}}</p> <!-- event description -->
+<p><strong>Event Type: </strong>{{eventType}}</p> <!-- event type -->
+<p><strong>Start: </strong>{{startTime}}</p> <!-- event start time -->
+<p><strong>End: </strong>{{endTime}}</p> <!-- event end time -->
+<p><strong>Location: </strong>{{eventLocation}}</p> <!-- event location -->
+[[IF loggedIn]]
+<p><strong>Number of Mentors:</strong> {{mentors}}</p>
+[[END IF]]<!-- mentor attendance info (number of mentors attending and link to mentor page) -->
+<ul>{{minutes}}</ul> <!-- meeting minutes stuff -->
+[[IF EDITABLE]]<a href="http://uberbots.org/forums/posting.php?mode=post&amp;f=58&amp;calendarEvent={{eventId}}&amp;subject={{minuteURL}} Minutes">+ Add Meeting Minutes</a><br/>[[END IF]] <!-- if admin, give link to add minutes -->
+<a href="http://uberbots.org/o/calendar?viewEvent&amp;eventId={{eventId}}">View Event</a>
+</div>
+</div></div>
+<!-- End event infomation -->

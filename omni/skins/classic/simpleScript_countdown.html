@@ -1,46 +1,55 @@
 <!-- Simple Script Countdown Timer Skin -->
 
 <script type='text/javascript'>
-var target=new Date({{year}},({{month}} - 1),{{day}},{{hour}},{{min}},0,0);
-function dateSet(){
-	this.days=0;
-	this.hours=0;
-	this.mins=0;
-	this.secs=0;
-}
-function update(){
-	var now=new Date();
-	var u=new dateSet();
-	var d=(target.getTime()-now.getTime())/1000;
-	if(d>0){
-		u.days=Math.floor(d/86400);
-		d-=(u.days*86400);
-		u.hours=Math.floor(d/3600);
-		d-=(u.hours*3600);
-		u.mins=Math.floor(d/60);
-		d-=(u.mins*60);
-		u.secs=Math.floor(d)
-	}else{
-		u.days = (0);
-		u.hours = (0);
-		u.mins = (0);
-		u.secs = (0);
+	var target=new Date({{year}},({{month}} - 1),{{day}},{{hour}},{{min}},0,0);
+	
+	function dateSet(){
+		this.days=0;
+		this.hours=0;
+		this.mins=0;
+		this.secs=0;
 	}
-	$("#days").html((u.days));
-	$("#hours").html(u.hours);
-	$("#mins").html(u.mins);
-	$("#secs").html(u.secs);
-	setTimeout(update,1000);
-}
-window.onload=update;
-//document.attachEvent("DOMContentLoaded",update);
+	
+	function update(){
+		var now=new Date();
+		var u=new dateSet();
+		var d=(target.getTime()-now.getTime())/1000;
+		if(d>0){
+			u.days=Math.floor(d/86400);
+			d-=(u.days*86400);
+			u.hours=Math.floor(d/3600);
+			d-=(u.hours*3600);
+			u.mins=Math.floor(d/60);
+			d-=(u.mins*60);
+			u.secs=Math.floor(d)
+		}else{
+			u.days = (0);
+			u.hours = (0);
+			u.mins = (0);
+			u.secs = (0);
+		}
+		$("#days").html((u.days));
+		$("#hours").html(u.hours);
+		$("#mins").html(u.mins);
+		$("#secs").html(u.secs);
+		setTimeout(update,1000);
+	}
+	window.onload=update;
+	//document.attachEvent("DOMContentLoaded",update);
+</script>
 
-	</script>
-	<h1>{{countTo}}</h1>
-	<table style="text-align:center;width:100%;boarder:0;">
+<h1>{{countTo}}</h1>
+<table style="text-align:center;width:100%;boarder:0;">
 	<tr style="font-size:200%;color:#f00;">
-	<td style="width:25%;" id="days"></td>
-	<td style="width:25%;" id="hours"></td>
-	<td style="width:25%;" id="mins"></td>
-	<td style="width:25%;" id="secs"></td>
-	</tr><tr><td>Days</td><td>Hours</td><td>Minutes</td><td>Seconds</td></tr></table>
+		<td style="width:25%;" id="days"></td>
+		<td style="width:25%;" id="hours"></td>
+		<td style="width:25%;" id="mins"></td>
+		<td style="width:25%;" id="secs"></td>
+	</tr>
+	<tr>
+		<td>Days</td>
+		<td>Hours</td>
+		<td>Minutes</td>
+		<td>Seconds</td>
+	</tr>
+</table>

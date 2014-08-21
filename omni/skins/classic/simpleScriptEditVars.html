@@ -1,4 +1,5 @@
-<!--<script type="text/javascript">
+<!--
+<script type="text/javascript">
 $(document).ready(function(){
 	$('#varSubmit').click(function(){
 		var props = [];
@@ -11,11 +12,12 @@ $(document).ready(function(){
 		saveMod({{pageId}},{{instanceId}},props);
 	});
 });
-</script> -->
+</script> 
+-->
 
 <h2>Edit Variables For Script</h2>
 <form id='varForm' name='varForm' method="" action="">
-<input type="hidden" name="type" id="type" value="{{scriptType}}" />
-{{vars}}
+	<input type="hidden" name="type" id="type" value="{{scriptType}}" />
+	{{vars}}
 </form>
 <button type="button" id="varSubmit" onclick="saveMod({{pageId}},{{instanceId}},{{map}})">Save</button>
