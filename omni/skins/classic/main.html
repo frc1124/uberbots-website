@@ -70,9 +70,9 @@
 						<a href="http://www.uberbots.org/forums/ucp.php?mode=login" onClick="toggleLoginBox&#40;&#41;;return false;">Login</a>
 						<div id="loginBox" class="navFloat ui-corner-bottom" style="display:none;">
 							<form action="http://www.uberbots.org/forums/ucp.php?mode=login&amp;sid={{sessionId}}" method="post">
-								<span class="label"><label for="usernameBox">Username:</label></span><input id="usernameBox" style="width:94px;" name="username" type="text"><p>
-								<span class="label"><label for="passwordBox">Password:</label></span><input id="passwordBox" style="width:94px;" name="password" type="password"><p>
-								<span class="label"><label for="autologin">Remember? </label></span><input type="checkbox" name="autologin" id="autologin"><p>
+								<span class="label"><label for="usernameBox">Username:</label></span><input id="usernameBox" style="width:94px;" name="username" type="text"><br>
+								<span class="label"><label for="passwordBox">Password:</label></span><input id="passwordBox" style="width:94px;" name="password" type="password"><br>
+								<span class="label"><label for="autologin">Remember? </label></span><input type="checkbox" name="autologin" id="autologin"><br>
 								<input type="hidden" name="redirect" value="{{currentPage}}">
 								<input type="hidden" name="sid" value="{{sessionId}}">
 								<input type="submit" value="Login" name="login">
@@ -90,9 +90,9 @@
 						<a href="#" onClick="toggleEditBox&#40;&#41;;">Edit</a>
 						<div id="editBox" class="navFloat ui-corner-bottom" style="width:175px;">
 							<label for="rearrangeBox">Rearrange </label><input type="checkbox" id="rearrangeBox"><p>
-							<button title="click here and then click a module to edit it" onClick="selectEdit&#40;&#41;;">Edit Module</button><p>
-							<button title="click here and then click a module to view its edit history" onClick="selectHistory&#40;&#41;;">Module History</button><p>
-							<button title="click here and then click a module to delete it" onClick="selectDel&#40;&#41;;">Delete Module</button><p>
+							<button title="click here and then click a module to edit it" onClick="selectEdit&#40;&#41;;">Edit Module</button><br>
+							<button title="click here and then click a module to view its edit history" onClick="selectHistory&#40;&#41;;">Module History</button><br>
+							<button title="click here and then click a module to delete it" onClick="selectDel&#40;&#41;;">Delete Module</button><br>
 							<button title="click here and drag and drop a module into the column you want it it" id="listModulesButton" onClick="listModules&#40;&#41;;">Add module +</button>
 							<div id="modList"></div>
 						</div>
