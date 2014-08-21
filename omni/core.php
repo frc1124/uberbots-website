@@ -64,9 +64,9 @@ $tidy = new tidy;
 $tidy->parseString($html, $config, 'utf8');
 $tidy->cleanRepair();
 
-//testing
-echo("<div style='color:grey;position:fixed;background-color:rgba(0,0,0,0.8);z-index:99999;border:black;border-radius:2px;border-style:solid'>");
-echo("Debug Info");
+//testing/debbugging
+echo("<div title='This can be modified in core.php' style='margin-left:4px;margin-top:4px;color:grey;position:fixed;background-color:rgba(0,0,0,0.8);z-index:99999;border:black;border-radius:2px;border-style:solid'>");
+echo("<strong>Debug Info</strong>");
 echo("</br>");
 echo("Group ID: ");
 echo($user->data["group_id"]);
@@ -75,7 +75,7 @@ echo("User ID: ");
 echo($user->data["user_id"]);
 echo("</br>");
 echo("Version: ");
-echo("beta_stable_v2 (done cleaning)");
+echo("beta_stable_cleaned");
 echo("</div>");
 
 //output page
