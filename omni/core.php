@@ -29,7 +29,7 @@ if($page->error404 || !userPermissions(0)){
 	header("HTTP/1.0 404 Not Found");
 	echo file_get_contents("http://www.uberbots.org/omni/error.php?errorCode=404");
 	exit;
-	}
+}
 
 //create menu
 $menu = drawMenu();
@@ -75,7 +75,7 @@ echo("User ID: ");
 echo($user->data["user_id"]);
 echo("</br>");
 echo("Version: ");
-echo("css/js_cleanup");
+echo("beta_stable_v2 (done cleaning)");
 echo("</div>");
 
 //output page
