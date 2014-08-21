@@ -1,5 +1,11 @@
-[[IF EDITABLE]]<li>[[END IF]]
-<div class="module" id="mod_{{pageId}}_{{instanceId}}">
-{{content}}
-</div>
-[[IF EDITABLE]]</li>[[END IF]]
+<!-- Basic module -->
+
+[[IF EDITABLE]]
+<li>
+	[[END IF]]
+	<div class="module" id="mod_{{pageId}}_{{instanceId}}">
+		{{content}}
+	</div>
+	[[IF EDITABLE]]
+</li>
+[[END IF]]

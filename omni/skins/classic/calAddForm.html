@@ -1,68 +1,89 @@
 <!-- Calendar Add Event Form -->
+
 <a href='javascript:void(0)' onclick='$("#eventForm").toggle()' id='eventFormToggle'>Event Manager</a> <!-- Link to toggle form -->
 <form id="eventForm" name="eventForm" style="display:none;">
-<fieldset>
-<input type="radio" name="formType" value="Add" id="formTypeAdd" onchange="$('#formHead').html($(this).val()+' An Event');$('#submitButton').val($(this).val()+' Event')" checked /> Add an Event <br/>
-<input type="radio" name="formType" value="Edit" id="formTypeEdit" onchange="$('#formHead').html($(this).val()+' An Event');$('#submitButton').val($(this).val()+' Event')"/>Edit an Event<br/>
-<!--$('#formHead').html($(this).val()+' An Event');$('#submitButton').val($(this).val()+' Event')-->
-</fieldset>
-<fieldset> <!-- define form -->
-			<h3 id="formHead" name="formHead">Add Event</h3>
-			<p>Click on a day to select it.<br>
-			All fields are required.</p>
-			<br/>
-			<p>
-			<!--Event name text box-->
-			<label for="eventName" style="width:150px;display:inline-block;">Event Name:</label><input type="text" name="eventName" id="eventName"></p>
-			
-			<!--Event Description-->
-			<p><label for="eventDescription" style="width:150px;display:inline-block;">Event Description: </label><textarea name="eventDescription" id="eventDescription" style="width:153px;height:20px;display:inline-block;"></textarea>
+	<fieldset>
+		<input type="radio" name="formType" value="Add" id="formTypeAdd" onchange="$('#formHead').html($(this).val()+' An Event');$('#submitButton').val($(this).val()+' Event')" checked /> Add an Event <br/>
+		<input type="radio" name="formType" value="Edit" id="formTypeEdit" onchange="$('#formHead').html($(this).val()+' An Event');$('#submitButton').val($(this).val()+' Event')"/>Edit an Event<br/>
+		<!--$('#formHead').html($(this).val()+' An Event');$('#submitButton').val($(this).val()+' Event')-->
+	</fieldset>
+	<fieldset> 
+		<!-- define form -->
+		<h3 id="formHead" name="formHead">Add Event</h3>
+		<p>
+			Click on a day to select it.
+			<br>
+			All fields are required.
+		</p>
+		<br/>
+		<!--Event name text box-->
+		<p>
+			<label for="eventName" style="width:150px;display:inline-block;">Event Name:</label>
+			<input type="text" name="eventName" id="eventName">
+		</p>
+		<!--Event Description-->
+		<p>
+			<label for="eventDescription" style="width:150px;display:inline-block;">Event Description: </label>
+			<textarea name="eventDescription" id="eventDescription" style="width:153px;height:20px;display:inline-block;"></textarea>
 			<!--<input type="text" name="eventDescription" id="eventDescription">-->
-			</p>
-			
-			<!--Event type select-->
-			<p>
-			<label for="eventType" style="width:150px;display:inline-block;">Event Type:</label><select name="eventType" id="eventType" style="min-width:150px;" onchange="if(this.value=='other')document.getElementById('typeBox').style.display=''; else document.getElementById('typeBox').style.display='none';">
-			<option value=""></option>
-			<option value="Meeting">Meeting</option>
-			<option value="Competition">Competition</option>
-			<option value="Fundraiser">Fundraiser</option>
-			<option value="Demo">Demo</option>
-			<option value="other">Other Event</option>
-			</select> <input id="typeBox" name="typeBox" type="text" style="display:none" value="Enter Event Type">
-			</p>
-
-			<!--Event Location Select-->
-			<p>
-			<label for="eventLocation" style="width:150px;display:inline-block;">Event Location:</label><select name="locationSelect" id="locationSelect" onchange="if(this.value=='other')document.getElementById('locationBox').style.display=''; else document.getElementById('locationBox').style.display='none';">
-			<option value="Avon High School">Avon High School</option>
-			<option value="OFS Practice Space">OFS Practice Space</option>
-			<option value="other">Other</option>
-			</select> <label for="locationBox"></label><input name="locationBox" id="locationBox" type="text" style="display:none" value="Enter location"/>
-			</p>
-
-
-			<!--Event Date-->
-			<br>
-			<div id="startDate">
-			<label for="startDate" style="width:150px;display:inline-block;">Start Date:</label><input type="text" style="width:50px;" name="startMonth" id="startMonth" class = "addMonth" value="MM" onfocus="if(this.value=='MM')this.value=''"> <input type="text" style="width:50px;" name="startDay" id="startDay" class="addDay" value="DD" onfocus="if(this.value=='DD')this.value=''"> <input type="text" style="width:100px;" name="startYear" id="startYear" value="YYYY" onfocus="if(this.value=='YYYY')this.value=''"></div> <div id="endDate"><label for="endMonth" style="width:150px; display:inline-block;">End Date: </label><input type="text" style="width:50px;" name="endMonth" id="endMonth" class="addMonth" value="MM" onfocus="if(this.value=='MM')this.value=''"> <input type="text" style="width:50px;" name="endDay" id="endDay" class="addDay" value="DD" onfocus="if(this.value=='DD')this.value=''"> <input type="text" style="width:100px;" name="endYear" id="endYear" value="YYYY" onfocus="if(this.value=='YYYY')this.value=''"></div>
-			<br>
-
-			<!--Event Times-->
-			<p>
-			<label for="startTime" style="width:150px;display:inline-block;">Start Time:</label><input type="text" style="width:50px;" class="calHour" name="startHour" id="startHour"> : 
-			<input type="text" style="width:50px;" name="startMin" id="startMin" class="calMin"> <input type="checkbox" name="startPM" id="startPM" value="1" class="calPM"> PM<br/>
-			<label for="endHour" style="width:150px;display:inline-block;">End Time: </label><input type="text" style="width:50px;" name="endHour" id="endHour" class="calHour"> : 
-			<input type="text" style="width:50px;" name="endMin" id="endMin" class="calMin"> <input type="checkbox" name="endPM" id="endPM" value="1" class="calPM"> PM
-			</p> 
-			<p>
+		</p>
+		<!--Event type select-->
+		<p>
+			<label for="eventType" style="width:150px;display:inline-block;">Event Type:</label>
+			<select name="eventType" id="eventType" style="min-width:150px;" onchange="if(this.value=='other')document.getElementById('typeBox').style.display=''; else document.getElementById('typeBox').style.display='none';">
+				<option value=""></option>
+				<option value="Meeting">Meeting</option>
+				<option value="Competition">Competition</option>
+				<option value="Fundraiser">Fundraiser</option>
+				<option value="Demo">Demo</option>
+				<option value="other">Other Event</option>
+			</select>
+			<input id="typeBox" name="typeBox" type="text" style="display:none" value="Enter Event Type">
+		</p>
+		<!--Event Location Select-->
+		<p>
+			<label for="eventLocation" style="width:150px;display:inline-block;">Event Location:</label>
+			<select name="locationSelect" id="locationSelect" onchange="if(this.value=='other')document.getElementById('locationBox').style.display=''; else document.getElementById('locationBox').style.display='none';">
+				<option value="Avon High School">Avon High School</option>
+				<option value="OFS Practice Space">OFS Practice Space</option>
+				<option value="other">Other</option>
+			</select>
+			<label for="locationBox"></label><input name="locationBox" id="locationBox" type="text" style="display:none" value="Enter location"/>
+		</p>
+		<!--Event Date-->
+		<br>
+		<div id="startDate">
+			<label for="startDate" style="width:150px;display:inline-block;">Start Date:</label>
+			<input type="text" style="width:50px;" name="startMonth" id="startMonth" class = "addMonth" value="MM" onfocus="if(this.value=='MM')this.value=''">
+			<input type="text" style="width:50px;" name="startDay" id="startDay" class="addDay" value="DD" onfocus="if(this.value=='DD')this.value=''">
+			<input type="text" style="width:100px;" name="startYear" id="startYear" value="YYYY" onfocus="if(this.value=='YYYY')this.value=''">
+		</div>
+		<div id="endDate">
+			<label for="endMonth" style="width:150px; display:inline-block;">End Date: </label>
+			<input type="text" style="width:50px;" name="endMonth" id="endMonth" class="addMonth" value="MM" onfocus="if(this.value=='MM')this.value=''">
+			<input type="text" style="width:50px;" name="endDay" id="endDay" class="addDay" value="DD" onfocus="if(this.value=='DD')this.value=''">
+			<input type="text" style="width:100px;" name="endYear" id="endYear" value="YYYY" onfocus="if(this.value=='YYYY')this.value=''">
+		</div>
+		<br>
+		<!--Event Times-->
+		<p>
+			<label for="startTime" style="width:150px;display:inline-block;">Start Time:</label>
+			<input type="text" style="width:50px;" class="calHour" name="startHour" id="startHour"> : 
+			<input type="text" style="width:50px;" name="startMin" id="startMin" class="calMin">
+			<input type="checkbox" name="startPM" id="startPM" value="1" class="calPM"> PM<br/>
+			<label for="endHour" style="width:150px;display:inline-block;">End Time: </label>
+			<input type="text" style="width:50px;" name="endHour" id="endHour" class="calHour"> : 
+			<input type="text" style="width:50px;" name="endMin" id="endMin" class="calMin">
+			<input type="checkbox" name="endPM" id="endPM" value="1" class="calPM"> PM
+		</p> 
+		<p>
 			<input type="hidden" name="type" value="addEvent">
 			<input type="hidden" name="modType" value="{{modType}}" id="modType">
 			<input type="hidden" name="addEvent" id="addEvent" value="true">
 			<input type="hidden" name="days_in_this_month" id="days_in_this_month" value="{{daysInMonth}}">
             <input type="hidden" name="eventId" id="eventId" />
 			<input type="submit" name="submitButton" id="submitButton" value="Add Event">
-
-			</p>
-			</fieldset>
-			<!--<input type="button" value="Add Event" name="addEventButton" id="addEventButton" onclick="addEvent()">--></form>
+		</p>
+	</fieldset>
+	<!--<input type="button" value="Add Event" name="addEventButton" id="addEventButton" onclick="addEvent()">-->
+</form>

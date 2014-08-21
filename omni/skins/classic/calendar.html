@@ -1,11 +1,9 @@
 <!-- CSS and Styling -->
 <style type="text/css" scoped>
-<!--
-  @import url(http://uberbots.org/omni/skins/{{currentSkin}}/css/cal.css);
--->
+<!-- @import url(http://uberbots.org/omni/skins/{{currentSkin}}/css/cal.css);-->
 </style>
 
- <!-- javascript-->
+<!-- javascript-->
 	<script type="text/javascript" src="http://uberbots.org/omni/skins/classic/scripts/calScript.js"></script>
 <!-- end javascript-->
 [[IF ADMIN]] <!-- Administrative Javascript-->
@@ -13,6 +11,7 @@
     <script type="text/javascript" src="http://uberbots.org/omni/skins/classic/scripts/jquery-validator.js"></script>
     <script type="text/javascript">
 	//jquery form validator, not working yet, still server side validation
+	//I believe this is validated on server side
 			$('#eventForm').validate({
 				rules:{
 					eventName: {required:true},
@@ -57,12 +56,12 @@
 [[IF fullCal]] <!-- If full calendar, add table to change months-->
 	<!-- Full Month Calendar Header -->
 <h1>{{monthName}} {{year}}</h1> <!-- Title - month name and year -->
-	<table id="monthChange" style="width:100%"> <!-- table for changing months -->
+<table id="monthChange" style="width:100%"> <!-- table for changing months -->
 	<tr>
-	<td style="text-align:left;width:50%;"><a href="?date={{lastMonth}}" >Last Month</a></td> <!-- last month, align left -->
-	<td style="text-align:right;width:50%;"><a href="?date={{nextMonth}}" >Next Month</a></td> <!-- next month, align right -->
+		<td style="text-align:left;width:50%;"><a href="?date={{lastMonth}}" >Last Month</a></td> <!-- last month, align left -->
+		<td style="text-align:right;width:50%;"><a href="?date={{nextMonth}}" >Next Month</a></td> <!-- next month, align right -->
 	</tr>
-	</table>
+</table>
 <!-- End full month cal header -->
 [[END IF]]
 
@@ -76,22 +75,40 @@
 <!-- End headers -->
 
 <!-- Output calendar -->
-<table id="calendar" class='calendar'> <!-- Define table for calendar -->
+	<table id="calendar" class='calendar'> <!-- Define table for calendar -->
 <!-- Table header row (days of week) -->
-<tr class='headerRow' id="headerRow"><td>Sunday</td><td>Monday</td><td>Tuesday</td><td>Wednesday</td><td>Thursday</td><td>Friday</td><td>Saturday</td></tr> <!-- End header row -->
+	<tr class='headerRow' id="headerRow">
+		<td>Sunday</td>
+		<td>Monday</td>
+		<td>Tuesday</td>
+		<td>Wednesday</td>
+		<td>Thursday</td>
+		<td>Friday</td>
+		<td>Saturday</td>
+	</tr> <!-- End header row -->
 
 {{calendar}} <!-- Replaced by actual calendar -->
 
-</table><br/> <!-- End calendar table -->
+</table>
+<!-- End calendar table -->
+<br/> 
 [[IF fullCal]] <!-- If full calendar, show information -->
+
 <p>
-Mouse over an event to see details about it. <img src="http://uberbots.org/omni/skins/classic/images/minutes-small.png" alt="Meeting minutes indicator"/> indicates that there are meeting minutes for that event. </p>
+	Mouse over an event to see details about it. 
+	<img src="http://uberbots.org/omni/skins/classic/images/minutes-small.png" alt="Meeting minutes indicator"/> 
+	indicates that there are meeting minutes for that event. 
+</p>
 
 {{icalForm}}
-<br/><br/>
+
+<br/>
+<br/>
+
 [[END IF]]
 <!--If admin, display calendar help and Add evnet form-->
 [[IF ADMIN]]
+
 <p>To delete an event, double click on it. To add or edit an event, click on "Event Manager" below, select "Add Event" or "Edit Event" and click on the day/event you wish to add an event on/edit and then complete the form appropriately.</p>
 
 {{addForm}}
