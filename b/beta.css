@@ -9,7 +9,7 @@ h1{
 	font-weight: 400;
 }
 
-p{
+h3, p, li{
 	font-weight: 300;
 }
 
@@ -19,7 +19,7 @@ a, a:visited{
 }
 
 a:hover{
-	color: #DADADA;
+	color: #85ADFF;
 	text-decoration: underline;
 }
 
@@ -27,4 +27,38 @@ img{
 	display: block;
 	margin-left: auto;
     margin-right: auto;
+}
+
+#in_progress{
+	display:block;
+	margin-left: auto;
+    margin-right: auto;
+	width: 600px;
+	padding-left: 10px;
+	padding-right: 20px;
+	border: #FFFF66 2px dashed;
+}
+
+#todo{
+	display:block;
+	margin-left: auto;
+    margin-right: auto;
+	width: 600px;
+	padding-left: 10px;
+	padding-right: 20px;
+	border: #FF3333 2px dashed;
+}
+
+#done{
+	display:block;
+	margin-left: auto;
+    margin-right: auto;
+	width: 600px;
+	padding-left: 10px;
+	padding-right: 20px;
+	border: #4475C9 2px dashed;
+}
+
+li{
+	text-align: left;
 }

@@ -12,7 +12,7 @@
 */
 
 //root path
-$root_path = "/home1/uberbots/public_html/alpha/omni";
+$root_path = "/home1/uberbots/public_html/beta/omni";
 
 //domain
 $domain = "http://yourDomain.com";

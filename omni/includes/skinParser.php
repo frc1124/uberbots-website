@@ -19,17 +19,21 @@ function parseSkin($fields,$loc,$cases = array()){
 	$skinPath = mysql_fetch_array(mysql_query("SELECT `path`,`id` FROM `skins` WHERE `name` = '".mysql_real_escape_string($currentSkin)."'"));
 	
 	if(file_exists($root_path."/skins/".$currentSkin."/".$loc.".html")){
-		$source = file_get_contents($root_path."/skins/".$skinPath['path']."/".$loc.".html");
+		$source = file_get_contents($root_path."/skins/".$skinPath['path']."/".$loc.".html"); // the file that is being read
 	}else{
 		$source = getGhost($skinPath['id'],$loc);
 	}
 	
-	//parse IFs
+	//parse IF tag statments
 	$cases["EDITABLE"]=$editable;
 	$cases["LOGGEDIN"]=($user->data["user_id"]!=ANONYMOUS);
 	$cases["MOBILE_SKIN"] = $currentSkin == "mobile";
 	
 	foreach($cases as $case=>$bool){
+		/*	the following are regular expressions that select everything in between and including [[IF $specific_if_case_goes_here]]
+			to the end if equivalent. the "$1" selects the content in between the two tags. these are applied to $source, being the HTML
+			file that is being read. the "" on the other hand, selects nothing, resulting in the if statement functionality.
+		*/
 		if($bool==true&&$bool!="0"){
 			$source = preg_replace("%\[\[IF $case\]\]"."([^\[\[]+)"."\[\[END IF\]\]%s","$1",$source);
 			$source = preg_replace("%\[\[IF NOT $case\]\]"."([^\[\[]+)"."\[\[END IF\]\]%s","",$source);
@@ -38,6 +42,7 @@ function parseSkin($fields,$loc,$cases = array()){
 			$source = preg_replace("%\[\[IF NOT $case\]\]"."([^\[\[]+)"."\[\[END IF\]\]%s","$1",$source);
 		}
 	}
+	
 	//replace fields
 	$search = array("{{skinRoot}}","{{currentSkin}}");
 	$replace = array("/omni/skins/".$currentSkin,$currentSkin);

@@ -21,7 +21,7 @@ class url{
 		global $mySQLLink;
 		
 		//full url
-		$this->fullUrl = "http://www.alpha.uberbots.org".$_SERVER['REQUEST_URI']; //change back for beta
+		$this->fullUrl = "http://www.beta.uberbots.org".$_SERVER['REQUEST_URI']; //change back for beta
 
 		//everything after ".org"
 		$url = $_SERVER['REQUEST_URI'];
